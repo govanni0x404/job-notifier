@@ -15,9 +15,6 @@ function normalize(str) {
 }
 
 function getStableKey(job) {
-  // job_id de JSearch puede cambiar entre requests (trae datos de sesión
-  // codificados). job_apply_link es estable, así que se usa como clave.
-  if (job.job_apply_link) return job.job_apply_link;
 
   // Fallback por si algún día no viene el link: título + empresa normalizados.
   const title = normalize(job.job_title);
