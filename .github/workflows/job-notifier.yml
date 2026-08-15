@@ -1,0 +1,43 @@
+name: Job Notifier
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-notifier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Ejecutar job-notifier
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NOTIFY_EMAIL_FROM: ${{ secrets.NOTIFY_EMAIL_FROM }}
+          NOTIFY_EMAIL_TO: ${{ secrets.NOTIFY_EMAIL_TO }}
+          JOB_SEARCH_QUERY: ${{ secrets.JOB_SEARCH_QUERY }}
+          JOB_SEARCH_COUNTRY: ${{ secrets.JOB_SEARCH_COUNTRY }}
+          MATCH_THRESHOLD: ${{ secrets.MATCH_THRESHOLD }}
+        run: node index.js
+
+      - name: Guardar seen_jobs.json actualizado
+        run: |
+          git config user.name "job-notifier-bot"
+          git config user.email "actions@github.com"
+          git add data/seen_jobs.json
+          git diff --staged --quiet || git commit -m "chore: actualizar ofertas notificadas [skip ci]"
+          git push
