@@ -268,5 +268,59 @@
     "company": "SII Group Chile",
     "score": 70,
     "notified_at": "2026-08-15T02:24:33.715Z"
+  },
+  "gft technologies se::desarrollador senior full stack": {
+    "title": "Desarrollador Senior Full Stack",
+    "company": "GFT Technologies SE",
+    "score": 70,
+    "notified_at": "2026-08-15T13:34:36.430Z"
+  },
+  "randstad chile::full stack developer / java + spring boot": {
+    "title": "Full stack developer / Java + Spring Boot",
+    "company": "Randstad Chile",
+    "score": 35,
+    "notified_at": "2026-08-15T13:34:36.430Z"
+  },
+  "kibernum s.a.::desarrollador full stack .net / node.js / angular": {
+    "title": "Desarrollador Full Stack .NET / Node.js / Angular",
+    "company": "KIBERNUM S.A.",
+    "score": 75,
+    "notified_at": "2026-08-15T13:34:40.027Z"
+  },
+  "2brains::front-end developer angular / ia": {
+    "title": "Front-end Developer Angular / IA",
+    "company": "2BRAINS",
+    "score": 20,
+    "notified_at": "2026-08-15T13:34:43.565Z"
+  },
+  "mundo::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "Mundo",
+    "score": 30,
+    "notified_at": "2026-08-15T13:35:01.428Z"
+  },
+  "manpower chile::desarrollador software - backend/integracion": {
+    "title": "Desarrollador software - backend/integración",
+    "company": "Manpower Chile",
+    "score": 45,
+    "notified_at": "2026-08-15T13:35:01.428Z"
+  },
+  "confidencial::programador (sistemas de seguridad).": {
+    "title": "Programador (Sistemas de Seguridad).",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-08-15T13:35:07.735Z"
+  },
+  "getronics::programador/a": {
+    "title": "Programador/a",
+    "company": "Getronics",
+    "score": 25,
+    "notified_at": "2026-08-15T13:35:07.735Z"
+  },
+  "abenis::programador senior": {
+    "title": "Programador Senior",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-08-15T13:35:07.736Z"
   }
 }
