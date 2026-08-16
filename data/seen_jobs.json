@@ -322,5 +322,113 @@
     "company": "Abenis",
     "score": 15,
     "notified_at": "2026-08-15T13:35:07.736Z"
+  },
+  "holding grupo firma::oportunidad laboral: analista / ingeniero desarrollador fullstack (junior)": {
+    "title": "Oportunidad Laboral: Analista / Ingeniero Desarrollador Fullstack (Junior)",
+    "company": "Holding Grupo Firma",
+    "score": 60,
+    "notified_at": "2026-08-16T13:35:45.723Z"
+  },
+  "e- shopping express s.a::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "E- SHOPPING EXPRESS S.A",
+    "score": 70,
+    "notified_at": "2026-08-16T13:35:45.724Z"
+  },
+  "grupo t.s.a logistica y transporte::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Grupo T.S.A Logística y Transporte",
+    "score": 40,
+    "notified_at": "2026-08-16T13:35:45.725Z"
+  },
+  "bc tecnologia::desarrollador full-stack java j2ee": {
+    "title": "Desarrollador Full-Stack Java J2EE",
+    "company": "BC Tecnología",
+    "score": 15,
+    "notified_at": "2026-08-16T13:35:45.725Z"
+  },
+  "kibernum s.a.::fullstack senior node.js + angular – gcp": {
+    "title": "Fullstack Senior Node.js + Angular – GCP",
+    "company": "KIBERNUM S.A.",
+    "score": 80,
+    "notified_at": "2026-08-16T13:35:51.820Z"
+  },
+  "tsoft::desarrollador/a javascript / node.js ssr": {
+    "title": "Desarrollador/a JavaScript / Node.js SSR",
+    "company": "Tsoft",
+    "score": 100,
+    "notified_at": "2026-08-16T13:35:51.821Z"
+  },
+  "de lei interim::backend node.js engineer — apis, microservices & architecture": {
+    "title": "Backend Node.js Engineer — APIs, Microservices & Architecture",
+    "company": "De Lei Interim",
+    "score": 55,
+    "notified_at": "2026-08-16T13:35:51.821Z"
+  },
+  "avos tech | chile::analista de datos junior — proyecto 3 meses": {
+    "title": "Analista de Datos Junior — Proyecto 3 Meses",
+    "company": "AVOS Tech | Chile",
+    "score": 0,
+    "notified_at": "2026-08-16T13:35:57.288Z"
+  },
+  "bc tecnologia::analista/programador angular": {
+    "title": "Analista/Programador Angular",
+    "company": "BC Tecnología",
+    "score": 15,
+    "notified_at": "2026-08-16T13:35:57.289Z"
+  },
+  "procesia::analista/programador j2ee": {
+    "title": "Analista/Programador J2EE",
+    "company": "Procesia",
+    "score": 20,
+    "notified_at": "2026-08-16T13:35:57.290Z"
+  },
+  "softgroup servicios computacionales limitada.::analista programador": {
+    "title": "Analista Programador",
+    "company": "SoftGroup Servicios Computacionales limitada.",
+    "score": 20,
+    "notified_at": "2026-08-16T13:35:57.290Z"
+  },
+  "pinto y asociados ltda.::desarrollador web junior: software, soporte y mejora": {
+    "title": "Desarrollador Web Junior: Software, Soporte y Mejora",
+    "company": "Pinto y Asociados Ltda.",
+    "score": 15,
+    "notified_at": "2026-08-16T13:36:03.941Z"
+  },
+  "conkord::developer python": {
+    "title": "Developer Python",
+    "company": "CONKORD",
+    "score": 25,
+    "notified_at": "2026-08-16T13:36:03.941Z"
+  },
+  "bc tecnologia::desarrollador/a de software": {
+    "title": "Desarrollador/a de Software",
+    "company": "BC Tecnología",
+    "score": 40,
+    "notified_at": "2026-08-16T13:36:03.942Z"
+  },
+  "coderslab::desarrollador(a) fullstack senior go": {
+    "title": "Desarrollador(a) Fullstack Senior GO",
+    "company": "CodersLab",
+    "score": 70,
+    "notified_at": "2026-08-16T13:36:03.943Z"
+  },
+  "randstad::desarrollador php": {
+    "title": "Desarrollador php",
+    "company": "Randstad",
+    "score": 30,
+    "notified_at": "2026-08-16T13:36:09.701Z"
+  },
+  "eurofirms chile::informatico programador / santiago, rm.": {
+    "title": "Informático  Programador / Santiago, RM.",
+    "company": "Eurofirms Chile",
+    "score": 40,
+    "notified_at": "2026-08-16T13:36:09.702Z"
+  },
+  "smu s.a.::desarrollador(a) fullstack sr - presencial, las condes": {
+    "title": "Desarrollador(a) Fullstack SR - Presencial, Las Condes",
+    "company": "SMU S.A.",
+    "score": 20,
+    "notified_at": "2026-08-16T13:36:09.703Z"
   }
 }
