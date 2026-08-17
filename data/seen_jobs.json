@@ -430,5 +430,77 @@
     "company": "SMU S.A.",
     "score": 20,
     "notified_at": "2026-08-16T13:36:09.703Z"
+  },
+  "chile finance advisors s.a.::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Chile Finance Advisors S.A.",
+    "score": 50,
+    "notified_at": "2026-08-17T13:43:04.777Z"
+  },
+  "compania minera san geronimo::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Compania Minera San Geronimo",
+    "score": 50,
+    "notified_at": "2026-08-17T13:43:04.778Z"
+  },
+  "copec s.a.::desarrollador/a full stack senior": {
+    "title": "Desarrollador/a Full Stack Senior",
+    "company": "COPEC S.A.",
+    "score": 100,
+    "notified_at": "2026-08-17T13:43:04.779Z"
+  },
+  "ticmoai::desarrollador full stack / java": {
+    "title": "Desarrollador Full Stack / Java",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-08-17T13:43:04.780Z"
+  },
+  "mitsui auto finance chile limitada::full-stack developer": {
+    "title": "Full-Stack Developer",
+    "company": "MITSUI AUTO FINANCE CHILE LIMITADA",
+    "score": 20,
+    "notified_at": "2026-08-17T13:43:04.781Z"
+  },
+  "sii group chile::senior node.js": {
+    "title": "Senior Node.js",
+    "company": "SII Group Chile",
+    "score": 40,
+    "notified_at": "2026-08-17T13:43:11.163Z"
+  },
+  "consistor chile::desarrollador backend (node js)- teletrabajo": {
+    "title": "Desarrollador Backend (Node JS)- Teletrabajo",
+    "company": "Consistor Chile",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:11.164Z"
+  },
+  "bc tecnologia::full stack node.js/angular — remoto": {
+    "title": "Full Stack Node.js/Angular — Remoto",
+    "company": "BC Tecnologia",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:11.165Z"
+  },
+  "atmira::analyst & developer temenos": {
+    "title": "Analyst & Developer Temenos",
+    "company": "atmira",
+    "score": 15,
+    "notified_at": "2026-08-17T13:43:15.765Z"
+  },
+  "dcs chile::desarrollador sr fullstack": {
+    "title": "Desarrollador SR Fullstack",
+    "company": "DCS Chile",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:15.766Z"
+  },
+  "banco de chile::desarrollador avanzado": {
+    "title": "Desarrollador Avanzado",
+    "company": "Banco de Chile",
+    "score": 65,
+    "notified_at": "2026-08-17T13:43:25.129Z"
+  },
+  "global security service::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Global Security Service",
+    "score": 40,
+    "notified_at": "2026-08-17T13:43:34.849Z"
   }
 }
