@@ -502,5 +502,101 @@
     "company": "Global Security Service",
     "score": 40,
     "notified_at": "2026-08-17T13:43:34.849Z"
+  },
+  "altia::desarrollador(a) (fullstack/front/back)": {
+    "title": "Desarrollador(a) (fullstack/Front/back)",
+    "company": "Altia",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:28.908Z"
+  },
+  "sonda::desarrollador fullstack senior .net - base de datos": {
+    "title": "Desarrollador Fullstack Senior .NET - Base de datos",
+    "company": "SONDA",
+    "score": 35,
+    "notified_at": "2026-08-18T13:47:28.910Z"
+  },
+  "siigsa::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "SIIGSA",
+    "score": 40,
+    "notified_at": "2026-08-18T13:47:28.910Z"
+  },
+  "apside::healthtech full-stack developer: angular, nestjs & oracle": {
+    "title": "HealthTech Full-Stack Developer: Angular, NestJS & Oracle",
+    "company": "Apside",
+    "score": 50,
+    "notified_at": "2026-08-18T13:47:28.913Z"
+  },
+  "acelerex::remote full-stack engineer — energy analytics": {
+    "title": "Remote Full-Stack Engineer — Energy Analytics",
+    "company": "Acelerex",
+    "score": 40,
+    "notified_at": "2026-08-18T13:47:28.913Z"
+  },
+  "manpower chile::desarrollador full stack - remoto chile": {
+    "title": "Desarrollador Full Stack - Remoto Chile",
+    "company": "Manpower Chile",
+    "score": 25,
+    "notified_at": "2026-08-18T13:47:28.914Z"
+  },
+  "atcom chile::desarrollador web fullstack react + node.js | modalidad hibrida": {
+    "title": "Desarrollador Web Fullstack React + Node.js | Modalidad Híbrida",
+    "company": "ATCOM Chile",
+    "score": 85,
+    "notified_at": "2026-08-18T13:47:35.511Z"
+  },
+  "sms sudamerica::analista programador full stack": {
+    "title": "Analista Programador Full Stack",
+    "company": "Sms Sudamerica",
+    "score": 25,
+    "notified_at": "2026-08-18T13:47:42.449Z"
+  },
+  "comercial portia::analista de redes junior - recoleta region metropolitana": {
+    "title": "Analista de Redes Junior - Recoleta Región Metropolitana",
+    "company": "Comercial Portia",
+    "score": 0,
+    "notified_at": "2026-08-18T13:47:42.450Z"
+  },
+  "tata consultancy services::analista/desarrollador sql/murex (contrato indefinido)": {
+    "title": "Analista/desarrollador SQL/Murex (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-18T13:47:42.451Z"
+  },
+  "tcit::senior full-stack react y node.js full time": {
+    "title": "Senior Full-Stack React y Node.js Full time",
+    "company": "TCIT",
+    "score": 60,
+    "notified_at": "2026-08-18T13:47:48.009Z"
+  },
+  "consistor chile::desarrollador salesforce 2 anos de experiencia (hibrido)": {
+    "title": "Desarrollador Salesforce 2 años de experiencia (híbrido)",
+    "company": "Consistor Chile",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:48.011Z"
+  },
+  "btg pactual chile::desarrollador junior: innovacion en software con aws": {
+    "title": "Desarrollador Júnior: Innovación en Software con AWS",
+    "company": "BTG Pactual Chile",
+    "score": 55,
+    "notified_at": "2026-08-18T13:47:48.011Z"
+  },
+  "kolossus asesorias spa::analista programador": {
+    "title": "Analista Programador",
+    "company": "Kolossus Asesorias SpA",
+    "score": 55,
+    "notified_at": "2026-08-18T13:47:52.470Z"
+  },
+  "cfi group inversiones::programadores nuevo sistema app - web": {
+    "title": "Programadores Nuevo Sistema App - Web",
+    "company": "CFI Group Inversiones",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:52.471Z"
+  },
+  "grupo barrientos::programador con experiencia": {
+    "title": "Programador con Experiencia",
+    "company": "Grupo Barrientos",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:52.471Z"
   }
 }
