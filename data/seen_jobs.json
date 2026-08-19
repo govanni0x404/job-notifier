@@ -598,5 +598,83 @@
     "company": "Grupo Barrientos",
     "score": 15,
     "notified_at": "2026-08-18T13:47:52.471Z"
+  },
+  "ld constructora::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "LD Constructora",
+    "score": 50,
+    "notified_at": "2026-08-19T13:49:09.798Z"
+  },
+  "via central comunicaciones::senior full stack developer / technical solutions engineer": {
+    "title": "Senior Full Stack Developer / Technical Solutions Engineer",
+    "company": "Vía Central Comunicaciones",
+    "score": 95,
+    "notified_at": "2026-08-19T13:49:09.799Z"
+  },
+  "bairesdev::senior full-stack engineer (react, node.js, typescript) - remote work | ref#301454": {
+    "title": "Senior Full-Stack Engineer (React, Node.js, TypeScript) - Remote Work | REF#301454",
+    "company": "BairesDev",
+    "score": 50,
+    "notified_at": "2026-08-19T13:49:09.801Z"
+  },
+  "impotec::desarrollador full-stack (html, css, php, mysql)": {
+    "title": "Desarrollador Full-Stack (HTML, CSS, PHP, MYSQL)",
+    "company": "IMPOTEC",
+    "score": 60,
+    "notified_at": "2026-08-19T13:49:09.802Z"
+  },
+  "bc tecnologia::desarrollador(a) full-stack java/react": {
+    "title": "Desarrollador(a) Full-Stack Java/React",
+    "company": "BC Tecnología",
+    "score": 100,
+    "notified_at": "2026-08-19T13:49:09.803Z"
+  },
+  "gtrack.io::backend node.js": {
+    "title": "Backend Node.js",
+    "company": "Gtrack.io",
+    "score": 85,
+    "notified_at": "2026-08-19T13:49:16.054Z"
+  },
+  "sii group chile::senior node.js & typescript backend engineer": {
+    "title": "Senior Node.js & TypeScript Backend Engineer",
+    "company": "SII Group Chile",
+    "score": 55,
+    "notified_at": "2026-08-19T13:49:16.089Z"
+  },
+  "atcom::analista programador (c#) – sistemas contables y remuneraciones - providencia": {
+    "title": "Analista Programador (C#) – Sistemas Contables y Remuneraciones - Providencia",
+    "company": "ATCOM",
+    "score": 35,
+    "notified_at": "2026-08-19T13:49:22.134Z"
+  },
+  "policomp s.a.::desarrollador senior full stack": {
+    "title": "Desarrollador Senior Full Stack",
+    "company": "Policomp S.A.",
+    "score": 40,
+    "notified_at": "2026-08-19T13:49:22.146Z"
+  },
+  "avos tech::analista programador, analista de datos junior": {
+    "title": "Analista programador, analista de datos Junior",
+    "company": "Avos Tech",
+    "score": 15,
+    "notified_at": "2026-08-19T13:49:22.148Z"
+  },
+  "sonda::desarrollador de software fullstack - ia generativa": {
+    "title": "Desarrollador de Software Fullstack - IA Generativa",
+    "company": "SONDA",
+    "score": 35,
+    "notified_at": "2026-08-19T13:49:32.946Z"
+  },
+  "sigma::ingeniero(a) de desarrollo de software": {
+    "title": "Ingeniero(a) de Desarrollo de Software",
+    "company": "SIGMA",
+    "score": 60,
+    "notified_at": "2026-08-19T13:49:32.947Z"
+  },
+  "getronics::programador/a murex datamart": {
+    "title": "Programador/a Murex Datamart",
+    "company": "Getronics",
+    "score": 20,
+    "notified_at": "2026-08-19T13:49:41.580Z"
   }
 }
