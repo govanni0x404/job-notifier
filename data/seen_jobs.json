@@ -676,5 +676,107 @@
     "company": "Getronics",
     "score": 20,
     "notified_at": "2026-08-19T13:49:41.580Z"
+  },
+  "siigsa::desarrollador full stack .net": {
+    "title": "Desarrollador Full Stack .Net",
+    "company": "SIIGSA",
+    "score": 40,
+    "notified_at": "2026-08-20T13:50:49.064Z"
+  },
+  "agtec servicios informaticos::developer full stack / ia generativa / go / python / next.js - copilot said: go, python, next.js, apis rest, ia generativa, desarrollo full stack": {
+    "title": "Developer Full Stack / IA Generativa / Go / Python / Next.js - Copilot said:  Go, Python, Next.js, APIs REST, IA Generativa, Desarrollo Full Stack",
+    "company": "AGtec Servicios Informáticos",
+    "score": 45,
+    "notified_at": "2026-08-20T13:50:49.066Z"
+  },
+  "fullstack::full stack developer (elixir/phoenix + ruby on rails) - remote - latin america": {
+    "title": "Full Stack Developer (Elixir/Phoenix + Ruby on Rails) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 80,
+    "notified_at": "2026-08-20T13:50:49.069Z"
+  },
+  "emergya chile::desarrollador full stack senior para salud y microservicios": {
+    "title": "Desarrollador Full Stack Senior para Salud y Microservicios",
+    "company": "Emergya Chile",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:49.069Z"
+  },
+  "puelche hc::desarrollador full stack | impacto en negocio | presencial": {
+    "title": "Desarrollador Full Stack | Impacto en Negocio | Presencial",
+    "company": "Puelche HC",
+    "score": 15,
+    "notified_at": "2026-08-20T13:50:49.070Z"
+  },
+  "nico seguros::desarrollador/a full-stack senior": {
+    "title": "Desarrollador/a Full-Stack Senior",
+    "company": "NICO Seguros",
+    "score": 65,
+    "notified_at": "2026-08-20T13:50:49.071Z"
+  },
+  "kpaz::backend developer aws | python / node.js": {
+    "title": "Backend Developer AWS | Python / Node.js",
+    "company": "KPaz",
+    "score": 90,
+    "notified_at": "2026-08-20T13:50:54.874Z"
+  },
+  "bairesdev::senior flutter & node.js engineer - remote work | ref#301439": {
+    "title": "Senior Flutter & Node.js Engineer - Remote Work | REF#301439",
+    "company": "BairesDev",
+    "score": 40,
+    "notified_at": "2026-08-20T13:50:54.876Z"
+  },
+  "bc tecnologia::senior full-stack engineer: node.js": {
+    "title": "Senior Full-Stack Engineer: Node.js",
+    "company": "BC Tecnología",
+    "score": 30,
+    "notified_at": "2026-08-20T13:50:54.878Z"
+  },
+  "plexus tech::node.js developer": {
+    "title": "Node.js  Developer",
+    "company": "Plexus Tech",
+    "score": 100,
+    "notified_at": "2026-08-20T13:50:54.879Z"
+  },
+  "global tuning .::analista programador - experiencia en desarrollo": {
+    "title": "Analista programador - Experiencia en desarrollo",
+    "company": "Global Tuning .",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:59.085Z"
+  },
+  "getronics::analista programador/a oracle osb (oracle service bus)": {
+    "title": "Analista Programador/a Oracle OSB (Oracle Service Bus)",
+    "company": "Getronics",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:59.086Z"
+  },
+  "kpaz::desarrollador rpg": {
+    "title": "Desarrollador RPG",
+    "company": "KPaz",
+    "score": 15,
+    "notified_at": "2026-08-20T13:51:03.260Z"
+  },
+  "vilzo consultoria::desarrollador/a de software full stack – vi region": {
+    "title": "Desarrollador/a de Software Full Stack – VI Región",
+    "company": "Vilzo Consultoría",
+    "score": 20,
+    "notified_at": "2026-08-20T13:51:03.261Z"
+  },
+  "h&l auditores consultores::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "H&L Auditores Consultores",
+    "score": 40,
+    "notified_at": "2026-08-20T13:51:03.262Z"
+  },
+  "getdata (cl)::desarrollador de pl/sql": {
+    "title": "Desarrollador de PL/SQL",
+    "company": "Getdata (CL)",
+    "score": 25,
+    "notified_at": "2026-08-20T13:51:03.263Z"
+  },
+  "sonda::desarrollador de software — innovacion y aprendizaje": {
+    "title": "Desarrollador de Software — Innovación y Aprendizaje",
+    "company": "SONDA",
+    "score": 15,
+    "notified_at": "2026-08-20T13:51:03.264Z"
   }
 }
