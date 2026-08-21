@@ -778,5 +778,107 @@
     "company": "SONDA",
     "score": 15,
     "notified_at": "2026-08-20T13:51:03.264Z"
+  },
+  "athenaworks::mid-senior full-stack engineer (java or python + react, typescript, aws)": {
+    "title": "Mid-Senior Full-Stack Engineer (Java OR Python + React, TypeScript, AWS)",
+    "company": "Athenaworks",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:13.776Z"
+  },
+  "agtec servicios informaticos::developer full stack / ia generativa / go / python / next.js": {
+    "title": "Developer Full Stack / IA Generativa / Go / Python / Next.js",
+    "company": "AGtec Servicios Informáticos",
+    "score": 45,
+    "notified_at": "2026-08-21T13:50:13.777Z"
+  },
+  "todotelecomunicaciones::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "TodoTelecomunicaciones",
+    "score": 40,
+    "notified_at": "2026-08-21T13:50:13.780Z"
+  },
+  "tcit::senior full-stack react y node.js": {
+    "title": "Senior Full-Stack React y Node.js",
+    "company": "TCIT",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:18.493Z"
+  },
+  "finder hr & finder it uniendo personas::desarrollador backend node.js: apis, oracle y seguridad": {
+    "title": "Desarrollador Backend Node.js: APIs, Oracle y Seguridad",
+    "company": "Finder HR & Finder IT Uniendo Personas",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:18.493Z"
+  },
+  "bc tecnologia::senior full-stack node.js/gcp": {
+    "title": "Senior Full-Stack Node.js/GCP",
+    "company": "BC Tecnología",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:18.495Z"
+  },
+  "consistor chile::desarrollador backend (node.js y next.js)": {
+    "title": "Desarrollador Backend (Node.JS y next.js)",
+    "company": "Consistor Chile",
+    "score": 70,
+    "notified_at": "2026-08-21T13:50:18.496Z"
+  },
+  "confidencial::ingeniero de desarrollo informatico": {
+    "title": "Ingeniero de Desarrollo informático",
+    "company": "Confidencial",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:22.743Z"
+  },
+  "kpaz::desarrollador cobol": {
+    "title": "Desarrollador COBOL",
+    "company": "KPaz",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:22.746Z"
+  },
+  "agap2 espana::analista programador fullstack (angular y.net)": {
+    "title": "Analista Programador Fullstack (Angular y.Net)",
+    "company": "agap2 España",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:22.747Z"
+  },
+  "empresa de servicios tecnologicos::analista de sistemas y desarrollo junior — soluciones y soporte": {
+    "title": "Analista de Sistemas y Desarrollo Junior — Soluciones y Soporte",
+    "company": "Empresa de servicios tecnológicos",
+    "score": 5,
+    "notified_at": "2026-08-21T13:50:22.749Z"
+  },
+  "stefanini group::fullstack developer - go y python - hibrido": {
+    "title": "Fullstack Developer - Go y Python - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:26.035Z"
+  },
+  "tsoft::desarrollador/a de software senior (node.js + cloud + ia)": {
+    "title": "Desarrollador/a de Software Senior (Node.js + Cloud + IA)",
+    "company": "Tsoft",
+    "score": 50,
+    "notified_at": "2026-08-21T13:50:26.039Z"
+  },
+  "ada 4 solutions & head hunting::lider tecnico iam o desarrollador senior full stack (proyecto 4 meses)": {
+    "title": "Líder Técnico IAM o Desarrollador Senior Full Stack (Proyecto 4 meses)",
+    "company": "ADA 4 Solutions & Head Hunting",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:26.040Z"
+  },
+  "assendo servicios tecnologicos spa::back end developer": {
+    "title": "Back End Developer",
+    "company": "Assendo Servicios Tecnológicos SPA",
+    "score": 20,
+    "notified_at": "2026-08-21T13:50:26.041Z"
+  },
+  "ntt data emeal::desarrollador/a fullstack python": {
+    "title": "Desarrollador/a FullStack Python",
+    "company": "NTT DATA EMEAL",
+    "score": 40,
+    "notified_at": "2026-08-21T13:50:26.042Z"
+  },
+  "grupo sms chile spa::desarrollador .net - proyecto 3 meses": {
+    "title": "Desarrollador .net - Proyecto 3 meses",
+    "company": "GRUPO SMS CHILE SPA",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:30.879Z"
   }
 }
