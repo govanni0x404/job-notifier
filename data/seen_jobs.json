@@ -880,5 +880,119 @@
     "company": "GRUPO SMS CHILE SPA",
     "score": 15,
     "notified_at": "2026-08-21T13:50:30.879Z"
+  },
+  "layner::desarrollador(a) full stack": {
+    "title": "Desarrollador(a) Full Stack",
+    "company": "Layner",
+    "score": 100,
+    "notified_at": "2026-08-22T13:35:54.329Z"
+  },
+  "tapsa s.a.::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Tapsa S.A.",
+    "score": 50,
+    "notified_at": "2026-08-22T13:35:54.330Z"
+  },
+  "ventas atc::¡estamos buscando full stack developer – ecommerce!": {
+    "title": "¡Estamos buscando Full Stack Developer – eCommerce!",
+    "company": "Ventas ATC",
+    "score": 30,
+    "notified_at": "2026-08-22T13:35:54.332Z"
+  },
+  "centro medico bulnes::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Centro Médico Bulnes",
+    "score": 50,
+    "notified_at": "2026-08-22T13:35:54.333Z"
+  },
+  "gft technologies latam::desarrollador fullstack java react hibrido santiago de chile": {
+    "title": "Desarrollador Fullstack Java React Híbrido Santiago de Chile",
+    "company": "GFT Technologies LATAM",
+    "score": 65,
+    "notified_at": "2026-08-22T13:35:54.334Z"
+  },
+  "deloitte::full stack developers": {
+    "title": "Full Stack Developers",
+    "company": "Deloitte",
+    "score": 65,
+    "notified_at": "2026-08-22T13:35:54.335Z"
+  },
+  "join ready::desarrollador de software semi senior– node.js & typescript": {
+    "title": "Desarrollador de Software Semi senior– Node.js & TypeScript",
+    "company": "Join ready",
+    "score": 55,
+    "notified_at": "2026-08-22T13:35:59.158Z"
+  },
+  "sii group chile::programador cobol": {
+    "title": "Programador COBOL",
+    "company": "SII Group Chile",
+    "score": 15,
+    "notified_at": "2026-08-22T13:36:03.273Z"
+  },
+  "tata consultancy services::analista programador cobol batch (contrato indefinido)": {
+    "title": "Analista Programador Cobol Batch (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-22T13:36:03.274Z"
+  },
+  "atcom::analista programador": {
+    "title": "Analista Programador",
+    "company": "Atcom",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:03.275Z"
+  },
+  "experis chile::analista de soporte para ti": {
+    "title": "Analista de soporte para TI",
+    "company": "Experis Chile",
+    "score": 0,
+    "notified_at": "2026-08-22T13:36:03.276Z"
+  },
+  "xinerlink - unidad mineria::analista programador /qa - quilicura": {
+    "title": "Analista Programador /QA - Quilicura",
+    "company": "Xinerlink - Unidad Minería",
+    "score": 20,
+    "notified_at": "2026-08-22T13:36:03.277Z"
+  },
+  "solheiro advogados associados::desarrolladores bantotal": {
+    "title": "Desarrolladores Bantotal",
+    "company": "Solheiro Advogados Associados",
+    "score": 25,
+    "notified_at": "2026-08-22T13:36:11.750Z"
+  },
+  "we are tims::desarrollador/a de software – (remote chile / usd)": {
+    "title": "Desarrollador/a de Software – (Remote Chile / USD)",
+    "company": "We Are TIMS",
+    "score": 85,
+    "notified_at": "2026-08-22T13:36:11.751Z"
+  },
+  "bctecnologia::desarrollador batch y automatizacion": {
+    "title": "Desarrollador Batch y Automatización",
+    "company": "BCTecnología",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:11.752Z"
+  },
+  "kibernum s.a.::desarrollador backend java": {
+    "title": "Desarrollador Backend Java",
+    "company": "KIBERNUM S.A.",
+    "score": 25,
+    "notified_at": "2026-08-22T13:36:11.753Z"
+  },
+  "weyland ingenieria limitada::desarrollador web": {
+    "title": "Desarrollador Web",
+    "company": "Weyland Ingeniería Limitada",
+    "score": 45,
+    "notified_at": "2026-08-22T13:36:20.126Z"
+  },
+  "confidential::desarrollador/a de automatizacion e integraciones": {
+    "title": "Desarrollador/a de Automatización e Integraciones",
+    "company": "Confidential",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:20.127Z"
+  },
+  "cyd ingenieria::ito programador": {
+    "title": "ITO Programador",
+    "company": "CyD Ingeniería",
+    "score": 15,
+    "notified_at": "2026-08-22T13:36:20.128Z"
   }
 }
