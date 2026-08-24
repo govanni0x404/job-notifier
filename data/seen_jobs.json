@@ -1102,5 +1102,71 @@
     "company": "Red salud UC CHRISTUS servicios ambulatorios",
     "score": 45,
     "notified_at": "2026-08-23T13:36:25.520Z"
+  },
+  "industrial y comercial opera group::4. ingeniero/a full-stack": {
+    "title": "4.\tIngeniero/a Full-Stack",
+    "company": "Industrial y Comercial Opera Group",
+    "score": 25,
+    "notified_at": "2026-08-24T13:55:51.488Z"
+  },
+  "sii group chile::senior full-stack engineer | hybrid (arquitecturas modernas)": {
+    "title": "Senior Full-Stack Engineer | Hybrid (Arquitecturas Modernas)",
+    "company": "SII Group Chile",
+    "score": 15,
+    "notified_at": "2026-08-24T13:55:51.491Z"
+  },
+  "bc tecnologia::desarrollador full-stack senior java | e-commerce & devops": {
+    "title": "Desarrollador Full-Stack Senior Java | E-commerce & DevOps",
+    "company": "BC Tecnología",
+    "score": 100,
+    "notified_at": "2026-08-24T13:55:51.494Z"
+  },
+  "2brains::senior full-stack developer: angular/go + ai": {
+    "title": "Senior Full-Stack Developer: Angular/Go + AI",
+    "company": "2Brains",
+    "score": 20,
+    "notified_at": "2026-08-24T13:55:51.495Z"
+  },
+  "tecnova::analista de desarrollo react.js node.js": {
+    "title": "Analista de Desarrollo React.js Node.js",
+    "company": "Tecnova",
+    "score": 55,
+    "notified_at": "2026-08-24T13:55:57.908Z"
+  },
+  "talentcross::desarrollador backend node.js bff senior": {
+    "title": "Desarrollador Backend Node.js BFF Senior",
+    "company": "Talentcross",
+    "score": 55,
+    "notified_at": "2026-08-24T13:55:57.910Z"
+  },
+  "kibernum s.a.::desarrollador fullstack senior node.js / react": {
+    "title": "Desarrollador Fullstack Senior Node.js / React",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-08-24T13:55:57.911Z"
+  },
+  "tata consultancy services chile s.a::analista programador cobol cics - bech": {
+    "title": "Analista Programador Cobol Cics - BECH",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 20,
+    "notified_at": "2026-08-24T13:56:02.592Z"
+  },
+  "bc tecnologia::desarrollador batch y automatizacion": {
+    "title": "Desarrollador Batch y Automatización",
+    "company": "BC Tecnología",
+    "score": 35,
+    "notified_at": "2026-08-24T13:56:07.228Z"
+  },
+  "echeverria izquierdo::desarrollador de software industrial | gestion de proyectos": {
+    "title": "Desarrollador de Software Industrial | Gestión de Proyectos",
+    "company": "ECHEVERRIA IZQUIERDO",
+    "score": 15,
+    "notified_at": "2026-08-24T13:56:07.230Z"
+  },
+  "sii group chile::programador full stack (java + react)": {
+    "title": "Programador full stack (JAVA + React)",
+    "company": "SII Group Chile",
+    "score": 90,
+    "notified_at": "2026-08-24T13:56:11.812Z"
   }
 }
