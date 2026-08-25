@@ -1168,5 +1168,59 @@
     "company": "SII Group Chile",
     "score": 90,
     "notified_at": "2026-08-24T13:56:11.812Z"
+  },
+  "apiux tech::desarrollador full stack / devops": {
+    "title": "Desarrollador Full Stack / DevOps",
+    "company": "Apiux Tech",
+    "score": 95,
+    "notified_at": "2026-08-25T13:54:47.107Z"
+  },
+  "laboratorio laboral spa::full-stack developer full time": {
+    "title": "Full-Stack Developer Full time",
+    "company": "Laboratorio Laboral SPA",
+    "score": 100,
+    "notified_at": "2026-08-25T13:54:47.109Z"
+  },
+  "groupe sii::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Groupe SII",
+    "score": 60,
+    "notified_at": "2026-08-25T13:54:47.111Z"
+  },
+  "bc tecnologia::desarrollador full-stack mobile & web": {
+    "title": "Desarrollador Full-Stack Mobile & Web",
+    "company": "BC Tecnología",
+    "score": 85,
+    "notified_at": "2026-08-25T13:54:47.112Z"
+  },
+  "tata consultancy services::analista programador cobol cics": {
+    "title": "Analista Programador Cobol Cics",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-25T13:54:55.799Z"
+  },
+  "zurich seguros de vida::analista programador": {
+    "title": "Analista Programador",
+    "company": "Zurich Seguros de Vida",
+    "score": 15,
+    "notified_at": "2026-08-25T13:54:55.800Z"
+  },
+  "genesys global::desarrollador backend .net": {
+    "title": "Desarrollador Backend .NET",
+    "company": "Genesys Global",
+    "score": 25,
+    "notified_at": "2026-08-25T13:54:59.940Z"
+  },
+  "sermaluc::programador backend & procesamiento batch": {
+    "title": "Programador Backend & Procesamiento Batch",
+    "company": "Sermaluc",
+    "score": 50,
+    "notified_at": "2026-08-25T13:55:05.567Z"
+  },
+  "k.s.a security::desarrollador web fullstack": {
+    "title": "Desarrollador Web Fullstack",
+    "company": "K.S.A Security",
+    "score": 40,
+    "notified_at": "2026-08-25T13:55:05.569Z"
   }
 }
