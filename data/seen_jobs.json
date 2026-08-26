@@ -1222,5 +1222,95 @@
     "company": "K.S.A Security",
     "score": 40,
     "notified_at": "2026-08-25T13:55:05.569Z"
+  },
+  "trebol::fullstack go / python": {
+    "title": "Fullstack Go / Python",
+    "company": "Trebol",
+    "score": 20,
+    "notified_at": "2026-08-26T13:57:53.990Z"
+  },
+  "nippon-chile tech solutions::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Nippon-Chile Tech Solutions",
+    "score": 100,
+    "notified_at": "2026-08-26T13:57:53.993Z"
+  },
+  "workcapit::desarrollador fullstack | golang + python": {
+    "title": "Desarrollador FullStack | Golang + Python",
+    "company": "WorkCapIT",
+    "score": 30,
+    "notified_at": "2026-08-26T13:57:53.995Z"
+  },
+  "bairesdev::senior ai engineer (node.js, python) - remote work": {
+    "title": "Senior AI Engineer (Node.js, Python) - Remote Work",
+    "company": "BairesDev",
+    "score": 30,
+    "notified_at": "2026-08-26T13:57:56.318Z"
+  },
+  "bairesdev::desarrollador node.js - trabajo remoto": {
+    "title": "Desarrollador Node.js - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 70,
+    "notified_at": "2026-08-26T13:57:56.321Z"
+  },
+  "biometria aplicada spa::practica profesional, ingenieria en informatica y analista programador": {
+    "title": "Práctica Profesional, Ingeniería en Informática y Analista Programador",
+    "company": "Biometria Aplicada spa",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.452Z"
+  },
+  "biometria aplicada spa::practica para desarrolladores de software": {
+    "title": "PRACTICA PARA DESARROLLADORES DE SOFTWARE",
+    "company": "Biometria Aplicada spa",
+    "score": 40,
+    "notified_at": "2026-08-26T13:57:58.453Z"
+  },
+  "inacap::practica profesional – administracion de empresas / diseno digital / analista programador / programas afines": {
+    "title": "Práctica Profesional – Administración de Empresas / Diseño Digital / Analista Programador / Programas Afines",
+    "company": "INACAP",
+    "score": 0,
+    "notified_at": "2026-08-26T13:57:58.454Z"
+  },
+  "confidencial::programador (a)": {
+    "title": "Programador (a)",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.455Z"
+  },
+  "cmg3::buscamos desarrollador bantotal o genexus": {
+    "title": "Buscamos Desarrollador Bantotal o GeneXus",
+    "company": "CMG3",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.456Z"
+  },
+  "banco de chile::desarrollador experto - desarrollo de software": {
+    "title": "Desarrollador Experto - Desarrollo de Software",
+    "company": "Banco de Chile",
+    "score": 65,
+    "notified_at": "2026-08-26T13:58:01.023Z"
+  },
+  "bc tecnologia::desarrollador/a ios swift & swiftui": {
+    "title": "Desarrollador/a iOS Swift & SwiftUI",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-08-26T13:58:01.026Z"
+  },
+  "bctecnologia::desarrollador/a batch y automatizacion de procesos - remoto": {
+    "title": "Desarrollador/a Batch y Automatización de Procesos - Remoto",
+    "company": "BCTecnología",
+    "score": 20,
+    "notified_at": "2026-08-26T13:58:03.669Z"
+  },
+  "nexatech consulting spa::desarrollador/a c# + clipper": {
+    "title": "Desarrollador/a C# + Clipper",
+    "company": "Nexatech Consulting SPA",
+    "score": 15,
+    "notified_at": "2026-08-26T13:58:03.671Z"
+  },
+  "sii group chile::desarrollador/a fullstack (sql / nestjs / jcl)": {
+    "title": "Desarrollador/a Fullstack (SQL / NestJS / JCL)",
+    "company": "SII Group Chile",
+    "score": 60,
+    "notified_at": "2026-08-26T13:58:03.672Z"
   }
 }
