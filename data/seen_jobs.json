@@ -1330,5 +1330,17 @@
     "company": "NTT DATA EMEAL",
     "score": 35,
     "notified_at": "2026-08-27T22:53:53.118Z"
+  },
+  "mayorista 10::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Mayorista 10",
+    "score": 40,
+    "notified_at": "2026-08-28T22:57:59.479Z"
+  },
+  "3it::desarrollador react native | ios y android": {
+    "title": "Desarrollador React Native | iOS y Android",
+    "company": "3IT",
+    "score": 55,
+    "notified_at": "2026-08-28T22:58:06.839Z"
   }
 }
