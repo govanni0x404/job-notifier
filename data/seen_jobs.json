@@ -1342,5 +1342,11 @@
     "company": "3IT",
     "score": 55,
     "notified_at": "2026-08-28T22:58:06.839Z"
+  },
+  "ikea::desarrolladores de software": {
+    "title": "Desarrolladores de software",
+    "company": "IKEA",
+    "score": 20,
+    "notified_at": "2026-08-30T17:16:36.070Z"
   }
 }
