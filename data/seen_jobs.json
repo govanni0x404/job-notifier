@@ -1348,5 +1348,29 @@
     "company": "IKEA",
     "score": 20,
     "notified_at": "2026-08-30T17:16:36.070Z"
+  },
+  "perceptual consultores::desarrollador backend senior node.js & typescript (hybrid)": {
+    "title": "Desarrollador Backend Senior Node.js & TypeScript (Hybrid)",
+    "company": "Perceptual Consultores",
+    "score": 65,
+    "notified_at": "2026-08-31T19:27:31.247Z"
+  },
+  "mm asesorias::analista programador .net": {
+    "title": "Analista Programador .net",
+    "company": "Mm Asesorias",
+    "score": 90,
+    "notified_at": "2026-08-31T19:27:33.598Z"
+  },
+  "tunning ing.::programador de sistemas de control": {
+    "title": "Programador de Sistemas de Control",
+    "company": "Tunning Ing.",
+    "score": 15,
+    "notified_at": "2026-08-31T19:27:38.290Z"
+  },
+  "smu s.a.::desarrollador(a) fullstack - full presencial": {
+    "title": "Desarrollador(a) Fullstack - Full Presencial",
+    "company": "SMU S.A.",
+    "score": 35,
+    "notified_at": "2026-08-31T19:27:38.293Z"
   }
 }
