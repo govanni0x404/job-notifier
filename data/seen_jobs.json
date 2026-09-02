@@ -1378,5 +1378,17 @@
     "company": "Bodegas Megaflex",
     "score": 40,
     "notified_at": "2026-09-01T17:15:42.452Z"
+  },
+  "ema spa::programador android - dominio lenguaje kotlin": {
+    "title": "Programador Android - Dominio lenguaje Kotlin",
+    "company": "EMA SpA",
+    "score": 15,
+    "notified_at": "2026-09-02T17:05:38.010Z"
+  },
+  "perceptual::programador web": {
+    "title": "Programador Web",
+    "company": "Perceptual",
+    "score": 30,
+    "notified_at": "2026-09-02T17:05:38.012Z"
   }
 }
