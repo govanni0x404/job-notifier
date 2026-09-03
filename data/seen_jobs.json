@@ -1390,5 +1390,11 @@
     "company": "Perceptual",
     "score": 30,
     "notified_at": "2026-09-02T17:05:38.012Z"
+  },
+  "acl::ingeniero de software – integrador": {
+    "title": "Ingeniero de Software – Integrador",
+    "company": "ACL",
+    "score": 10,
+    "notified_at": "2026-09-03T16:59:23.834Z"
   }
 }
