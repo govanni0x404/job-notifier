@@ -1438,5 +1438,23 @@
     "company": "IT HUNTERS",
     "score": 20,
     "notified_at": "2026-09-06T16:06:11.165Z"
+  },
+  "tactech::fullstack developer js senior": {
+    "title": "Fullstack Developer JS Senior",
+    "company": "Tactech",
+    "score": 35,
+    "notified_at": "2026-09-07T18:11:09.505Z"
+  },
+  "supertrans limitada::analista programador junior": {
+    "title": "Analista programador Junior",
+    "company": "SUPERTRANS LIMITADA",
+    "score": 15,
+    "notified_at": "2026-09-07T18:11:14.673Z"
+  },
+  "hublab tech::practicante desarrollador/a de software": {
+    "title": "Practicante Desarrollador/a de Software",
+    "company": "HubLab Tech",
+    "score": 100,
+    "notified_at": "2026-09-07T18:11:17.211Z"
   }
 }
