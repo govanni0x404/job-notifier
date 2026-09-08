@@ -1456,5 +1456,35 @@
     "company": "HubLab Tech",
     "score": 100,
     "notified_at": "2026-09-07T18:11:17.211Z"
+  },
+  "randstad chile::full stack developer": {
+    "title": "Full Stack developer",
+    "company": "Randstad Chile",
+    "score": 35,
+    "notified_at": "2026-09-08T17:10:51.963Z"
+  },
+  "mm asesorias::analista desarrollador fullstack - rubro financiero": {
+    "title": "Analista Desarrollador Fullstack - Rubro Financiero",
+    "company": "MM ASESORIAS",
+    "score": 45,
+    "notified_at": "2026-09-08T17:10:59.229Z"
+  },
+  "tactech::desarrollador .net fullstack - impacta con soluciones": {
+    "title": "Desarrollador .NET Fullstack - Impacta con Soluciones",
+    "company": "Tactech",
+    "score": 20,
+    "notified_at": "2026-09-08T17:10:59.231Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador murex": {
+    "title": "Desarrollador Murex",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A.",
+    "score": 20,
+    "notified_at": "2026-09-08T17:11:02.464Z"
+  },
+  "finder hr::desarrollador trainee 🔎": {
+    "title": "Desarrollador Trainee 🔎",
+    "company": "Finder HR",
+    "score": 25,
+    "notified_at": "2026-09-08T17:11:02.465Z"
   }
 }
