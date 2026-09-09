@@ -1486,5 +1486,23 @@
     "company": "Finder HR",
     "score": 25,
     "notified_at": "2026-09-08T17:11:02.465Z"
+  },
+  "grupo sms chile spa::desarrollador backend con experiencia en .net": {
+    "title": "Desarrollador Backend con experiencia en .NET",
+    "company": "GRUPO SMS CHILE SPA",
+    "score": 25,
+    "notified_at": "2026-09-09T17:05:28.342Z"
+  },
+  "sii group chile::desarrollador back end": {
+    "title": "Desarrollador Back End",
+    "company": "SII Group Chile",
+    "score": 55,
+    "notified_at": "2026-09-09T17:05:37.118Z"
+  },
+  "tpf ingenieria::programador de obra / planificador": {
+    "title": "Programador de Obra / Planificador",
+    "company": "TPF INGENIERIA",
+    "score": 15,
+    "notified_at": "2026-09-09T17:05:38.728Z"
   }
 }
