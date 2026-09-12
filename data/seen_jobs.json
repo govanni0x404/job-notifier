@@ -1504,5 +1504,47 @@
     "company": "TPF INGENIERIA",
     "score": 15,
     "notified_at": "2026-09-09T17:05:38.728Z"
+  },
+  "kibernum s.a.::desarrollador fullstack (java + angular + gcp)": {
+    "title": "Desarrollador Fullstack (Java + Angular + GCP)",
+    "company": "KIBERNUM S.A.",
+    "score": 25,
+    "notified_at": "2026-09-12T16:08:05.513Z"
+  },
+  "neuralworks::full-stack mobile engineer (react native) - flexible": {
+    "title": "Full-Stack Mobile Engineer (React Native) - Flexible",
+    "company": "NeuralWorks",
+    "score": 25,
+    "notified_at": "2026-09-12T16:08:05.517Z"
+  },
+  "prize servicios corporativos spa::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Prize Servicios Corporativos Spa",
+    "score": 100,
+    "notified_at": "2026-09-12T16:08:05.518Z"
+  },
+  "bairesdev::remote node fullstack engineer: build global apis & ui": {
+    "title": "Remote Node Fullstack Engineer: Build Global APIs & UI",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-09-12T16:08:09.247Z"
+  },
+  "avos tech::desarrollador fullstack": {
+    "title": "desarrollador fullstack",
+    "company": "Avos Tech",
+    "score": 55,
+    "notified_at": "2026-09-12T16:10:10.389Z"
+  },
+  "soho::desarrollador full stack sr": {
+    "title": "Desarrollador Full Stack Sr",
+    "company": "Soho",
+    "score": 60,
+    "notified_at": "2026-09-12T16:10:10.390Z"
+  },
+  "magno consultores::tornero cnc (operador y programador) - quilicura": {
+    "title": "TORNERO CNC (Operador y programador) - Quilicura",
+    "company": "MAGNO CONSULTORES",
+    "score": 15,
+    "notified_at": "2026-09-12T16:11:02.610Z"
   }
 }
