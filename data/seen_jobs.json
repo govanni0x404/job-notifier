@@ -1696,5 +1696,203 @@
     "company": "Tecnova Soluciones Informáticas",
     "score": 40,
     "notified_at": "2026-09-13T16:55:29.387Z"
+  },
+  "seidor::desarrollador fullstack. contrato indefinido.": {
+    "title": "Desarrollador Fullstack. Contrato Indefinido.",
+    "company": "SEIDOR",
+    "score": 95,
+    "notified_at": "2026-09-14T18:27:56.513Z"
+  },
+  "tecnova soluciones informaticas::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Tecnova Soluciones Informáticas",
+    "score": 100,
+    "notified_at": "2026-09-14T18:27:56.516Z"
+  },
+  "prosys::.net core blazor full-stack developer | oracle": {
+    "title": ".NET Core Blazor Full-Stack Developer | Oracle",
+    "company": "Prosys",
+    "score": 15,
+    "notified_at": "2026-09-14T18:27:56.517Z"
+  },
+  "ntt data emeal::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "NTT DATA EMEAL",
+    "score": 45,
+    "notified_at": "2026-09-14T18:27:56.519Z"
+  },
+  "confidencial::desarrollador full stack junior, remoto": {
+    "title": "Desarrollador Full Stack Junior, Remoto",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-09-14T18:27:56.520Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador/a full stack react + node.js": {
+    "title": "Desarrollador/a Full Stack React + Node.js",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 100,
+    "notified_at": "2026-09-14T18:27:56.522Z"
+  },
+  "solcor::fullstack developer": {
+    "title": "Fullstack Developer",
+    "company": "Solcor",
+    "score": 20,
+    "notified_at": "2026-09-14T18:27:56.523Z"
+  },
+  "ps grupo hunting::ingeniero/a de software full stack | react, python, aws": {
+    "title": "Ingeniero/a de Software Full Stack | React, Python, AWS",
+    "company": "PS GRUPO HUNTING",
+    "score": 55,
+    "notified_at": "2026-09-14T18:27:56.524Z"
+  },
+  "tata consultancy services::desarrollador backend node.js/express (contrato indefinido)": {
+    "title": "Desarrollador Backend Node.js/Express (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 90,
+    "notified_at": "2026-09-14T18:28:00.571Z"
+  },
+  "avos tech::software engineer java, .net, node.js o similar": {
+    "title": "Software Engineer Java, .NET, Node.js o similar",
+    "company": "Avos Tech",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.573Z"
+  },
+  "bluelightconsulting::senior full‑stack node.js engineer — remote": {
+    "title": "Senior Full‑Stack Node.js Engineer — Remote",
+    "company": "Bluelightconsulting",
+    "score": 30,
+    "notified_at": "2026-09-14T18:28:00.575Z"
+  },
+  "actionhub chile::backend senior node.js | microservicios": {
+    "title": "Backend Senior Node.js | Microservicios",
+    "company": "Actionhub Chile",
+    "score": 50,
+    "notified_at": "2026-09-14T18:28:00.576Z"
+  },
+  "agilistik::senior backend engineer: java spring boot & node.js nestjs": {
+    "title": "Senior Backend Engineer: Java Spring Boot & Node.js NestJS",
+    "company": "AGILISTIK",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.577Z"
+  },
+  "sermaluc::desarrollador backend node.js": {
+    "title": "Desarrollador Backend Node.js",
+    "company": "Sermaluc",
+    "score": 75,
+    "notified_at": "2026-09-14T18:28:00.578Z"
+  },
+  "redbee studios::tech lead | go/node.js": {
+    "title": "Tech Lead | Go/Node.js",
+    "company": "redbee Studios",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.580Z"
+  },
+  "tsoft::backend node.js engineer": {
+    "title": "Backend Node.js Engineer",
+    "company": "Tsoft",
+    "score": 100,
+    "notified_at": "2026-09-14T18:28:00.581Z"
+  },
+  "ism::analista programador de sistemas e implementacion": {
+    "title": "Analista Programador de Sistemas e Implementación",
+    "company": "ISM",
+    "score": 95,
+    "notified_at": "2026-09-14T18:28:54.189Z"
+  },
+  "experis chile::analista programador web – continuidad operativa": {
+    "title": "Analista Programador Web – Continuidad Operativa",
+    "company": "Experis Chile",
+    "score": 50,
+    "notified_at": "2026-09-14T18:28:54.191Z"
+  },
+  "c&c consultores::practica profesional / analista programador": {
+    "title": "Práctica profesional / Analista Programador",
+    "company": "C&C Consultores",
+    "score": 0,
+    "notified_at": "2026-09-14T18:28:54.193Z"
+  },
+  "sc informatica limitada::practicante de analista de sistema": {
+    "title": "PRACTICANTE DE ANALISTA DE SISTEMA",
+    "company": "SC INFORMATICA LIMITADA",
+    "score": 25,
+    "notified_at": "2026-09-14T18:28:54.195Z"
+  },
+  "bc tecnologia::analista programador": {
+    "title": "Analista Programador",
+    "company": "BC Tecnología",
+    "score": 25,
+    "notified_at": "2026-09-14T18:28:54.196Z"
+  },
+  "metalkit::programador-desarrollador": {
+    "title": "PROGRAMADOR-DESARROLLADOR",
+    "company": "Metalkit",
+    "score": 75,
+    "notified_at": "2026-09-14T18:28:54.198Z"
+  },
+  "finder hr::analista programador node. js - bd oracle": {
+    "title": "Analista Programador Node. Js - BD Oracle",
+    "company": "Finder HR",
+    "score": 70,
+    "notified_at": "2026-09-14T18:28:54.200Z"
+  },
+  "fundamenta::desarrollador de software senior": {
+    "title": "Desarrollador de Software SENIOR",
+    "company": "Fundamenta",
+    "score": 75,
+    "notified_at": "2026-09-14T18:29:47.091Z"
+  },
+  "fundamenta::desarrollador senior de software": {
+    "title": "Desarrollador Senior de Software",
+    "company": "Fundamenta",
+    "score": 60,
+    "notified_at": "2026-09-14T18:29:47.093Z"
+  },
+  "tata consultancy services::desarrollador scala": {
+    "title": "Desarrollador Scala",
+    "company": "Tata Consultancy Services",
+    "score": 55,
+    "notified_at": "2026-09-14T18:29:47.095Z"
+  },
+  "agilistik::analista desarrollador senior as/400": {
+    "title": "Analista Desarrollador Senior As/400",
+    "company": "Agilistik",
+    "score": 25,
+    "notified_at": "2026-09-14T18:29:47.096Z"
+  },
+  "fieldbeat::desarrollador back-end java": {
+    "title": "Desarrollador Back-end Java",
+    "company": "FieldBeat",
+    "score": 35,
+    "notified_at": "2026-09-14T18:29:47.098Z"
+  },
+  "popestate::desarrollador(a) full-stack php / symfony": {
+    "title": "Desarrollador(a) Full-Stack PHP / Symfony",
+    "company": "PopEstate",
+    "score": 85,
+    "notified_at": "2026-09-14T18:29:47.100Z"
+  },
+  "apiux tech::desarrollador senior mobile": {
+    "title": "Desarrollador Senior Mobile",
+    "company": "Apiux Tech",
+    "score": 85,
+    "notified_at": "2026-09-14T18:29:47.101Z"
+  },
+  "opendev pro::desarrollador .net": {
+    "title": "desarrollador .net",
+    "company": "OpenDev pro",
+    "score": 30,
+    "notified_at": "2026-09-14T18:29:47.103Z"
+  },
+  "consultora mi perfil laboral::programador senior java con manejo de poo-sprint boot (basico) java script- presencial renta entre $1,200.000 y $1600.000": {
+    "title": "PROGRAMADOR  SENIOR JAVA CON MANEJO DE POO-SPRINT BOOT (básico) JAVA SCRIPT- PRESENCIAL RENTA ENTRE $1,200.000 Y $1600.000",
+    "company": "Consultora Mi Perfil Laboral",
+    "score": 35,
+    "notified_at": "2026-09-14T18:29:52.864Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador .net": {
+    "title": "desarrollador .net",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 20,
+    "notified_at": "2026-09-14T18:29:52.865Z"
   }
 }
