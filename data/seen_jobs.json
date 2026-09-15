@@ -1894,5 +1894,101 @@
     "company": "Ingenieria informatica Kibernum S.A.",
     "score": 20,
     "notified_at": "2026-09-14T18:29:52.865Z"
+  },
+  "confipetrol s.a.::desarrollador fullstack ia generativa power platform openai": {
+    "title": "Desarrollador Fullstack IA Generativa  Power Platform  OpenAI",
+    "company": "Confipetrol S.A.",
+    "score": 30,
+    "notified_at": "2026-09-15T17:35:20.902Z"
+  },
+  "acl::desarrollador full stack – hybrid en santiago": {
+    "title": "Desarrollador Full Stack – Hybrid en Santiago",
+    "company": "ACL",
+    "score": 15,
+    "notified_at": "2026-09-15T17:35:20.905Z"
+  },
+  "kibernum s.a.::desarrollador/a full stack react + node.js": {
+    "title": "Desarrollador/a Full Stack React + Node.js",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-09-15T17:35:20.906Z"
+  },
+  "getdata (cl)::desarrollador full stack semi senior | angular/java hibrido": {
+    "title": "Desarrollador Full Stack Semi Senior | Angular/Java Híbrido",
+    "company": "Getdata (CL)",
+    "score": 20,
+    "notified_at": "2026-09-15T17:35:20.910Z"
+  },
+  "tata consultancy services::desarrollador fullstack nodejs": {
+    "title": "Desarrollador FullStack NodeJS",
+    "company": "Tata Consultancy Services",
+    "score": 45,
+    "notified_at": "2026-09-15T17:35:20.912Z"
+  },
+  "nucleo ods::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Núcleo ODS",
+    "score": 35,
+    "notified_at": "2026-09-15T17:35:20.914Z"
+  },
+  "randstad chile::desarrollador backend nodejs junior - presencial": {
+    "title": "Desarrollador Backend Nodejs Junior - PRESENCIAL",
+    "company": "Randstad Chile",
+    "score": 85,
+    "notified_at": "2026-09-15T17:35:27.603Z"
+  },
+  "sii group chile::desarrollador backend node.js | typescript, apis & apigee": {
+    "title": "Desarrollador Backend Node.js | TypeScript, APIs & Apigee",
+    "company": "SII Group Chile",
+    "score": 80,
+    "notified_at": "2026-09-15T17:35:27.605Z"
+  },
+  "randstad chile::desarrollador backend nodejs junior": {
+    "title": "Desarrollador Backend Nodejs Junior",
+    "company": "Randstad Chile",
+    "score": 85,
+    "notified_at": "2026-09-15T17:35:27.608Z"
+  },
+  "bairesdev::node fullstack developer - remote work | ref#303156": {
+    "title": "Node Fullstack Developer - Remote Work | REF#303156",
+    "company": "BairesDev",
+    "score": 100,
+    "notified_at": "2026-09-15T17:35:27.610Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador fullstack .net / node.js / angular": {
+    "title": "Desarrollador Fullstack .NET / Node.js / Angular",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 75,
+    "notified_at": "2026-09-15T17:35:27.613Z"
+  },
+  "banco de chile::desarrollador de soluciones tecnologicas para recursos humanos": {
+    "title": "Desarrollador de Soluciones Tecnológicas para Recursos Humanos",
+    "company": "Banco de Chile",
+    "score": 20,
+    "notified_at": "2026-09-15T17:36:30.692Z"
+  },
+  "siemens::programador senior de proyectos": {
+    "title": "Programador Senior de Proyectos",
+    "company": "Siemens",
+    "score": 15,
+    "notified_at": "2026-09-15T17:36:30.695Z"
+  },
+  "eurofirms chile::programador/a y controlador/a de proyectos": {
+    "title": "Programador/a y Controlador/a de Proyectos",
+    "company": "Eurofirms Chile",
+    "score": 15,
+    "notified_at": "2026-09-15T17:36:39.877Z"
+  },
+  "practia global::desarrollador full stack": {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Practia Global",
+    "score": 55,
+    "notified_at": "2026-09-15T17:36:39.879Z"
+  },
+  "manpower chile::desarrollador .net 8 - remoto chile": {
+    "title": "Desarrollador .NET 8 - Remoto Chile",
+    "company": "Manpower Chile",
+    "score": 45,
+    "notified_at": "2026-09-15T17:36:39.882Z"
   }
 }
