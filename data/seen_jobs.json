@@ -1990,5 +1990,95 @@
     "company": "Manpower Chile",
     "score": 45,
     "notified_at": "2026-09-15T17:36:39.882Z"
+  },
+  "muck consultores::fullstack developer -ia generativa power platform openai": {
+    "title": "Fullstack Developer -IA Generativa Power Platform OpenAI",
+    "company": "Muck Consultores",
+    "score": 30,
+    "notified_at": "2026-09-16T17:35:07.569Z"
+  },
+  "perceptual consultores ltda.::ingeniero de software senior fullstack - react typescript": {
+    "title": "Ingeniero de Software Senior Fullstack - React Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-16T17:35:07.572Z"
+  },
+  "42labs::programador full stack .net senior": {
+    "title": "PROGRAMADOR FULL STACK .Net Senior",
+    "company": "42Labs",
+    "score": 15,
+    "notified_at": "2026-09-16T17:35:07.575Z"
+  },
+  "perceptual consultores::full stack react/js developer": {
+    "title": "Full Stack React/JS Developer",
+    "company": "Perceptual Consultores",
+    "score": 20,
+    "notified_at": "2026-09-16T17:35:07.576Z"
+  },
+  "groupe sii::desarrollador/a backend nodejs – apigee 🚀": {
+    "title": "Desarrollador/a Backend NodeJS – Apigee 🚀",
+    "company": "Groupe SII",
+    "score": 70,
+    "notified_at": "2026-09-16T17:36:00.504Z"
+  },
+  "apiux tech::desarrollador fullstack: node/react y microservicios": {
+    "title": "Desarrollador Fullstack: Node/React y Microservicios",
+    "company": "Apiux Tech",
+    "score": 90,
+    "notified_at": "2026-09-16T17:36:00.508Z"
+  },
+  "kibernum::desarrollador full stack react & node.js | apis, typescript": {
+    "title": "Desarrollador Full Stack React & Node.js | APIs, TypeScript",
+    "company": "Kibernum",
+    "score": 90,
+    "notified_at": "2026-09-16T17:36:00.510Z"
+  },
+  "kpaz::desarrollador full stack node.js / react": {
+    "title": "Desarrollador Full Stack Node.js / React",
+    "company": "KPaz",
+    "score": 100,
+    "notified_at": "2026-09-16T17:36:00.517Z"
+  },
+  "instituto de investigaciones agropecuarias - inia::analista desarrollador de ti": {
+    "title": "Analista Desarrollador de TI",
+    "company": "Instituto de Investigaciones Agropecuarias - INIA",
+    "score": 25,
+    "notified_at": "2026-09-16T17:37:08.421Z"
+  },
+  "cencosud::practica profesional – desarrollo de software, automatizacion e inteligencia artificial": {
+    "title": "Práctica Profesional – Desarrollo de Software, Automatización e Inteligencia Artificial",
+    "company": "Cencosud",
+    "score": 25,
+    "notified_at": "2026-09-16T17:37:15.581Z"
+  },
+  "confidencial::desarrollador web_proyecto": {
+    "title": "DESARROLLADOR WEB_PROYECTO",
+    "company": "Confidencial",
+    "score": 45,
+    "notified_at": "2026-09-16T17:37:15.583Z"
+  },
+  "workcapit::frontend developer (angular)": {
+    "title": "Frontend Developer (Angular)",
+    "company": "WorkCapIT",
+    "score": 20,
+    "notified_at": "2026-09-16T17:37:15.584Z"
+  },
+  "ferrostaal chile s.a.c.::desarrollador web jr. - impacto social y teletrabajo": {
+    "title": "Desarrollador Web Jr. - Impacto Social y Teletrabajo",
+    "company": "Ferrostaal Chile S.A.C.",
+    "score": 15,
+    "notified_at": "2026-09-16T17:38:12.025Z"
+  },
+  "claire joster::desarrollador gis - v region": {
+    "title": "Desarrollador GIS - v region",
+    "company": "Claire Joster",
+    "score": 20,
+    "notified_at": "2026-09-16T17:38:12.027Z"
+  },
+  "ticmoai::desarrollador cobol - presencial": {
+    "title": "Desarrollador cobol - Presencial",
+    "company": "TicMoAI",
+    "score": 55,
+    "notified_at": "2026-09-16T17:38:12.028Z"
   }
 }
