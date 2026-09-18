@@ -2080,5 +2080,155 @@
     "company": "TicMoAI",
     "score": 55,
     "notified_at": "2026-09-16T17:38:12.028Z"
+  },
+  "confidencial::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "Confidencial",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:23.464Z"
+  },
+  "randstad chile::fullstack react/node - presencial": {
+    "title": "Fullstack React/Node - PRESENCIAL",
+    "company": "Randstad Chile",
+    "score": 75,
+    "notified_at": "2026-09-18T17:00:23.467Z"
+  },
+  "lisit::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "LISIT",
+    "score": 100,
+    "notified_at": "2026-09-18T17:00:23.472Z"
+  },
+  "bctecnologia::desarrollador/a full stack node.js / javascript - remoto (proyecto)": {
+    "title": "Desarrollador/a Full Stack Node.js / JavaScript - Remoto (Proyecto)",
+    "company": "BCTecnología",
+    "score": 75,
+    "notified_at": "2026-09-18T17:00:23.475Z"
+  },
+  "sii group chile::desarrollador backend node.js | typescript, apis": {
+    "title": "Desarrollador Backend Node.js | TypeScript, APIs",
+    "company": "SII Group Chile",
+    "score": 80,
+    "notified_at": "2026-09-18T17:00:27.921Z"
+  },
+  "groupe sii::desarrollador backend nodejs/typescript: apis y oauth 2.0": {
+    "title": "Desarrollador Backend NodeJS/TypeScript: APIs y OAuth 2.0",
+    "company": "Groupe SII",
+    "score": 65,
+    "notified_at": "2026-09-18T17:00:27.924Z"
+  },
+  "itacorpban::analista conocimiento de clientes (kyc)": {
+    "title": "Analista Conocimiento de Clientes (KYC)",
+    "company": "itacorpban",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.335Z"
+  },
+  "idokku soluciones digitales chile::analista de negocios": {
+    "title": "Analista de Negocios",
+    "company": "iDOKKU Soluciones Digitales Chile",
+    "score": 15,
+    "notified_at": "2026-09-18T17:00:32.337Z"
+  },
+  "cencosud::analista revenue growth": {
+    "title": "Analista Revenue Growth",
+    "company": "Cencosud",
+    "score": 10,
+    "notified_at": "2026-09-18T17:00:32.340Z"
+  },
+  "universidad catolica del maule::analista estadistico(a) / matematico(a) - proyecto ucm25101- media jornada": {
+    "title": "Analista Estadístico(a) / Matemático(a) - Proyecto UCM25101- Media Jornada",
+    "company": "Universidad Católica del Maule",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.341Z"
+  },
+  "tenpo::analista de tesoreria": {
+    "title": "Analista de Tesorería",
+    "company": "Tenpo",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.343Z"
+  },
+  "itacorpban::analista sustentabilidad corporativa": {
+    "title": "Analista Sustentabilidad Corporativa",
+    "company": "itacorpban",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.345Z"
+  },
+  "ifscteam financial intelligence::\"analista de calidad de datos bancarios": {
+    "title": "\"Analista de Calidad de Datos Bancarios",
+    "company": "IFSCTeam Financial Intelligence",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.347Z"
+  },
+  "ecrgroup️::analista de proyecto obras civiles – telecomunicaciones": {
+    "title": "Analista de Proyecto Obras Civiles – Telecomunicaciones",
+    "company": "Ecrgroup️",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.349Z"
+  },
+  "watts sa::analista de laboratorio, chillan": {
+    "title": "Analista de laboratorio, Chillán",
+    "company": "Watts SA",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.350Z"
+  },
+  "zelestra::analista de procurement latam": {
+    "title": "Analista de Procurement Latam",
+    "company": "Zelestra",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.352Z"
+  },
+  "sezzle la::junior software engineer (chile) chile, remote": {
+    "title": "Junior Software Engineer (Chile)\nChile, Remote",
+    "company": "Sezzle LA",
+    "score": 55,
+    "notified_at": "2026-09-18T17:00:35.408Z"
+  },
+  "bc tecnologia::analista desarrollador .net+": {
+    "title": "Analista Desarrollador .NET+",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-09-18T17:00:35.411Z"
+  },
+  "imagemaker::desarrollador backend .net core semi senior": {
+    "title": "Desarrollador Backend .Net Core Semi Senior",
+    "company": "Imagemaker",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:35.413Z"
+  },
+  "tata consultancy services::developer .net (ingles avanzado)": {
+    "title": "Developer .Net (inglés avanzado)",
+    "company": "Tata Consultancy Services",
+    "score": 25,
+    "notified_at": "2026-09-18T17:00:35.415Z"
+  },
+  "accenture chile::desarrollador fullstack junior": {
+    "title": "Desarrollador Fullstack Junior",
+    "company": "Accenture Chile",
+    "score": 25,
+    "notified_at": "2026-09-18T17:00:35.417Z"
+  },
+  "stefanini latam::sr backend developer (java)": {
+    "title": "Sr Backend Developer (Java)",
+    "company": "Stefanini LATAM",
+    "score": 30,
+    "notified_at": "2026-09-18T17:00:35.419Z"
+  },
+  "abenis::desarrollador mobile kotlin - para tiempo indefinido": {
+    "title": "Desarrollador Mobile Kotlin - Para tiempo Indefinido",
+    "company": "Abenis",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.920Z"
+  },
+  "acl::programador de cobol": {
+    "title": "Programador de Cobol",
+    "company": "ACL",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.924Z"
+  },
+  "sii group chile::programadores(as) / desarrollares (as) informaticos (ti)": {
+    "title": "Programadores(as) / Desarrollares (as) informaticos (TI)",
+    "company": "SII Group Chile",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.927Z"
   }
 }
