@@ -2230,5 +2230,107 @@
     "company": "SII Group Chile",
     "score": 20,
     "notified_at": "2026-09-18T17:00:40.927Z"
+  },
+  "ingenieria informatica kibernum s.a.::fullstack developer senior": {
+    "title": "FullStack Developer Senior",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 20,
+    "notified_at": "2026-09-19T16:19:52.459Z"
+  },
+  "fullstack::software developer (.net + vue 3) - remote - latin america": {
+    "title": "Software Developer (.NET + Vue 3) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 0,
+    "notified_at": "2026-09-19T16:19:52.461Z"
+  },
+  "3it ingenieria y desarrollo ltda.::hybrid full-stack developer: java + angular": {
+    "title": "Hybrid Full-Stack Developer: Java + Angular",
+    "company": "3IT Ingeniería y Desarrollo Ltda.",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:52.466Z"
+  },
+  "tata consultancy services chile s.a::desarrollador fullstack java cod:met 032": {
+    "title": "Desarrollador Fullstack Java COD:MET 032",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 30,
+    "notified_at": "2026-09-19T16:19:52.467Z"
+  },
+  "eva informatica chile::full-stack developer": {
+    "title": "Full-Stack Developer",
+    "company": "Eva Informática Chile",
+    "score": 80,
+    "notified_at": "2026-09-19T16:19:52.470Z"
+  },
+  "tata consultancy services chile s.a::ingeniero backend node.js/express - ci/cd & nosql": {
+    "title": "Ingeniero Backend Node.js/Express - CI/CD & NoSQL",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-19T16:19:55.144Z"
+  },
+  "mm asesorias::analista desarrollador .net / ia": {
+    "title": "Analista Desarrollador .NET / IA",
+    "company": "MM ASESORIAS",
+    "score": 25,
+    "notified_at": "2026-09-19T16:19:58.464Z"
+  },
+  "sociedad agricola y comercial el almendro ltda::practica profesional analista programador": {
+    "title": "Práctica Profesional Analista Programador",
+    "company": "Sociedad Agrícola y Comercial el Almendro Ltda",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:58.466Z"
+  },
+  "acl::analista desarrollador ibm i senior": {
+    "title": "Analista Desarrollador IBM i Senior",
+    "company": "ACL",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:58.469Z"
+  },
+  "sii group chile::analista programador sql": {
+    "title": "Analista Programador SQL",
+    "company": "SII Group Chile",
+    "score": 25,
+    "notified_at": "2026-09-19T16:19:58.470Z"
+  },
+  "aquavita spa::analista junior de programacion y soporte scada": {
+    "title": "Analista Junior de Programación y Soporte SCADA",
+    "company": "Aquavita SPA",
+    "score": 40,
+    "notified_at": "2026-09-19T16:19:58.475Z"
+  },
+  "stefanini latam::desarrollador java backend sr y ssr / chile": {
+    "title": "Desarrollador Java Backend Sr y SSr / Chile",
+    "company": "Stefanini LATAM",
+    "score": 15,
+    "notified_at": "2026-09-19T16:20:01.896Z"
+  },
+  "banco de credito e inversiones::ingeniero/a de software": {
+    "title": "Ingeniero/a de Software",
+    "company": "Banco de Crédito e Inversiones",
+    "score": 5,
+    "notified_at": "2026-09-19T16:20:01.899Z"
+  },
+  "soho::desarrollador fullstack react - node ssr": {
+    "title": "Desarrollador Fullstack React - Node Ssr",
+    "company": "SOHO",
+    "score": 60,
+    "notified_at": "2026-09-19T16:20:01.900Z"
+  },
+  "abenis::desarrollador de integraciones / cloud": {
+    "title": "Desarrollador de Integraciones / Cloud",
+    "company": "Abenis",
+    "score": 20,
+    "notified_at": "2026-09-19T16:20:08.899Z"
+  },
+  "fda ingenieros s.a.::programador senior de obras mt": {
+    "title": "Programador Senior de Obras MT",
+    "company": "FDA INGENIEROS S.A.",
+    "score": 15,
+    "notified_at": "2026-09-19T16:20:08.902Z"
+  },
+  "acl::programador full stack": {
+    "title": "Programador full stack",
+    "company": "ACL",
+    "score": 50,
+    "notified_at": "2026-09-19T16:20:08.904Z"
   }
 }
