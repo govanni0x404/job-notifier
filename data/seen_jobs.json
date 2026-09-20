@@ -2332,5 +2332,53 @@
     "company": "ACL",
     "score": 50,
     "notified_at": "2026-09-19T16:20:08.904Z"
+  },
+  "seidor::desarrollador fullstack | gcp, nestjs & devops (hibrido)": {
+    "title": "Desarrollador Fullstack | GCP, NestJS & DevOps (Híbrido)",
+    "company": "SEIDOR",
+    "score": 50,
+    "notified_at": "2026-09-20T16:43:47.842Z"
+  },
+  "getdata (cl)::desarrollador full stack ssr": {
+    "title": "Desarrollador Full Stack Ssr",
+    "company": "Getdata (CL)",
+    "score": 65,
+    "notified_at": "2026-09-20T16:43:47.845Z"
+  },
+  "workcapit::desarrollador backend (nodejs & golang)": {
+    "title": "Desarrollador Backend (NodeJS & Golang)",
+    "company": "WorkCapIT",
+    "score": 100,
+    "notified_at": "2026-09-20T16:43:50.686Z"
+  },
+  "tata consultancy services chile s.a::ingeniero backend node.js/express": {
+    "title": "Ingeniero Backend Node.js/Express",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-20T16:43:50.688Z"
+  },
+  "tata consultancy services chile s.a::desarrollador backend node.js/express - bech": {
+    "title": "Desarrollador Backend Node.js/Express - BECH",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-20T16:43:50.694Z"
+  },
+  "importadora alsacia::analista de sistemas - pudahuel": {
+    "title": "Analista de sistemas - Pudahuel",
+    "company": "Importadora Alsacia",
+    "score": 30,
+    "notified_at": "2026-09-20T16:43:55.124Z"
+  },
+  "tata consultancy services chile::desarrollador senior backend cloud - btg": {
+    "title": "Desarrollador Senior Backend Cloud - BTG",
+    "company": "Tata Consultancy Services Chile",
+    "score": 40,
+    "notified_at": "2026-09-20T16:43:59.579Z"
+  },
+  "bc tecnologia::desarrollador/a batch y automatizacion": {
+    "title": "Desarrollador/a Batch y Automatización",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-09-20T16:44:02.855Z"
   }
 }
