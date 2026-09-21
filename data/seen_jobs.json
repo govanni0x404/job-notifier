@@ -2380,5 +2380,83 @@
     "company": "BC Tecnología",
     "score": 20,
     "notified_at": "2026-09-20T16:44:02.855Z"
+  },
+  "whateverai::desarrollador full-stack laravel — hybrid/remote": {
+    "title": "Desarrollador Full-Stack Laravel — Hybrid/Remote",
+    "company": "WhateverAI",
+    "score": 40,
+    "notified_at": "2026-09-21T18:34:22.302Z"
+  },
+  "perceptual consultores ltda.::desarrollador senior fullstack - react typescript": {
+    "title": "Desarrollador Senior Fullstack - React Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-21T18:34:22.305Z"
+  },
+  "acl::desarrollador fullstack semi senior (javascript, node.js)": {
+    "title": "Desarrollador Fullstack Semi Senior (JavaScript, Node.js)",
+    "company": "ACL",
+    "score": 75,
+    "notified_at": "2026-09-21T18:34:22.308Z"
+  },
+  "salcobrand::analista junior de ux": {
+    "title": "Analista Junior de UX",
+    "company": "Salcobrand",
+    "score": 5,
+    "notified_at": "2026-09-21T18:35:11.165Z"
+  },
+  "bctecnologia::analista programador mainframe cobol - remoto": {
+    "title": "Analista Programador Mainframe Cobol - Remoto",
+    "company": "BCTecnología",
+    "score": 20,
+    "notified_at": "2026-09-21T18:35:11.168Z"
+  },
+  "apex group ltd::analista desarrollador": {
+    "title": "Analista desarrollador",
+    "company": "Apex Group Ltd",
+    "score": 30,
+    "notified_at": "2026-09-21T18:35:11.192Z"
+  },
+  "importante empresa del sector ti::analista de sistemas - ti": {
+    "title": "Analista de Sistemas - TI",
+    "company": "Importante empresa del sector TI",
+    "score": 0,
+    "notified_at": "2026-09-21T18:35:11.194Z"
+  },
+  "yuno::ai frontend developer": {
+    "title": "AI Frontend Developer",
+    "company": "Yuno",
+    "score": 80,
+    "notified_at": "2026-09-21T18:35:17.775Z"
+  },
+  "layner::desarrollador de aplicaciones software, arquitecto de software senior": {
+    "title": "Desarrollador de aplicaciones Software, arquitecto de software Senior",
+    "company": "Layner",
+    "score": 55,
+    "notified_at": "2026-09-21T18:35:17.777Z"
+  },
+  "act s.a.::desarrollador de aplicaciones - devops": {
+    "title": "Desarrollador de Aplicaciones - DevOps",
+    "company": "Act S.A.",
+    "score": 25,
+    "notified_at": "2026-09-21T18:35:17.779Z"
+  },
+  "fletcher biosciences::desarrollo web": {
+    "title": "Desarrollo web",
+    "company": "Fletcher Biosciences",
+    "score": 0,
+    "notified_at": "2026-09-21T18:35:17.783Z"
+  },
+  "tinet s.a.::desarrollador fullstack .net": {
+    "title": "Desarrollador Fullstack .NET",
+    "company": "TINET S.A.",
+    "score": 30,
+    "notified_at": "2026-09-21T18:35:17.785Z"
+  },
+  "randstad servicios ltda::analista desarrollador python": {
+    "title": "Analista Desarrollador Python",
+    "company": "RANDSTAD SERVICIOS LTDA",
+    "score": 25,
+    "notified_at": "2026-09-21T18:35:20.198Z"
   }
 }
