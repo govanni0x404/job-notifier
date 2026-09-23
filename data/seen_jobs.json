@@ -2542,5 +2542,71 @@
     "company": "Eurofirms Chile",
     "score": 15,
     "notified_at": "2026-09-22T17:35:30.961Z"
+  },
+  "consultora psicolab::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Consultora PsicoLab",
+    "score": 40,
+    "notified_at": "2026-09-23T17:47:41.632Z"
+  },
+  "bvm consultores sa::developer full stack senior | las condes": {
+    "title": "Developer Full Stack Senior | Las Condes",
+    "company": "BVM CONSULTORES SA",
+    "score": 95,
+    "notified_at": "2026-09-23T17:47:41.634Z"
+  },
+  "lisit::desarrollador fullstack gerencia ti": {
+    "title": "Desarrollador FullStack Gerencia TI",
+    "company": "LISIT",
+    "score": 100,
+    "notified_at": "2026-09-23T17:47:41.640Z"
+  },
+  "keywe::desarrollador full stack senior — agnostico tecnologico (hibrido)": {
+    "title": "Desarrollador Full Stack Senior — Agnóstico Tecnológico (Híbrido)",
+    "company": "Keywe",
+    "score": 15,
+    "notified_at": "2026-09-23T17:47:41.641Z"
+  },
+  "randstad chile::analista programador junior": {
+    "title": "Analista Programador Junior",
+    "company": "Randstad Chile",
+    "score": 70,
+    "notified_at": "2026-09-23T17:48:30.142Z"
+  },
+  "stefanini latam::analista cobol senior – mainframe": {
+    "title": "Analista COBOL Senior – Mainframe",
+    "company": "Stefanini LATAM",
+    "score": 0,
+    "notified_at": "2026-09-23T17:48:30.148Z"
+  },
+  "muruna::🚀 desarrollador/a java senior | modernizacion legacy &amp; cloud-native ☁️ | 100% remoto 💙": {
+    "title": "🚀 Desarrollador/a Java Senior | Modernización Legacy &amp; Cloud-Native ☁️ | 100% Remoto 💙",
+    "company": "Muruna",
+    "score": 15,
+    "notified_at": "2026-09-23T17:48:41.516Z"
+  },
+  "kibernum s.a.::desarrollador/a de integraciones cloud senior — apis & azure": {
+    "title": "Desarrollador/a de Integraciones Cloud Senior — APIs & Azure",
+    "company": "KIBERNUM S.A.",
+    "score": 15,
+    "notified_at": "2026-09-23T17:48:41.518Z"
+  },
+  "iconstruye s.a.::desarrollador full-stack-plataforma marketplace para la construccion": {
+    "title": "Desarrollador Full-Stack-Plataforma Marketplace para la Construcción",
+    "company": "iConstruye S.A.",
+    "score": 100,
+    "notified_at": "2026-09-23T17:48:41.522Z"
+  },
+  "bairesdev::ingeniero de software .net core - trabajo remoto": {
+    "title": "Ingeniero de Software .NET Core - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 5,
+    "notified_at": "2026-09-23T17:48:41.523Z"
+  },
+  "kibernum s.a.::analista programador": {
+    "title": "Analista Programador",
+    "company": "KIBERNUM S.A.",
+    "score": 20,
+    "notified_at": "2026-09-23T17:48:52.027Z"
   }
 }
