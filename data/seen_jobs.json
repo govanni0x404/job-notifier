@@ -1,1 +1,2612 @@
-{}
+{
+  "gft technologies::desarrollador senior full stack - chile (santiago, cl, 7560949)": {
+    "title": "Desarrollador Senior Full Stack - Chile (Santiago, CL, 7560949)",
+    "company": "GFT Technologies",
+    "score": 70,
+    "notified_at": "2026-08-15T02:24:17.930Z"
+  },
+  "ticmoai::desarrollador full stack / java - hibrido": {
+    "title": "Desarrollador Full Stack  / Java - Híbrido",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-08-15T02:24:17.930Z"
+  },
+  "logistical services s.a::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Logistical Services S.A",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:17.931Z"
+  },
+  "matchfy agencia digital::desarrollador full-stack (por proyecto)": {
+    "title": "Desarrollador Full-stack (Por proyecto)",
+    "company": "MatchFY Agência Digital",
+    "score": 100,
+    "notified_at": "2026-08-15T02:24:17.931Z"
+  },
+  "tcit::full-stack semi senior (node.js y vue)": {
+    "title": "Full-Stack Semi Senior (Node.js y Vue)",
+    "company": "TCIT",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:17.931Z"
+  },
+  "vigatec s.a.::desarrollador full stack: proyectos en la nube y apis": {
+    "title": "Desarrollador Full Stack: Proyectos en la Nube y APIs",
+    "company": "VIGATEC S.A.",
+    "score": 65,
+    "notified_at": "2026-08-15T02:24:17.932Z"
+  },
+  "ccl - logistica sostenible::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "CCL - Logística Sostenible",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:17.932Z"
+  },
+  "bc tecnologia::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-08-15T02:24:17.932Z"
+  },
+  "bc tecnologia::desarrollador full-stack java": {
+    "title": "Desarrollador Full-Stack Java",
+    "company": "BC Tecnología",
+    "score": 45,
+    "notified_at": "2026-08-15T02:24:17.933Z"
+  },
+  "bc tecnologia::desarrollador/a full stack node.js / flutter!": {
+    "title": "Desarrollador/a Full Stack Node.js / Flutter!",
+    "company": "BC Tecnología",
+    "score": 55,
+    "notified_at": "2026-08-15T02:24:17.933Z"
+  },
+  "witi::back-end developer node.js aws": {
+    "title": "Back-end Developer Node.js AWS",
+    "company": "WiTI",
+    "score": 60,
+    "notified_at": "2026-08-15T02:24:21.935Z"
+  },
+  "acid labs spa::(cta1010) senior backend developer - node.js": {
+    "title": "(CTA1010) Senior Backend Developer - Node.js",
+    "company": "Acid Labs SpA",
+    "score": 100,
+    "notified_at": "2026-08-15T02:24:21.935Z"
+  },
+  "bc tecnologia::developer back-end node.js (proyecto)": {
+    "title": "Developer Back-end Node.js (Proyecto)",
+    "company": "BC Tecnología",
+    "score": 90,
+    "notified_at": "2026-08-15T02:24:21.936Z"
+  },
+  "kova corp::desarrollador(a) backend (node.js / apis)": {
+    "title": "Desarrollador(a) Backend (Node.js / APIs)",
+    "company": "KOVA Corp",
+    "score": 55,
+    "notified_at": "2026-08-15T02:24:21.936Z"
+  },
+  "2brains::full-stack developer foco back-end (node.js/nest react/next)": {
+    "title": "Full-Stack Developer Foco Back-end (Node.js/Nest React/Next)",
+    "company": "2BRAINS",
+    "score": 75,
+    "notified_at": "2026-08-15T02:24:21.936Z"
+  },
+  "gtrack.io::backend node.js & next.js - microservicios": {
+    "title": "Backend Node.js & Next.js - Microservicios",
+    "company": "Gtrack.io",
+    "score": 85,
+    "notified_at": "2026-08-15T02:24:21.936Z"
+  },
+  "finder hr::desarrollador backend node.js": {
+    "title": "Desarrollador Backend Node.js",
+    "company": "Finder HR",
+    "score": 65,
+    "notified_at": "2026-08-15T02:24:21.937Z"
+  },
+  "grupo savefamily::jefe de proyecto y backend (node.js) | microservicios": {
+    "title": "Jefe De Proyecto Y Backend (Node.Js) | Microservicios",
+    "company": "Grupo SaveFamily",
+    "score": 80,
+    "notified_at": "2026-08-15T02:24:21.937Z"
+  },
+  "sii group chile::desarrollador backend / node.js (senior)": {
+    "title": "Desarrollador Backend / Node.js (Senior)",
+    "company": "SII Group Chile",
+    "score": 85,
+    "notified_at": "2026-08-15T02:24:21.937Z"
+  },
+  "pf alimentos::practica informatica / area calidad y logistica - renca": {
+    "title": "Práctica Informática / Área Calidad y Logística - RENCA",
+    "company": "PF Alimentos",
+    "score": 5,
+    "notified_at": "2026-08-15T02:24:26.105Z"
+  },
+  "comercial portia::analista programador junior - recoleta region metropolitana": {
+    "title": "Analista Programador Junior - Recoleta Región Metropolitana",
+    "company": "Comercial Portia",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:26.105Z"
+  },
+  "sii chili::analista programador sql": {
+    "title": "Analista Programador SQL",
+    "company": "SII Chili",
+    "score": 25,
+    "notified_at": "2026-08-15T02:24:26.106Z"
+  },
+  "kibernum::analista programador .net": {
+    "title": "Analista Programador .Net",
+    "company": "Kibernum",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:26.106Z"
+  },
+  "bc tecnologia::analista programador cobol (mainframe ibm)": {
+    "title": "Analista Programador COBOL (Mainframe IBM)",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:26.107Z"
+  },
+  "partner consulting::analista programador full stack": {
+    "title": "Analista Programador Full Stack",
+    "company": "Partner Consulting",
+    "score": 25,
+    "notified_at": "2026-08-15T02:24:26.107Z"
+  },
+  "viggo::analista backend junior / residencia santiago": {
+    "title": "Analista Backend Junior / Residencia Santiago",
+    "company": "Viggo",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:26.108Z"
+  },
+  "aquachile::puestos vacantes: programador sistemas": {
+    "title": "Puestos vacantes: PROGRAMADOR SISTEMAS",
+    "company": "Aquachile",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:26.108Z"
+  },
+  "comercial portia::analista de redes junior": {
+    "title": "Analista de Redes Junior",
+    "company": "Comercial Portia",
+    "score": 0,
+    "notified_at": "2026-08-15T02:24:26.108Z"
+  },
+  "cpl transportes y logistica::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "CPL Transportes y Logistica",
+    "score": 30,
+    "notified_at": "2026-08-15T02:24:29.241Z"
+  },
+  "novaclima::desarrollador freelance de informes en erp softland": {
+    "title": "Desarrollador freelance de informes en ERP Softland",
+    "company": "Novaclima",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:29.242Z"
+  },
+  "briocomex::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "BrioComex",
+    "score": 45,
+    "notified_at": "2026-08-15T02:24:29.242Z"
+  },
+  "42labs::back-end developer .net": {
+    "title": "Back-end Developer .NET",
+    "company": "42Labs",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:29.242Z"
+  },
+  "sonda::desarrolladores de sw": {
+    "title": "Desarrolladores de SW",
+    "company": "SONDA",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:29.242Z"
+  },
+  "sii group chile::desarrollador java 🚀": {
+    "title": "Desarrollador Java 🚀",
+    "company": "SII Group Chile",
+    "score": 20,
+    "notified_at": "2026-08-15T02:24:29.243Z"
+  },
+  "hr profile::desarrollador/a de software quilicura (modalidad hibrida)": {
+    "title": "Desarrollador/a de Software  Quilicura (Modalidad Híbrida)",
+    "company": "HR Profile",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:29.243Z"
+  },
+  "kdu ingenieria::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "KDU Ingeniería",
+    "score": 65,
+    "notified_at": "2026-08-15T02:24:29.244Z"
+  },
+  "adecco chile::programador ti - santiago centro": {
+    "title": "Programador TI - Santiago Centro",
+    "company": "Adecco Chile",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:33.712Z"
+  },
+  "inprint::programador de plc allenbradley": {
+    "title": "Programador de PLC AllenBradley",
+    "company": "Inprint",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:33.712Z"
+  },
+  "confidencial::ingeniero informatico programador y diseno de sistemas": {
+    "title": "Ingeniero Informatico Programador y diseño de sistemas",
+    "company": "Confidencial",
+    "score": 95,
+    "notified_at": "2026-08-15T02:24:33.712Z"
+  },
+  "team-work::programador corto plazo (equipos mina) / antofagasta": {
+    "title": "Programador Corto Plazo (Equipos mina) / Antofagasta",
+    "company": "Team-Work",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:33.713Z"
+  },
+  "inclusive segurity spa::programador-desarrollador fullstack": {
+    "title": "PROGRAMADOR-DESARROLLADOR FULLSTACK",
+    "company": "inclusive segurity spa",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:33.713Z"
+  },
+  "consultora de servicios chile - bi::programador en software cas-chile": {
+    "title": "Programador en Software CAS-CHILE",
+    "company": "Consultora de Servicios CHILE - BI",
+    "score": 15,
+    "notified_at": "2026-08-15T02:24:33.713Z"
+  },
+  "robert walters::programador": {
+    "title": "Programador",
+    "company": "Robert Walters",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:33.714Z"
+  },
+  "grupoexpro::desarrollador web - providencia": {
+    "title": "Desarrollador web - Providencia",
+    "company": "GrupoExpro",
+    "score": 40,
+    "notified_at": "2026-08-15T02:24:33.714Z"
+  },
+  "sii group chile::programador full stack": {
+    "title": "Programador full stack",
+    "company": "SII Group Chile",
+    "score": 70,
+    "notified_at": "2026-08-15T02:24:33.715Z"
+  },
+  "gft technologies se::desarrollador senior full stack": {
+    "title": "Desarrollador Senior Full Stack",
+    "company": "GFT Technologies SE",
+    "score": 70,
+    "notified_at": "2026-08-15T13:34:36.430Z"
+  },
+  "randstad chile::full stack developer / java + spring boot": {
+    "title": "Full stack developer / Java + Spring Boot",
+    "company": "Randstad Chile",
+    "score": 35,
+    "notified_at": "2026-08-15T13:34:36.430Z"
+  },
+  "kibernum s.a.::desarrollador full stack .net / node.js / angular": {
+    "title": "Desarrollador Full Stack .NET / Node.js / Angular",
+    "company": "KIBERNUM S.A.",
+    "score": 75,
+    "notified_at": "2026-08-15T13:34:40.027Z"
+  },
+  "2brains::front-end developer angular / ia": {
+    "title": "Front-end Developer Angular / IA",
+    "company": "2BRAINS",
+    "score": 20,
+    "notified_at": "2026-08-15T13:34:43.565Z"
+  },
+  "mundo::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "Mundo",
+    "score": 30,
+    "notified_at": "2026-08-15T13:35:01.428Z"
+  },
+  "manpower chile::desarrollador software - backend/integracion": {
+    "title": "Desarrollador software - backend/integración",
+    "company": "Manpower Chile",
+    "score": 45,
+    "notified_at": "2026-08-15T13:35:01.428Z"
+  },
+  "confidencial::programador (sistemas de seguridad).": {
+    "title": "Programador (Sistemas de Seguridad).",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-08-15T13:35:07.735Z"
+  },
+  "getronics::programador/a": {
+    "title": "Programador/a",
+    "company": "Getronics",
+    "score": 25,
+    "notified_at": "2026-08-15T13:35:07.735Z"
+  },
+  "abenis::programador senior": {
+    "title": "Programador Senior",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-08-15T13:35:07.736Z"
+  },
+  "holding grupo firma::oportunidad laboral: analista / ingeniero desarrollador fullstack (junior)": {
+    "title": "Oportunidad Laboral: Analista / Ingeniero Desarrollador Fullstack (Junior)",
+    "company": "Holding Grupo Firma",
+    "score": 60,
+    "notified_at": "2026-08-16T13:35:45.723Z"
+  },
+  "e- shopping express s.a::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "E- SHOPPING EXPRESS S.A",
+    "score": 70,
+    "notified_at": "2026-08-16T13:35:45.724Z"
+  },
+  "grupo t.s.a logistica y transporte::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Grupo T.S.A Logística y Transporte",
+    "score": 40,
+    "notified_at": "2026-08-16T13:35:45.725Z"
+  },
+  "bc tecnologia::desarrollador full-stack java j2ee": {
+    "title": "Desarrollador Full-Stack Java J2EE",
+    "company": "BC Tecnología",
+    "score": 15,
+    "notified_at": "2026-08-16T13:35:45.725Z"
+  },
+  "kibernum s.a.::fullstack senior node.js + angular – gcp": {
+    "title": "Fullstack Senior Node.js + Angular – GCP",
+    "company": "KIBERNUM S.A.",
+    "score": 80,
+    "notified_at": "2026-08-16T13:35:51.820Z"
+  },
+  "tsoft::desarrollador/a javascript / node.js ssr": {
+    "title": "Desarrollador/a JavaScript / Node.js SSR",
+    "company": "Tsoft",
+    "score": 100,
+    "notified_at": "2026-08-16T13:35:51.821Z"
+  },
+  "de lei interim::backend node.js engineer — apis, microservices & architecture": {
+    "title": "Backend Node.js Engineer — APIs, Microservices & Architecture",
+    "company": "De Lei Interim",
+    "score": 55,
+    "notified_at": "2026-08-16T13:35:51.821Z"
+  },
+  "avos tech | chile::analista de datos junior — proyecto 3 meses": {
+    "title": "Analista de Datos Junior — Proyecto 3 Meses",
+    "company": "AVOS Tech | Chile",
+    "score": 0,
+    "notified_at": "2026-08-16T13:35:57.288Z"
+  },
+  "bc tecnologia::analista/programador angular": {
+    "title": "Analista/Programador Angular",
+    "company": "BC Tecnología",
+    "score": 15,
+    "notified_at": "2026-08-16T13:35:57.289Z"
+  },
+  "procesia::analista/programador j2ee": {
+    "title": "Analista/Programador J2EE",
+    "company": "Procesia",
+    "score": 20,
+    "notified_at": "2026-08-16T13:35:57.290Z"
+  },
+  "softgroup servicios computacionales limitada.::analista programador": {
+    "title": "Analista Programador",
+    "company": "SoftGroup Servicios Computacionales limitada.",
+    "score": 20,
+    "notified_at": "2026-08-16T13:35:57.290Z"
+  },
+  "pinto y asociados ltda.::desarrollador web junior: software, soporte y mejora": {
+    "title": "Desarrollador Web Junior: Software, Soporte y Mejora",
+    "company": "Pinto y Asociados Ltda.",
+    "score": 15,
+    "notified_at": "2026-08-16T13:36:03.941Z"
+  },
+  "conkord::developer python": {
+    "title": "Developer Python",
+    "company": "CONKORD",
+    "score": 25,
+    "notified_at": "2026-08-16T13:36:03.941Z"
+  },
+  "bc tecnologia::desarrollador/a de software": {
+    "title": "Desarrollador/a de Software",
+    "company": "BC Tecnología",
+    "score": 40,
+    "notified_at": "2026-08-16T13:36:03.942Z"
+  },
+  "coderslab::desarrollador(a) fullstack senior go": {
+    "title": "Desarrollador(a) Fullstack Senior GO",
+    "company": "CodersLab",
+    "score": 70,
+    "notified_at": "2026-08-16T13:36:03.943Z"
+  },
+  "randstad::desarrollador php": {
+    "title": "Desarrollador php",
+    "company": "Randstad",
+    "score": 30,
+    "notified_at": "2026-08-16T13:36:09.701Z"
+  },
+  "eurofirms chile::informatico programador / santiago, rm.": {
+    "title": "Informático  Programador / Santiago, RM.",
+    "company": "Eurofirms Chile",
+    "score": 40,
+    "notified_at": "2026-08-16T13:36:09.702Z"
+  },
+  "smu s.a.::desarrollador(a) fullstack sr - presencial, las condes": {
+    "title": "Desarrollador(a) Fullstack SR - Presencial, Las Condes",
+    "company": "SMU S.A.",
+    "score": 20,
+    "notified_at": "2026-08-16T13:36:09.703Z"
+  },
+  "chile finance advisors s.a.::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Chile Finance Advisors S.A.",
+    "score": 50,
+    "notified_at": "2026-08-17T13:43:04.777Z"
+  },
+  "compania minera san geronimo::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Compania Minera San Geronimo",
+    "score": 50,
+    "notified_at": "2026-08-17T13:43:04.778Z"
+  },
+  "copec s.a.::desarrollador/a full stack senior": {
+    "title": "Desarrollador/a Full Stack Senior",
+    "company": "COPEC S.A.",
+    "score": 100,
+    "notified_at": "2026-08-17T13:43:04.779Z"
+  },
+  "ticmoai::desarrollador full stack / java": {
+    "title": "Desarrollador Full Stack / Java",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-08-17T13:43:04.780Z"
+  },
+  "mitsui auto finance chile limitada::full-stack developer": {
+    "title": "Full-Stack Developer",
+    "company": "MITSUI AUTO FINANCE CHILE LIMITADA",
+    "score": 20,
+    "notified_at": "2026-08-17T13:43:04.781Z"
+  },
+  "sii group chile::senior node.js": {
+    "title": "Senior Node.js",
+    "company": "SII Group Chile",
+    "score": 40,
+    "notified_at": "2026-08-17T13:43:11.163Z"
+  },
+  "consistor chile::desarrollador backend (node js)- teletrabajo": {
+    "title": "Desarrollador Backend (Node JS)- Teletrabajo",
+    "company": "Consistor Chile",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:11.164Z"
+  },
+  "bc tecnologia::full stack node.js/angular — remoto": {
+    "title": "Full Stack Node.js/Angular — Remoto",
+    "company": "BC Tecnologia",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:11.165Z"
+  },
+  "atmira::analyst & developer temenos": {
+    "title": "Analyst & Developer Temenos",
+    "company": "atmira",
+    "score": 15,
+    "notified_at": "2026-08-17T13:43:15.765Z"
+  },
+  "dcs chile::desarrollador sr fullstack": {
+    "title": "Desarrollador SR Fullstack",
+    "company": "DCS Chile",
+    "score": 70,
+    "notified_at": "2026-08-17T13:43:15.766Z"
+  },
+  "banco de chile::desarrollador avanzado": {
+    "title": "Desarrollador Avanzado",
+    "company": "Banco de Chile",
+    "score": 65,
+    "notified_at": "2026-08-17T13:43:25.129Z"
+  },
+  "global security service::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Global Security Service",
+    "score": 40,
+    "notified_at": "2026-08-17T13:43:34.849Z"
+  },
+  "altia::desarrollador(a) (fullstack/front/back)": {
+    "title": "Desarrollador(a) (fullstack/Front/back)",
+    "company": "Altia",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:28.908Z"
+  },
+  "sonda::desarrollador fullstack senior .net - base de datos": {
+    "title": "Desarrollador Fullstack Senior .NET - Base de datos",
+    "company": "SONDA",
+    "score": 35,
+    "notified_at": "2026-08-18T13:47:28.910Z"
+  },
+  "siigsa::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "SIIGSA",
+    "score": 40,
+    "notified_at": "2026-08-18T13:47:28.910Z"
+  },
+  "apside::healthtech full-stack developer: angular, nestjs & oracle": {
+    "title": "HealthTech Full-Stack Developer: Angular, NestJS & Oracle",
+    "company": "Apside",
+    "score": 50,
+    "notified_at": "2026-08-18T13:47:28.913Z"
+  },
+  "acelerex::remote full-stack engineer — energy analytics": {
+    "title": "Remote Full-Stack Engineer — Energy Analytics",
+    "company": "Acelerex",
+    "score": 40,
+    "notified_at": "2026-08-18T13:47:28.913Z"
+  },
+  "manpower chile::desarrollador full stack - remoto chile": {
+    "title": "Desarrollador Full Stack - Remoto Chile",
+    "company": "Manpower Chile",
+    "score": 25,
+    "notified_at": "2026-08-18T13:47:28.914Z"
+  },
+  "atcom chile::desarrollador web fullstack react + node.js | modalidad hibrida": {
+    "title": "Desarrollador Web Fullstack React + Node.js | Modalidad Híbrida",
+    "company": "ATCOM Chile",
+    "score": 85,
+    "notified_at": "2026-08-18T13:47:35.511Z"
+  },
+  "sms sudamerica::analista programador full stack": {
+    "title": "Analista Programador Full Stack",
+    "company": "Sms Sudamerica",
+    "score": 25,
+    "notified_at": "2026-08-18T13:47:42.449Z"
+  },
+  "comercial portia::analista de redes junior - recoleta region metropolitana": {
+    "title": "Analista de Redes Junior - Recoleta Región Metropolitana",
+    "company": "Comercial Portia",
+    "score": 0,
+    "notified_at": "2026-08-18T13:47:42.450Z"
+  },
+  "tata consultancy services::analista/desarrollador sql/murex (contrato indefinido)": {
+    "title": "Analista/desarrollador SQL/Murex (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-18T13:47:42.451Z"
+  },
+  "tcit::senior full-stack react y node.js full time": {
+    "title": "Senior Full-Stack React y Node.js Full time",
+    "company": "TCIT",
+    "score": 60,
+    "notified_at": "2026-08-18T13:47:48.009Z"
+  },
+  "consistor chile::desarrollador salesforce 2 anos de experiencia (hibrido)": {
+    "title": "Desarrollador Salesforce 2 años de experiencia (híbrido)",
+    "company": "Consistor Chile",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:48.011Z"
+  },
+  "btg pactual chile::desarrollador junior: innovacion en software con aws": {
+    "title": "Desarrollador Júnior: Innovación en Software con AWS",
+    "company": "BTG Pactual Chile",
+    "score": 55,
+    "notified_at": "2026-08-18T13:47:48.011Z"
+  },
+  "kolossus asesorias spa::analista programador": {
+    "title": "Analista Programador",
+    "company": "Kolossus Asesorias SpA",
+    "score": 55,
+    "notified_at": "2026-08-18T13:47:52.470Z"
+  },
+  "cfi group inversiones::programadores nuevo sistema app - web": {
+    "title": "Programadores Nuevo Sistema App - Web",
+    "company": "CFI Group Inversiones",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:52.471Z"
+  },
+  "grupo barrientos::programador con experiencia": {
+    "title": "Programador con Experiencia",
+    "company": "Grupo Barrientos",
+    "score": 15,
+    "notified_at": "2026-08-18T13:47:52.471Z"
+  },
+  "ld constructora::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "LD Constructora",
+    "score": 50,
+    "notified_at": "2026-08-19T13:49:09.798Z"
+  },
+  "via central comunicaciones::senior full stack developer / technical solutions engineer": {
+    "title": "Senior Full Stack Developer / Technical Solutions Engineer",
+    "company": "Vía Central Comunicaciones",
+    "score": 95,
+    "notified_at": "2026-08-19T13:49:09.799Z"
+  },
+  "bairesdev::senior full-stack engineer (react, node.js, typescript) - remote work | ref#301454": {
+    "title": "Senior Full-Stack Engineer (React, Node.js, TypeScript) - Remote Work | REF#301454",
+    "company": "BairesDev",
+    "score": 50,
+    "notified_at": "2026-08-19T13:49:09.801Z"
+  },
+  "impotec::desarrollador full-stack (html, css, php, mysql)": {
+    "title": "Desarrollador Full-Stack (HTML, CSS, PHP, MYSQL)",
+    "company": "IMPOTEC",
+    "score": 60,
+    "notified_at": "2026-08-19T13:49:09.802Z"
+  },
+  "bc tecnologia::desarrollador(a) full-stack java/react": {
+    "title": "Desarrollador(a) Full-Stack Java/React",
+    "company": "BC Tecnología",
+    "score": 100,
+    "notified_at": "2026-08-19T13:49:09.803Z"
+  },
+  "gtrack.io::backend node.js": {
+    "title": "Backend Node.js",
+    "company": "Gtrack.io",
+    "score": 85,
+    "notified_at": "2026-08-19T13:49:16.054Z"
+  },
+  "sii group chile::senior node.js & typescript backend engineer": {
+    "title": "Senior Node.js & TypeScript Backend Engineer",
+    "company": "SII Group Chile",
+    "score": 55,
+    "notified_at": "2026-08-19T13:49:16.089Z"
+  },
+  "atcom::analista programador (c#) – sistemas contables y remuneraciones - providencia": {
+    "title": "Analista Programador (C#) – Sistemas Contables y Remuneraciones - Providencia",
+    "company": "ATCOM",
+    "score": 35,
+    "notified_at": "2026-08-19T13:49:22.134Z"
+  },
+  "policomp s.a.::desarrollador senior full stack": {
+    "title": "Desarrollador Senior Full Stack",
+    "company": "Policomp S.A.",
+    "score": 40,
+    "notified_at": "2026-08-19T13:49:22.146Z"
+  },
+  "avos tech::analista programador, analista de datos junior": {
+    "title": "Analista programador, analista de datos Junior",
+    "company": "Avos Tech",
+    "score": 15,
+    "notified_at": "2026-08-19T13:49:22.148Z"
+  },
+  "sonda::desarrollador de software fullstack - ia generativa": {
+    "title": "Desarrollador de Software Fullstack - IA Generativa",
+    "company": "SONDA",
+    "score": 35,
+    "notified_at": "2026-08-19T13:49:32.946Z"
+  },
+  "sigma::ingeniero(a) de desarrollo de software": {
+    "title": "Ingeniero(a) de Desarrollo de Software",
+    "company": "SIGMA",
+    "score": 60,
+    "notified_at": "2026-08-19T13:49:32.947Z"
+  },
+  "getronics::programador/a murex datamart": {
+    "title": "Programador/a Murex Datamart",
+    "company": "Getronics",
+    "score": 20,
+    "notified_at": "2026-08-19T13:49:41.580Z"
+  },
+  "siigsa::desarrollador full stack .net": {
+    "title": "Desarrollador Full Stack .Net",
+    "company": "SIIGSA",
+    "score": 40,
+    "notified_at": "2026-08-20T13:50:49.064Z"
+  },
+  "agtec servicios informaticos::developer full stack / ia generativa / go / python / next.js - copilot said: go, python, next.js, apis rest, ia generativa, desarrollo full stack": {
+    "title": "Developer Full Stack / IA Generativa / Go / Python / Next.js - Copilot said:  Go, Python, Next.js, APIs REST, IA Generativa, Desarrollo Full Stack",
+    "company": "AGtec Servicios Informáticos",
+    "score": 45,
+    "notified_at": "2026-08-20T13:50:49.066Z"
+  },
+  "fullstack::full stack developer (elixir/phoenix + ruby on rails) - remote - latin america": {
+    "title": "Full Stack Developer (Elixir/Phoenix + Ruby on Rails) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 80,
+    "notified_at": "2026-08-20T13:50:49.069Z"
+  },
+  "emergya chile::desarrollador full stack senior para salud y microservicios": {
+    "title": "Desarrollador Full Stack Senior para Salud y Microservicios",
+    "company": "Emergya Chile",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:49.069Z"
+  },
+  "puelche hc::desarrollador full stack | impacto en negocio | presencial": {
+    "title": "Desarrollador Full Stack | Impacto en Negocio | Presencial",
+    "company": "Puelche HC",
+    "score": 15,
+    "notified_at": "2026-08-20T13:50:49.070Z"
+  },
+  "nico seguros::desarrollador/a full-stack senior": {
+    "title": "Desarrollador/a Full-Stack Senior",
+    "company": "NICO Seguros",
+    "score": 65,
+    "notified_at": "2026-08-20T13:50:49.071Z"
+  },
+  "kpaz::backend developer aws | python / node.js": {
+    "title": "Backend Developer AWS | Python / Node.js",
+    "company": "KPaz",
+    "score": 90,
+    "notified_at": "2026-08-20T13:50:54.874Z"
+  },
+  "bairesdev::senior flutter & node.js engineer - remote work | ref#301439": {
+    "title": "Senior Flutter & Node.js Engineer - Remote Work | REF#301439",
+    "company": "BairesDev",
+    "score": 40,
+    "notified_at": "2026-08-20T13:50:54.876Z"
+  },
+  "bc tecnologia::senior full-stack engineer: node.js": {
+    "title": "Senior Full-Stack Engineer: Node.js",
+    "company": "BC Tecnología",
+    "score": 30,
+    "notified_at": "2026-08-20T13:50:54.878Z"
+  },
+  "plexus tech::node.js developer": {
+    "title": "Node.js  Developer",
+    "company": "Plexus Tech",
+    "score": 100,
+    "notified_at": "2026-08-20T13:50:54.879Z"
+  },
+  "global tuning .::analista programador - experiencia en desarrollo": {
+    "title": "Analista programador - Experiencia en desarrollo",
+    "company": "Global Tuning .",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:59.085Z"
+  },
+  "getronics::analista programador/a oracle osb (oracle service bus)": {
+    "title": "Analista Programador/a Oracle OSB (Oracle Service Bus)",
+    "company": "Getronics",
+    "score": 20,
+    "notified_at": "2026-08-20T13:50:59.086Z"
+  },
+  "kpaz::desarrollador rpg": {
+    "title": "Desarrollador RPG",
+    "company": "KPaz",
+    "score": 15,
+    "notified_at": "2026-08-20T13:51:03.260Z"
+  },
+  "vilzo consultoria::desarrollador/a de software full stack – vi region": {
+    "title": "Desarrollador/a de Software Full Stack – VI Región",
+    "company": "Vilzo Consultoría",
+    "score": 20,
+    "notified_at": "2026-08-20T13:51:03.261Z"
+  },
+  "h&l auditores consultores::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "H&L Auditores Consultores",
+    "score": 40,
+    "notified_at": "2026-08-20T13:51:03.262Z"
+  },
+  "getdata (cl)::desarrollador de pl/sql": {
+    "title": "Desarrollador de PL/SQL",
+    "company": "Getdata (CL)",
+    "score": 25,
+    "notified_at": "2026-08-20T13:51:03.263Z"
+  },
+  "sonda::desarrollador de software — innovacion y aprendizaje": {
+    "title": "Desarrollador de Software — Innovación y Aprendizaje",
+    "company": "SONDA",
+    "score": 15,
+    "notified_at": "2026-08-20T13:51:03.264Z"
+  },
+  "athenaworks::mid-senior full-stack engineer (java or python + react, typescript, aws)": {
+    "title": "Mid-Senior Full-Stack Engineer (Java OR Python + React, TypeScript, AWS)",
+    "company": "Athenaworks",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:13.776Z"
+  },
+  "agtec servicios informaticos::developer full stack / ia generativa / go / python / next.js": {
+    "title": "Developer Full Stack / IA Generativa / Go / Python / Next.js",
+    "company": "AGtec Servicios Informáticos",
+    "score": 45,
+    "notified_at": "2026-08-21T13:50:13.777Z"
+  },
+  "todotelecomunicaciones::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "TodoTelecomunicaciones",
+    "score": 40,
+    "notified_at": "2026-08-21T13:50:13.780Z"
+  },
+  "tcit::senior full-stack react y node.js": {
+    "title": "Senior Full-Stack React y Node.js",
+    "company": "TCIT",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:18.493Z"
+  },
+  "finder hr & finder it uniendo personas::desarrollador backend node.js: apis, oracle y seguridad": {
+    "title": "Desarrollador Backend Node.js: APIs, Oracle y Seguridad",
+    "company": "Finder HR & Finder IT Uniendo Personas",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:18.493Z"
+  },
+  "bc tecnologia::senior full-stack node.js/gcp": {
+    "title": "Senior Full-Stack Node.js/GCP",
+    "company": "BC Tecnología",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:18.495Z"
+  },
+  "consistor chile::desarrollador backend (node.js y next.js)": {
+    "title": "Desarrollador Backend (Node.JS y next.js)",
+    "company": "Consistor Chile",
+    "score": 70,
+    "notified_at": "2026-08-21T13:50:18.496Z"
+  },
+  "confidencial::ingeniero de desarrollo informatico": {
+    "title": "Ingeniero de Desarrollo informático",
+    "company": "Confidencial",
+    "score": 60,
+    "notified_at": "2026-08-21T13:50:22.743Z"
+  },
+  "kpaz::desarrollador cobol": {
+    "title": "Desarrollador COBOL",
+    "company": "KPaz",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:22.746Z"
+  },
+  "agap2 espana::analista programador fullstack (angular y.net)": {
+    "title": "Analista Programador Fullstack (Angular y.Net)",
+    "company": "agap2 España",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:22.747Z"
+  },
+  "empresa de servicios tecnologicos::analista de sistemas y desarrollo junior — soluciones y soporte": {
+    "title": "Analista de Sistemas y Desarrollo Junior — Soluciones y Soporte",
+    "company": "Empresa de servicios tecnológicos",
+    "score": 5,
+    "notified_at": "2026-08-21T13:50:22.749Z"
+  },
+  "stefanini group::fullstack developer - go y python - hibrido": {
+    "title": "Fullstack Developer - Go y Python - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 30,
+    "notified_at": "2026-08-21T13:50:26.035Z"
+  },
+  "tsoft::desarrollador/a de software senior (node.js + cloud + ia)": {
+    "title": "Desarrollador/a de Software Senior (Node.js + Cloud + IA)",
+    "company": "Tsoft",
+    "score": 50,
+    "notified_at": "2026-08-21T13:50:26.039Z"
+  },
+  "ada 4 solutions & head hunting::lider tecnico iam o desarrollador senior full stack (proyecto 4 meses)": {
+    "title": "Líder Técnico IAM o Desarrollador Senior Full Stack (Proyecto 4 meses)",
+    "company": "ADA 4 Solutions & Head Hunting",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:26.040Z"
+  },
+  "assendo servicios tecnologicos spa::back end developer": {
+    "title": "Back End Developer",
+    "company": "Assendo Servicios Tecnológicos SPA",
+    "score": 20,
+    "notified_at": "2026-08-21T13:50:26.041Z"
+  },
+  "ntt data emeal::desarrollador/a fullstack python": {
+    "title": "Desarrollador/a FullStack Python",
+    "company": "NTT DATA EMEAL",
+    "score": 40,
+    "notified_at": "2026-08-21T13:50:26.042Z"
+  },
+  "grupo sms chile spa::desarrollador .net - proyecto 3 meses": {
+    "title": "Desarrollador .net - Proyecto 3 meses",
+    "company": "GRUPO SMS CHILE SPA",
+    "score": 15,
+    "notified_at": "2026-08-21T13:50:30.879Z"
+  },
+  "layner::desarrollador(a) full stack": {
+    "title": "Desarrollador(a) Full Stack",
+    "company": "Layner",
+    "score": 100,
+    "notified_at": "2026-08-22T13:35:54.329Z"
+  },
+  "tapsa s.a.::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Tapsa S.A.",
+    "score": 50,
+    "notified_at": "2026-08-22T13:35:54.330Z"
+  },
+  "ventas atc::¡estamos buscando full stack developer – ecommerce!": {
+    "title": "¡Estamos buscando Full Stack Developer – eCommerce!",
+    "company": "Ventas ATC",
+    "score": 30,
+    "notified_at": "2026-08-22T13:35:54.332Z"
+  },
+  "centro medico bulnes::desarrollador/a junior full stack (movil y web con ia)": {
+    "title": "Desarrollador/a Junior Full Stack (Móvil y Web con IA)",
+    "company": "Centro Médico Bulnes",
+    "score": 50,
+    "notified_at": "2026-08-22T13:35:54.333Z"
+  },
+  "gft technologies latam::desarrollador fullstack java react hibrido santiago de chile": {
+    "title": "Desarrollador Fullstack Java React Híbrido Santiago de Chile",
+    "company": "GFT Technologies LATAM",
+    "score": 65,
+    "notified_at": "2026-08-22T13:35:54.334Z"
+  },
+  "deloitte::full stack developers": {
+    "title": "Full Stack Developers",
+    "company": "Deloitte",
+    "score": 65,
+    "notified_at": "2026-08-22T13:35:54.335Z"
+  },
+  "join ready::desarrollador de software semi senior– node.js & typescript": {
+    "title": "Desarrollador de Software Semi senior– Node.js & TypeScript",
+    "company": "Join ready",
+    "score": 55,
+    "notified_at": "2026-08-22T13:35:59.158Z"
+  },
+  "sii group chile::programador cobol": {
+    "title": "Programador COBOL",
+    "company": "SII Group Chile",
+    "score": 15,
+    "notified_at": "2026-08-22T13:36:03.273Z"
+  },
+  "tata consultancy services::analista programador cobol batch (contrato indefinido)": {
+    "title": "Analista Programador Cobol Batch (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-22T13:36:03.274Z"
+  },
+  "atcom::analista programador": {
+    "title": "Analista Programador",
+    "company": "Atcom",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:03.275Z"
+  },
+  "experis chile::analista de soporte para ti": {
+    "title": "Analista de soporte para TI",
+    "company": "Experis Chile",
+    "score": 0,
+    "notified_at": "2026-08-22T13:36:03.276Z"
+  },
+  "xinerlink - unidad mineria::analista programador /qa - quilicura": {
+    "title": "Analista Programador /QA - Quilicura",
+    "company": "Xinerlink - Unidad Minería",
+    "score": 20,
+    "notified_at": "2026-08-22T13:36:03.277Z"
+  },
+  "solheiro advogados associados::desarrolladores bantotal": {
+    "title": "Desarrolladores Bantotal",
+    "company": "Solheiro Advogados Associados",
+    "score": 25,
+    "notified_at": "2026-08-22T13:36:11.750Z"
+  },
+  "we are tims::desarrollador/a de software – (remote chile / usd)": {
+    "title": "Desarrollador/a de Software – (Remote Chile / USD)",
+    "company": "We Are TIMS",
+    "score": 85,
+    "notified_at": "2026-08-22T13:36:11.751Z"
+  },
+  "bctecnologia::desarrollador batch y automatizacion": {
+    "title": "Desarrollador Batch y Automatización",
+    "company": "BCTecnología",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:11.752Z"
+  },
+  "kibernum s.a.::desarrollador backend java": {
+    "title": "Desarrollador Backend Java",
+    "company": "KIBERNUM S.A.",
+    "score": 25,
+    "notified_at": "2026-08-22T13:36:11.753Z"
+  },
+  "weyland ingenieria limitada::desarrollador web": {
+    "title": "Desarrollador Web",
+    "company": "Weyland Ingeniería Limitada",
+    "score": 45,
+    "notified_at": "2026-08-22T13:36:20.126Z"
+  },
+  "confidential::desarrollador/a de automatizacion e integraciones": {
+    "title": "Desarrollador/a de Automatización e Integraciones",
+    "company": "Confidential",
+    "score": 35,
+    "notified_at": "2026-08-22T13:36:20.127Z"
+  },
+  "cyd ingenieria::ito programador": {
+    "title": "ITO Programador",
+    "company": "CyD Ingeniería",
+    "score": 15,
+    "notified_at": "2026-08-22T13:36:20.128Z"
+  },
+  "kibernum s.a.::fullstack developer senior/integraciones apis": {
+    "title": "FullStack Developer Senior/Integraciones APIs",
+    "company": "KIBERNUM S.A.",
+    "score": 20,
+    "notified_at": "2026-08-23T13:35:59.834Z"
+  },
+  "imagemaker::desarrollador full-stack java": {
+    "title": "Desarrollador Full-Stack Java",
+    "company": "Imagemaker",
+    "score": 20,
+    "notified_at": "2026-08-23T13:35:59.838Z"
+  },
+  "getdata (cl)::desarrollador full stack (trainee)": {
+    "title": "Desarrollador Full Stack (Trainee)",
+    "company": "Getdata (CL)",
+    "score": 65,
+    "notified_at": "2026-08-23T13:35:59.839Z"
+  },
+  "bc tecnologia::desarrollador(a) node.js": {
+    "title": "Desarrollador(a)  Node.js",
+    "company": "BC Tecnología",
+    "score": 65,
+    "notified_at": "2026-08-23T13:36:03.639Z"
+  },
+  "gtrack.io::desarrollador backend (node.js & next.js)": {
+    "title": "Desarrollador Backend (Node.js & Next.js)",
+    "company": "Gtrack.io",
+    "score": 100,
+    "notified_at": "2026-08-23T13:36:03.644Z"
+  },
+  "tata consultancy services::desarrollador batch y automatizaciones (contrato indefinido)": {
+    "title": "Desarrollador Batch y automatizaciones (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-23T13:36:23.521Z"
+  },
+  "agilistik::developer back-end go (5 meses)": {
+    "title": "Developer Back-end Go (5 Meses)",
+    "company": "AGILISTIK",
+    "score": 50,
+    "notified_at": "2026-08-23T13:36:23.522Z"
+  },
+  "sonda::desarrollador de software fullstack ia generativa": {
+    "title": "Desarrollador de Software Fullstack IA Generativa",
+    "company": "Sonda",
+    "score": 35,
+    "notified_at": "2026-08-23T13:36:23.523Z"
+  },
+  "perceptual consultores ltda.::ingeniero desarrollador fullstack react / typscript - contrato indefinido": {
+    "title": "Ingeniero Desarrollador FullStack React / Typscript - Contrato Indefinido",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 100,
+    "notified_at": "2026-08-23T13:36:23.524Z"
+  },
+  "tata consultancy services chile::desarrollador fullstack app mobile": {
+    "title": "Desarrollador FullStack APP Mobile",
+    "company": "Tata Consultancy Services Chile",
+    "score": 60,
+    "notified_at": "2026-08-23T13:36:23.525Z"
+  },
+  "confidencial::programador bms automatizacion y control maule": {
+    "title": "Programador BMS Automatización y Control Maule",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-08-23T13:36:25.515Z"
+  },
+  "cyd ingenieria::26261-4 ito programador construccion de recinto de salud": {
+    "title": "26261-4 ITO Programador Construcción de Recinto de Salud",
+    "company": "CyD Ingeniería",
+    "score": 15,
+    "notified_at": "2026-08-23T13:36:25.515Z"
+  },
+  "gf system::analista/ingeniero desarrollador – full stack junior (angular/react)": {
+    "title": "Analista/Ingeniero Desarrollador – Full Stack Junior (Angular/React)",
+    "company": "GF SYSTEM",
+    "score": 20,
+    "notified_at": "2026-08-23T13:36:25.516Z"
+  },
+  "ucv::practica ingenieria informatica o programador": {
+    "title": "Practica Ingenieria informatica o Programador",
+    "company": "UCV",
+    "score": 40,
+    "notified_at": "2026-08-23T13:36:25.517Z"
+  },
+  "herreros human konsulting::programador y control": {
+    "title": "Programador y Control",
+    "company": "HERREROS HUMAN KONSULTING",
+    "score": 15,
+    "notified_at": "2026-08-23T13:36:25.518Z"
+  },
+  "dts spa::programadores(as) / desarrollares (as) informaticos (ti)": {
+    "title": "Programadores(as) / Desarrollares (as) informaticos (TI)",
+    "company": "DTS Spa",
+    "score": 20,
+    "notified_at": "2026-08-23T13:36:25.519Z"
+  },
+  "sigma::ingeniero(a) programador(a)": {
+    "title": "Ingeniero(a) Programador(a)",
+    "company": "Sigma",
+    "score": 15,
+    "notified_at": "2026-08-23T13:36:25.520Z"
+  },
+  "red salud uc christus servicios ambulatorios::practica profesional programador – desarrollo de aplicaciones (java)": {
+    "title": "Práctica Profesional Programador – Desarrollo de Aplicaciones (Java)",
+    "company": "Red salud UC CHRISTUS servicios ambulatorios",
+    "score": 45,
+    "notified_at": "2026-08-23T13:36:25.520Z"
+  },
+  "industrial y comercial opera group::4. ingeniero/a full-stack": {
+    "title": "4.\tIngeniero/a Full-Stack",
+    "company": "Industrial y Comercial Opera Group",
+    "score": 25,
+    "notified_at": "2026-08-24T13:55:51.488Z"
+  },
+  "sii group chile::senior full-stack engineer | hybrid (arquitecturas modernas)": {
+    "title": "Senior Full-Stack Engineer | Hybrid (Arquitecturas Modernas)",
+    "company": "SII Group Chile",
+    "score": 15,
+    "notified_at": "2026-08-24T13:55:51.491Z"
+  },
+  "bc tecnologia::desarrollador full-stack senior java | e-commerce & devops": {
+    "title": "Desarrollador Full-Stack Senior Java | E-commerce & DevOps",
+    "company": "BC Tecnología",
+    "score": 100,
+    "notified_at": "2026-08-24T13:55:51.494Z"
+  },
+  "2brains::senior full-stack developer: angular/go + ai": {
+    "title": "Senior Full-Stack Developer: Angular/Go + AI",
+    "company": "2Brains",
+    "score": 20,
+    "notified_at": "2026-08-24T13:55:51.495Z"
+  },
+  "tecnova::analista de desarrollo react.js node.js": {
+    "title": "Analista de Desarrollo React.js Node.js",
+    "company": "Tecnova",
+    "score": 55,
+    "notified_at": "2026-08-24T13:55:57.908Z"
+  },
+  "talentcross::desarrollador backend node.js bff senior": {
+    "title": "Desarrollador Backend Node.js BFF Senior",
+    "company": "Talentcross",
+    "score": 55,
+    "notified_at": "2026-08-24T13:55:57.910Z"
+  },
+  "kibernum s.a.::desarrollador fullstack senior node.js / react": {
+    "title": "Desarrollador Fullstack Senior Node.js / React",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-08-24T13:55:57.911Z"
+  },
+  "tata consultancy services chile s.a::analista programador cobol cics - bech": {
+    "title": "Analista Programador Cobol Cics - BECH",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 20,
+    "notified_at": "2026-08-24T13:56:02.592Z"
+  },
+  "bc tecnologia::desarrollador batch y automatizacion": {
+    "title": "Desarrollador Batch y Automatización",
+    "company": "BC Tecnología",
+    "score": 35,
+    "notified_at": "2026-08-24T13:56:07.228Z"
+  },
+  "echeverria izquierdo::desarrollador de software industrial | gestion de proyectos": {
+    "title": "Desarrollador de Software Industrial | Gestión de Proyectos",
+    "company": "ECHEVERRIA IZQUIERDO",
+    "score": 15,
+    "notified_at": "2026-08-24T13:56:07.230Z"
+  },
+  "sii group chile::programador full stack (java + react)": {
+    "title": "Programador full stack (JAVA + React)",
+    "company": "SII Group Chile",
+    "score": 90,
+    "notified_at": "2026-08-24T13:56:11.812Z"
+  },
+  "apiux tech::desarrollador full stack / devops": {
+    "title": "Desarrollador Full Stack / DevOps",
+    "company": "Apiux Tech",
+    "score": 95,
+    "notified_at": "2026-08-25T13:54:47.107Z"
+  },
+  "laboratorio laboral spa::full-stack developer full time": {
+    "title": "Full-Stack Developer Full time",
+    "company": "Laboratorio Laboral SPA",
+    "score": 100,
+    "notified_at": "2026-08-25T13:54:47.109Z"
+  },
+  "groupe sii::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Groupe SII",
+    "score": 60,
+    "notified_at": "2026-08-25T13:54:47.111Z"
+  },
+  "bc tecnologia::desarrollador full-stack mobile & web": {
+    "title": "Desarrollador Full-Stack Mobile & Web",
+    "company": "BC Tecnología",
+    "score": 85,
+    "notified_at": "2026-08-25T13:54:47.112Z"
+  },
+  "tata consultancy services::analista programador cobol cics": {
+    "title": "Analista Programador Cobol Cics",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-08-25T13:54:55.799Z"
+  },
+  "zurich seguros de vida::analista programador": {
+    "title": "Analista Programador",
+    "company": "Zurich Seguros de Vida",
+    "score": 15,
+    "notified_at": "2026-08-25T13:54:55.800Z"
+  },
+  "genesys global::desarrollador backend .net": {
+    "title": "Desarrollador Backend .NET",
+    "company": "Genesys Global",
+    "score": 25,
+    "notified_at": "2026-08-25T13:54:59.940Z"
+  },
+  "sermaluc::programador backend & procesamiento batch": {
+    "title": "Programador Backend & Procesamiento Batch",
+    "company": "Sermaluc",
+    "score": 50,
+    "notified_at": "2026-08-25T13:55:05.567Z"
+  },
+  "k.s.a security::desarrollador web fullstack": {
+    "title": "Desarrollador Web Fullstack",
+    "company": "K.S.A Security",
+    "score": 40,
+    "notified_at": "2026-08-25T13:55:05.569Z"
+  },
+  "trebol::fullstack go / python": {
+    "title": "Fullstack Go / Python",
+    "company": "Trebol",
+    "score": 20,
+    "notified_at": "2026-08-26T13:57:53.990Z"
+  },
+  "nippon-chile tech solutions::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Nippon-Chile Tech Solutions",
+    "score": 100,
+    "notified_at": "2026-08-26T13:57:53.993Z"
+  },
+  "workcapit::desarrollador fullstack | golang + python": {
+    "title": "Desarrollador FullStack | Golang + Python",
+    "company": "WorkCapIT",
+    "score": 30,
+    "notified_at": "2026-08-26T13:57:53.995Z"
+  },
+  "bairesdev::senior ai engineer (node.js, python) - remote work": {
+    "title": "Senior AI Engineer (Node.js, Python) - Remote Work",
+    "company": "BairesDev",
+    "score": 30,
+    "notified_at": "2026-08-26T13:57:56.318Z"
+  },
+  "bairesdev::desarrollador node.js - trabajo remoto": {
+    "title": "Desarrollador Node.js - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 70,
+    "notified_at": "2026-08-26T13:57:56.321Z"
+  },
+  "biometria aplicada spa::practica profesional, ingenieria en informatica y analista programador": {
+    "title": "Práctica Profesional, Ingeniería en Informática y Analista Programador",
+    "company": "Biometria Aplicada spa",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.452Z"
+  },
+  "biometria aplicada spa::practica para desarrolladores de software": {
+    "title": "PRACTICA PARA DESARROLLADORES DE SOFTWARE",
+    "company": "Biometria Aplicada spa",
+    "score": 40,
+    "notified_at": "2026-08-26T13:57:58.453Z"
+  },
+  "inacap::practica profesional – administracion de empresas / diseno digital / analista programador / programas afines": {
+    "title": "Práctica Profesional – Administración de Empresas / Diseño Digital / Analista Programador / Programas Afines",
+    "company": "INACAP",
+    "score": 0,
+    "notified_at": "2026-08-26T13:57:58.454Z"
+  },
+  "confidencial::programador (a)": {
+    "title": "Programador (a)",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.455Z"
+  },
+  "cmg3::buscamos desarrollador bantotal o genexus": {
+    "title": "Buscamos Desarrollador Bantotal o GeneXus",
+    "company": "CMG3",
+    "score": 15,
+    "notified_at": "2026-08-26T13:57:58.456Z"
+  },
+  "banco de chile::desarrollador experto - desarrollo de software": {
+    "title": "Desarrollador Experto - Desarrollo de Software",
+    "company": "Banco de Chile",
+    "score": 65,
+    "notified_at": "2026-08-26T13:58:01.023Z"
+  },
+  "bc tecnologia::desarrollador/a ios swift & swiftui": {
+    "title": "Desarrollador/a iOS Swift & SwiftUI",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-08-26T13:58:01.026Z"
+  },
+  "bctecnologia::desarrollador/a batch y automatizacion de procesos - remoto": {
+    "title": "Desarrollador/a Batch y Automatización de Procesos - Remoto",
+    "company": "BCTecnología",
+    "score": 20,
+    "notified_at": "2026-08-26T13:58:03.669Z"
+  },
+  "nexatech consulting spa::desarrollador/a c# + clipper": {
+    "title": "Desarrollador/a C# + Clipper",
+    "company": "Nexatech Consulting SPA",
+    "score": 15,
+    "notified_at": "2026-08-26T13:58:03.671Z"
+  },
+  "sii group chile::desarrollador/a fullstack (sql / nestjs / jcl)": {
+    "title": "Desarrollador/a Fullstack (SQL / NestJS / JCL)",
+    "company": "SII Group Chile",
+    "score": 60,
+    "notified_at": "2026-08-26T13:58:03.672Z"
+  },
+  "bctecnologia::desarrollador/a full stack node.js / flutter - remoto": {
+    "title": "Desarrollador/a Full Stack Node.js / Flutter - Remoto",
+    "company": "BCTecnología",
+    "score": 55,
+    "notified_at": "2026-08-27T22:53:35.360Z"
+  },
+  "geovictoria::desarrollador full-stack de continuidad operativa": {
+    "title": "Desarrollador Full-Stack de Continuidad Operativa",
+    "company": "GeoVictoria",
+    "score": 20,
+    "notified_at": "2026-08-27T22:53:47.771Z"
+  },
+  "ntt data emeal::desarrollador/a front end (react)": {
+    "title": "Desarrollador/a Front End (React)",
+    "company": "NTT DATA EMEAL",
+    "score": 35,
+    "notified_at": "2026-08-27T22:53:53.118Z"
+  },
+  "mayorista 10::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Mayorista 10",
+    "score": 40,
+    "notified_at": "2026-08-28T22:57:59.479Z"
+  },
+  "3it::desarrollador react native | ios y android": {
+    "title": "Desarrollador React Native | iOS y Android",
+    "company": "3IT",
+    "score": 55,
+    "notified_at": "2026-08-28T22:58:06.839Z"
+  },
+  "ikea::desarrolladores de software": {
+    "title": "Desarrolladores de software",
+    "company": "IKEA",
+    "score": 20,
+    "notified_at": "2026-08-30T17:16:36.070Z"
+  },
+  "perceptual consultores::desarrollador backend senior node.js & typescript (hybrid)": {
+    "title": "Desarrollador Backend Senior Node.js & TypeScript (Hybrid)",
+    "company": "Perceptual Consultores",
+    "score": 65,
+    "notified_at": "2026-08-31T19:27:31.247Z"
+  },
+  "mm asesorias::analista programador .net": {
+    "title": "Analista Programador .net",
+    "company": "Mm Asesorias",
+    "score": 90,
+    "notified_at": "2026-08-31T19:27:33.598Z"
+  },
+  "tunning ing.::programador de sistemas de control": {
+    "title": "Programador de Sistemas de Control",
+    "company": "Tunning Ing.",
+    "score": 15,
+    "notified_at": "2026-08-31T19:27:38.290Z"
+  },
+  "smu s.a.::desarrollador(a) fullstack - full presencial": {
+    "title": "Desarrollador(a) Fullstack - Full Presencial",
+    "company": "SMU S.A.",
+    "score": 35,
+    "notified_at": "2026-08-31T19:27:38.293Z"
+  },
+  "bodegas megaflex::desarrollador web full stack": {
+    "title": "Desarrollador Web Full Stack",
+    "company": "Bodegas Megaflex",
+    "score": 40,
+    "notified_at": "2026-09-01T17:15:42.452Z"
+  },
+  "ema spa::programador android - dominio lenguaje kotlin": {
+    "title": "Programador Android - Dominio lenguaje Kotlin",
+    "company": "EMA SpA",
+    "score": 15,
+    "notified_at": "2026-09-02T17:05:38.010Z"
+  },
+  "perceptual::programador web": {
+    "title": "Programador Web",
+    "company": "Perceptual",
+    "score": 30,
+    "notified_at": "2026-09-02T17:05:38.012Z"
+  },
+  "acl::ingeniero de software – integrador": {
+    "title": "Ingeniero de Software – Integrador",
+    "company": "ACL",
+    "score": 10,
+    "notified_at": "2026-09-03T16:59:23.834Z"
+  },
+  "perceptual consultores::ingeniero/a senior backend nodejs y typescript / huechuraba / hibrido": {
+    "title": "Ingeniero/a Senior Backend NodeJs y TypeScript / Huechuraba /  HIBRIDO",
+    "company": "Perceptual Consultores",
+    "score": 100,
+    "notified_at": "2026-09-04T16:48:18.175Z"
+  },
+  "sii group chile::programador full stack .net + react/angular": {
+    "title": "Programador full stack .NET + React/Angular",
+    "company": "SII Group Chile",
+    "score": 45,
+    "notified_at": "2026-09-06T16:05:59.152Z"
+  },
+  "finder hr::backend developer node.js – proyecto 1 ano": {
+    "title": "Backend Developer Node.js – Proyecto 1 año",
+    "company": "Finder HR",
+    "score": 65,
+    "notified_at": "2026-09-06T16:06:03.596Z"
+  },
+  "bc tecnologia::desarrollador/a full-stack node.js/flutter": {
+    "title": "Desarrollador/a Full-Stack Node.js/Flutter",
+    "company": "BC Tecnología",
+    "score": 55,
+    "notified_at": "2026-09-06T16:06:03.597Z"
+  },
+  "partner consulting::analista programador .net aws": {
+    "title": "Analista Programador .Net AWS",
+    "company": "Partner Consulting",
+    "score": 20,
+    "notified_at": "2026-09-06T16:06:08.009Z"
+  },
+  "bc tecnologia::desarrollador salesforce": {
+    "title": "Desarrollador Salesforce",
+    "company": "BC Tecnología",
+    "score": 25,
+    "notified_at": "2026-09-06T16:06:11.164Z"
+  },
+  "it hunters::desarrollador de integraciones java": {
+    "title": "Desarrollador de Integraciones JAVA",
+    "company": "IT HUNTERS",
+    "score": 20,
+    "notified_at": "2026-09-06T16:06:11.165Z"
+  },
+  "tactech::fullstack developer js senior": {
+    "title": "Fullstack Developer JS Senior",
+    "company": "Tactech",
+    "score": 35,
+    "notified_at": "2026-09-07T18:11:09.505Z"
+  },
+  "supertrans limitada::analista programador junior": {
+    "title": "Analista programador Junior",
+    "company": "SUPERTRANS LIMITADA",
+    "score": 15,
+    "notified_at": "2026-09-07T18:11:14.673Z"
+  },
+  "hublab tech::practicante desarrollador/a de software": {
+    "title": "Practicante Desarrollador/a de Software",
+    "company": "HubLab Tech",
+    "score": 100,
+    "notified_at": "2026-09-07T18:11:17.211Z"
+  },
+  "randstad chile::full stack developer": {
+    "title": "Full Stack developer",
+    "company": "Randstad Chile",
+    "score": 35,
+    "notified_at": "2026-09-08T17:10:51.963Z"
+  },
+  "mm asesorias::analista desarrollador fullstack - rubro financiero": {
+    "title": "Analista Desarrollador Fullstack - Rubro Financiero",
+    "company": "MM ASESORIAS",
+    "score": 45,
+    "notified_at": "2026-09-08T17:10:59.229Z"
+  },
+  "tactech::desarrollador .net fullstack - impacta con soluciones": {
+    "title": "Desarrollador .NET Fullstack - Impacta con Soluciones",
+    "company": "Tactech",
+    "score": 20,
+    "notified_at": "2026-09-08T17:10:59.231Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador murex": {
+    "title": "Desarrollador Murex",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A.",
+    "score": 20,
+    "notified_at": "2026-09-08T17:11:02.464Z"
+  },
+  "finder hr::desarrollador trainee 🔎": {
+    "title": "Desarrollador Trainee 🔎",
+    "company": "Finder HR",
+    "score": 25,
+    "notified_at": "2026-09-08T17:11:02.465Z"
+  },
+  "grupo sms chile spa::desarrollador backend con experiencia en .net": {
+    "title": "Desarrollador Backend con experiencia en .NET",
+    "company": "GRUPO SMS CHILE SPA",
+    "score": 25,
+    "notified_at": "2026-09-09T17:05:28.342Z"
+  },
+  "sii group chile::desarrollador back end": {
+    "title": "Desarrollador Back End",
+    "company": "SII Group Chile",
+    "score": 55,
+    "notified_at": "2026-09-09T17:05:37.118Z"
+  },
+  "tpf ingenieria::programador de obra / planificador": {
+    "title": "Programador de Obra / Planificador",
+    "company": "TPF INGENIERIA",
+    "score": 15,
+    "notified_at": "2026-09-09T17:05:38.728Z"
+  },
+  "kibernum s.a.::desarrollador fullstack (java + angular + gcp)": {
+    "title": "Desarrollador Fullstack (Java + Angular + GCP)",
+    "company": "KIBERNUM S.A.",
+    "score": 25,
+    "notified_at": "2026-09-12T16:08:05.513Z"
+  },
+  "neuralworks::full-stack mobile engineer (react native) - flexible": {
+    "title": "Full-Stack Mobile Engineer (React Native) - Flexible",
+    "company": "NeuralWorks",
+    "score": 25,
+    "notified_at": "2026-09-12T16:08:05.517Z"
+  },
+  "prize servicios corporativos spa::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Prize Servicios Corporativos Spa",
+    "score": 100,
+    "notified_at": "2026-09-12T16:08:05.518Z"
+  },
+  "bairesdev::remote node fullstack engineer: build global apis & ui": {
+    "title": "Remote Node Fullstack Engineer: Build Global APIs & UI",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-09-12T16:08:09.247Z"
+  },
+  "avos tech::desarrollador fullstack": {
+    "title": "desarrollador fullstack",
+    "company": "Avos Tech",
+    "score": 55,
+    "notified_at": "2026-09-12T16:10:10.389Z"
+  },
+  "soho::desarrollador full stack sr": {
+    "title": "Desarrollador Full Stack Sr",
+    "company": "Soho",
+    "score": 60,
+    "notified_at": "2026-09-12T16:10:10.390Z"
+  },
+  "magno consultores::tornero cnc (operador y programador) - quilicura": {
+    "title": "TORNERO CNC (Operador y programador) - Quilicura",
+    "company": "MAGNO CONSULTORES",
+    "score": 15,
+    "notified_at": "2026-09-12T16:11:02.610Z"
+  },
+  "tinet s.a.::desarrollador fullstack .net - semi sr": {
+    "title": "Desarrollador Fullstack .NET - Semi Sr",
+    "company": "TINET S.A.",
+    "score": 30,
+    "notified_at": "2026-09-13T16:54:56.481Z"
+  },
+  "esencial consultores spa::desarrollador full stack importante afp - proyecto 6 meses": {
+    "title": "Desarrollador Full Stack Importante AFP - Proyecto 6 meses",
+    "company": "Esencial Consultores SPA",
+    "score": 30,
+    "notified_at": "2026-09-13T16:54:56.485Z"
+  },
+  "informat s.a.::desarrollador(a) full-stack semi senior": {
+    "title": "Desarrollador(a) Full-Stack Semi Senior",
+    "company": "Informat S.A.",
+    "score": 70,
+    "notified_at": "2026-09-13T16:54:56.486Z"
+  },
+  "kibernum::desarrollador/a full stack java + angular": {
+    "title": "Desarrollador/a Full Stack Java + Angular",
+    "company": "Kibernum",
+    "score": 25,
+    "notified_at": "2026-09-13T16:54:56.487Z"
+  },
+  "bc tecnologia::full-stack developer (ia)": {
+    "title": "Full-Stack Developer (IA)",
+    "company": "BC Tecnología",
+    "score": 60,
+    "notified_at": "2026-09-13T16:54:56.489Z"
+  },
+  "sodtrack::desarrollador full stack senior | carreras": {
+    "title": "Desarrollador full stack senior | Carreras",
+    "company": "Sodtrack",
+    "score": 15,
+    "notified_at": "2026-09-13T16:54:56.490Z"
+  },
+  "bctecnologia::desarrollador full stack node.js / angular (remoto)": {
+    "title": "Desarrollador Full Stack Node.js / Angular (Remoto)",
+    "company": "BCTecnología",
+    "score": 70,
+    "notified_at": "2026-09-13T16:54:56.492Z"
+  },
+  "organizacion humana consultores asociados spa::fullstack developer semi-sr angular y node.js": {
+    "title": "Fullstack Developer Semi-SR Angular y Node.js",
+    "company": "Organización Humana Consultores Asociados SpA",
+    "score": 60,
+    "notified_at": "2026-09-13T16:55:12.310Z"
+  },
+  "aliancers::desarrollador/a fullstack (react + node.js)": {
+    "title": "Desarrollador/a Fullstack (React + Node.js)",
+    "company": "Aliancers",
+    "score": 90,
+    "notified_at": "2026-09-13T16:55:12.311Z"
+  },
+  "usek::fullstack angular + node.js | semi-sr | remota | nestjs": {
+    "title": "Fullstack Angular + Node.js | Semi-SR | Remota | NestJS",
+    "company": "Usek",
+    "score": 60,
+    "notified_at": "2026-09-13T16:55:12.312Z"
+  },
+  "prontopaga::node.js back-end engineer (senior)": {
+    "title": "Node.js Back-end Engineer (Senior)",
+    "company": "ProntoPaga",
+    "score": 35,
+    "notified_at": "2026-09-13T16:55:12.314Z"
+  },
+  "tcit::lider tecnico - react/node.js": {
+    "title": "Líder Técnico - React/Node.js",
+    "company": "TCIT",
+    "score": 75,
+    "notified_at": "2026-09-13T16:55:12.315Z"
+  },
+  "abenis::analista programador web continuidad operativa . net core. para tiempo indefinido": {
+    "title": "Analista Programador Web Continuidad Operativa . NET Core. Para Tiempo Indefinido",
+    "company": "Abenis",
+    "score": 20,
+    "notified_at": "2026-09-13T16:55:18.276Z"
+  },
+  "liebherr chile spa::estudiante en practica informatica - santiago": {
+    "title": "ESTUDIANTE EN PRÁCTICA INFORMÁTICA - SANTIAGO",
+    "company": "Liebherr Chile SpA",
+    "score": 0,
+    "notified_at": "2026-09-13T16:55:18.278Z"
+  },
+  "detacoop::desarrollador de base de datos - informatica finanzas": {
+    "title": "Desarrollador de base de datos - Informática finanzas",
+    "company": "Detacoop",
+    "score": 50,
+    "notified_at": "2026-09-13T16:55:18.279Z"
+  },
+  "partner consulting::analista programador / teletrabajo": {
+    "title": "Analista Programador / Teletrabajo",
+    "company": "Partner Consulting",
+    "score": 15,
+    "notified_at": "2026-09-13T16:55:18.280Z"
+  },
+  "adecco chile::programador ti santiago centro": {
+    "title": "Programador TI Santiago Centro",
+    "company": "Adecco Chile",
+    "score": 15,
+    "notified_at": "2026-09-13T16:55:18.282Z"
+  },
+  "grupo colchagua::analista programador, para importante cadena de retail ubicada en santiago centro.": {
+    "title": "Analista Programador, Para Importante Cadena de Retail ubicada en Santiago Centro.",
+    "company": "Grupo colchagua",
+    "score": 35,
+    "notified_at": "2026-09-13T16:55:18.283Z"
+  },
+  "empresa de tecnologia::desarrollador/a backend .net": {
+    "title": "Desarrollador/a Backend .NET",
+    "company": "Empresa de Tecnología",
+    "score": 25,
+    "notified_at": "2026-09-13T16:55:18.284Z"
+  },
+  "empresas sb::ingeniero/a de software ia": {
+    "title": "Ingeniero/a de Software IA",
+    "company": "Empresas SB",
+    "score": 0,
+    "notified_at": "2026-09-13T16:55:24.391Z"
+  },
+  "muruna::🚀 desarrollador/a fullstack java + react | oportunidad colombia / latam": {
+    "title": "🚀 Desarrollador/a Fullstack Java + React | Oportunidad COLOMBIA / LATAM",
+    "company": "Muruna",
+    "score": 20,
+    "notified_at": "2026-09-13T16:55:24.393Z"
+  },
+  "sistemas digitales th::desarrollador/a de software": {
+    "title": "Desarrollador/a de Software",
+    "company": "Sistemas Digitales TH",
+    "score": 20,
+    "notified_at": "2026-09-13T16:55:24.394Z"
+  },
+  "tactech::desarrollador .net": {
+    "title": "Desarrollador .Net",
+    "company": "Tactech",
+    "score": 20,
+    "notified_at": "2026-09-13T16:55:24.395Z"
+  },
+  "emin ingenieria y construccion s.a.::programador/a control costos": {
+    "title": "Programador/a Control Costos",
+    "company": "EMIN Ingeniería y Construcción S.A.",
+    "score": 15,
+    "notified_at": "2026-09-13T16:55:29.385Z"
+  },
+  "tecnova soluciones informaticas::desarrollador iris": {
+    "title": "Desarrollador IRIS",
+    "company": "Tecnova Soluciones Informáticas",
+    "score": 40,
+    "notified_at": "2026-09-13T16:55:29.387Z"
+  },
+  "seidor::desarrollador fullstack. contrato indefinido.": {
+    "title": "Desarrollador Fullstack. Contrato Indefinido.",
+    "company": "SEIDOR",
+    "score": 95,
+    "notified_at": "2026-09-14T18:27:56.513Z"
+  },
+  "tecnova soluciones informaticas::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Tecnova Soluciones Informáticas",
+    "score": 100,
+    "notified_at": "2026-09-14T18:27:56.516Z"
+  },
+  "prosys::.net core blazor full-stack developer | oracle": {
+    "title": ".NET Core Blazor Full-Stack Developer | Oracle",
+    "company": "Prosys",
+    "score": 15,
+    "notified_at": "2026-09-14T18:27:56.517Z"
+  },
+  "ntt data emeal::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "NTT DATA EMEAL",
+    "score": 45,
+    "notified_at": "2026-09-14T18:27:56.519Z"
+  },
+  "confidencial::desarrollador full stack junior, remoto": {
+    "title": "Desarrollador Full Stack Junior, Remoto",
+    "company": "Confidencial",
+    "score": 15,
+    "notified_at": "2026-09-14T18:27:56.520Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador/a full stack react + node.js": {
+    "title": "Desarrollador/a Full Stack React + Node.js",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 100,
+    "notified_at": "2026-09-14T18:27:56.522Z"
+  },
+  "solcor::fullstack developer": {
+    "title": "Fullstack Developer",
+    "company": "Solcor",
+    "score": 20,
+    "notified_at": "2026-09-14T18:27:56.523Z"
+  },
+  "ps grupo hunting::ingeniero/a de software full stack | react, python, aws": {
+    "title": "Ingeniero/a de Software Full Stack | React, Python, AWS",
+    "company": "PS GRUPO HUNTING",
+    "score": 55,
+    "notified_at": "2026-09-14T18:27:56.524Z"
+  },
+  "tata consultancy services::desarrollador backend node.js/express (contrato indefinido)": {
+    "title": "Desarrollador Backend Node.js/Express (contrato indefinido)",
+    "company": "Tata Consultancy Services",
+    "score": 90,
+    "notified_at": "2026-09-14T18:28:00.571Z"
+  },
+  "avos tech::software engineer java, .net, node.js o similar": {
+    "title": "Software Engineer Java, .NET, Node.js o similar",
+    "company": "Avos Tech",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.573Z"
+  },
+  "bluelightconsulting::senior full‑stack node.js engineer — remote": {
+    "title": "Senior Full‑Stack Node.js Engineer — Remote",
+    "company": "Bluelightconsulting",
+    "score": 30,
+    "notified_at": "2026-09-14T18:28:00.575Z"
+  },
+  "actionhub chile::backend senior node.js | microservicios": {
+    "title": "Backend Senior Node.js | Microservicios",
+    "company": "Actionhub Chile",
+    "score": 50,
+    "notified_at": "2026-09-14T18:28:00.576Z"
+  },
+  "agilistik::senior backend engineer: java spring boot & node.js nestjs": {
+    "title": "Senior Backend Engineer: Java Spring Boot & Node.js NestJS",
+    "company": "AGILISTIK",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.577Z"
+  },
+  "sermaluc::desarrollador backend node.js": {
+    "title": "Desarrollador Backend Node.js",
+    "company": "Sermaluc",
+    "score": 75,
+    "notified_at": "2026-09-14T18:28:00.578Z"
+  },
+  "redbee studios::tech lead | go/node.js": {
+    "title": "Tech Lead | Go/Node.js",
+    "company": "redbee Studios",
+    "score": 45,
+    "notified_at": "2026-09-14T18:28:00.580Z"
+  },
+  "tsoft::backend node.js engineer": {
+    "title": "Backend Node.js Engineer",
+    "company": "Tsoft",
+    "score": 100,
+    "notified_at": "2026-09-14T18:28:00.581Z"
+  },
+  "ism::analista programador de sistemas e implementacion": {
+    "title": "Analista Programador de Sistemas e Implementación",
+    "company": "ISM",
+    "score": 95,
+    "notified_at": "2026-09-14T18:28:54.189Z"
+  },
+  "experis chile::analista programador web – continuidad operativa": {
+    "title": "Analista Programador Web – Continuidad Operativa",
+    "company": "Experis Chile",
+    "score": 50,
+    "notified_at": "2026-09-14T18:28:54.191Z"
+  },
+  "c&c consultores::practica profesional / analista programador": {
+    "title": "Práctica profesional / Analista Programador",
+    "company": "C&C Consultores",
+    "score": 0,
+    "notified_at": "2026-09-14T18:28:54.193Z"
+  },
+  "sc informatica limitada::practicante de analista de sistema": {
+    "title": "PRACTICANTE DE ANALISTA DE SISTEMA",
+    "company": "SC INFORMATICA LIMITADA",
+    "score": 25,
+    "notified_at": "2026-09-14T18:28:54.195Z"
+  },
+  "bc tecnologia::analista programador": {
+    "title": "Analista Programador",
+    "company": "BC Tecnología",
+    "score": 25,
+    "notified_at": "2026-09-14T18:28:54.196Z"
+  },
+  "metalkit::programador-desarrollador": {
+    "title": "PROGRAMADOR-DESARROLLADOR",
+    "company": "Metalkit",
+    "score": 75,
+    "notified_at": "2026-09-14T18:28:54.198Z"
+  },
+  "finder hr::analista programador node. js - bd oracle": {
+    "title": "Analista Programador Node. Js - BD Oracle",
+    "company": "Finder HR",
+    "score": 70,
+    "notified_at": "2026-09-14T18:28:54.200Z"
+  },
+  "fundamenta::desarrollador de software senior": {
+    "title": "Desarrollador de Software SENIOR",
+    "company": "Fundamenta",
+    "score": 75,
+    "notified_at": "2026-09-14T18:29:47.091Z"
+  },
+  "fundamenta::desarrollador senior de software": {
+    "title": "Desarrollador Senior de Software",
+    "company": "Fundamenta",
+    "score": 60,
+    "notified_at": "2026-09-14T18:29:47.093Z"
+  },
+  "tata consultancy services::desarrollador scala": {
+    "title": "Desarrollador Scala",
+    "company": "Tata Consultancy Services",
+    "score": 55,
+    "notified_at": "2026-09-14T18:29:47.095Z"
+  },
+  "agilistik::analista desarrollador senior as/400": {
+    "title": "Analista Desarrollador Senior As/400",
+    "company": "Agilistik",
+    "score": 25,
+    "notified_at": "2026-09-14T18:29:47.096Z"
+  },
+  "fieldbeat::desarrollador back-end java": {
+    "title": "Desarrollador Back-end Java",
+    "company": "FieldBeat",
+    "score": 35,
+    "notified_at": "2026-09-14T18:29:47.098Z"
+  },
+  "popestate::desarrollador(a) full-stack php / symfony": {
+    "title": "Desarrollador(a) Full-Stack PHP / Symfony",
+    "company": "PopEstate",
+    "score": 85,
+    "notified_at": "2026-09-14T18:29:47.100Z"
+  },
+  "apiux tech::desarrollador senior mobile": {
+    "title": "Desarrollador Senior Mobile",
+    "company": "Apiux Tech",
+    "score": 85,
+    "notified_at": "2026-09-14T18:29:47.101Z"
+  },
+  "opendev pro::desarrollador .net": {
+    "title": "desarrollador .net",
+    "company": "OpenDev pro",
+    "score": 30,
+    "notified_at": "2026-09-14T18:29:47.103Z"
+  },
+  "consultora mi perfil laboral::programador senior java con manejo de poo-sprint boot (basico) java script- presencial renta entre $1,200.000 y $1600.000": {
+    "title": "PROGRAMADOR  SENIOR JAVA CON MANEJO DE POO-SPRINT BOOT (básico) JAVA SCRIPT- PRESENCIAL RENTA ENTRE $1,200.000 Y $1600.000",
+    "company": "Consultora Mi Perfil Laboral",
+    "score": 35,
+    "notified_at": "2026-09-14T18:29:52.864Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador .net": {
+    "title": "desarrollador .net",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 20,
+    "notified_at": "2026-09-14T18:29:52.865Z"
+  },
+  "confipetrol s.a.::desarrollador fullstack ia generativa power platform openai": {
+    "title": "Desarrollador Fullstack IA Generativa  Power Platform  OpenAI",
+    "company": "Confipetrol S.A.",
+    "score": 30,
+    "notified_at": "2026-09-15T17:35:20.902Z"
+  },
+  "acl::desarrollador full stack – hybrid en santiago": {
+    "title": "Desarrollador Full Stack – Hybrid en Santiago",
+    "company": "ACL",
+    "score": 15,
+    "notified_at": "2026-09-15T17:35:20.905Z"
+  },
+  "kibernum s.a.::desarrollador/a full stack react + node.js": {
+    "title": "Desarrollador/a Full Stack React + Node.js",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-09-15T17:35:20.906Z"
+  },
+  "getdata (cl)::desarrollador full stack semi senior | angular/java hibrido": {
+    "title": "Desarrollador Full Stack Semi Senior | Angular/Java Híbrido",
+    "company": "Getdata (CL)",
+    "score": 20,
+    "notified_at": "2026-09-15T17:35:20.910Z"
+  },
+  "tata consultancy services::desarrollador fullstack nodejs": {
+    "title": "Desarrollador FullStack NodeJS",
+    "company": "Tata Consultancy Services",
+    "score": 45,
+    "notified_at": "2026-09-15T17:35:20.912Z"
+  },
+  "nucleo ods::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Núcleo ODS",
+    "score": 35,
+    "notified_at": "2026-09-15T17:35:20.914Z"
+  },
+  "randstad chile::desarrollador backend nodejs junior - presencial": {
+    "title": "Desarrollador Backend Nodejs Junior - PRESENCIAL",
+    "company": "Randstad Chile",
+    "score": 85,
+    "notified_at": "2026-09-15T17:35:27.603Z"
+  },
+  "sii group chile::desarrollador backend node.js | typescript, apis & apigee": {
+    "title": "Desarrollador Backend Node.js | TypeScript, APIs & Apigee",
+    "company": "SII Group Chile",
+    "score": 80,
+    "notified_at": "2026-09-15T17:35:27.605Z"
+  },
+  "randstad chile::desarrollador backend nodejs junior": {
+    "title": "Desarrollador Backend Nodejs Junior",
+    "company": "Randstad Chile",
+    "score": 85,
+    "notified_at": "2026-09-15T17:35:27.608Z"
+  },
+  "bairesdev::node fullstack developer - remote work | ref#303156": {
+    "title": "Node Fullstack Developer - Remote Work | REF#303156",
+    "company": "BairesDev",
+    "score": 100,
+    "notified_at": "2026-09-15T17:35:27.610Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador fullstack .net / node.js / angular": {
+    "title": "Desarrollador Fullstack .NET / Node.js / Angular",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 75,
+    "notified_at": "2026-09-15T17:35:27.613Z"
+  },
+  "banco de chile::desarrollador de soluciones tecnologicas para recursos humanos": {
+    "title": "Desarrollador de Soluciones Tecnológicas para Recursos Humanos",
+    "company": "Banco de Chile",
+    "score": 20,
+    "notified_at": "2026-09-15T17:36:30.692Z"
+  },
+  "siemens::programador senior de proyectos": {
+    "title": "Programador Senior de Proyectos",
+    "company": "Siemens",
+    "score": 15,
+    "notified_at": "2026-09-15T17:36:30.695Z"
+  },
+  "eurofirms chile::programador/a y controlador/a de proyectos": {
+    "title": "Programador/a y Controlador/a de Proyectos",
+    "company": "Eurofirms Chile",
+    "score": 15,
+    "notified_at": "2026-09-15T17:36:39.877Z"
+  },
+  "practia global::desarrollador full stack": {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "Practia Global",
+    "score": 55,
+    "notified_at": "2026-09-15T17:36:39.879Z"
+  },
+  "manpower chile::desarrollador .net 8 - remoto chile": {
+    "title": "Desarrollador .NET 8 - Remoto Chile",
+    "company": "Manpower Chile",
+    "score": 45,
+    "notified_at": "2026-09-15T17:36:39.882Z"
+  },
+  "muck consultores::fullstack developer -ia generativa power platform openai": {
+    "title": "Fullstack Developer -IA Generativa Power Platform OpenAI",
+    "company": "Muck Consultores",
+    "score": 30,
+    "notified_at": "2026-09-16T17:35:07.569Z"
+  },
+  "perceptual consultores ltda.::ingeniero de software senior fullstack - react typescript": {
+    "title": "Ingeniero de Software Senior Fullstack - React Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-16T17:35:07.572Z"
+  },
+  "42labs::programador full stack .net senior": {
+    "title": "PROGRAMADOR FULL STACK .Net Senior",
+    "company": "42Labs",
+    "score": 15,
+    "notified_at": "2026-09-16T17:35:07.575Z"
+  },
+  "perceptual consultores::full stack react/js developer": {
+    "title": "Full Stack React/JS Developer",
+    "company": "Perceptual Consultores",
+    "score": 20,
+    "notified_at": "2026-09-16T17:35:07.576Z"
+  },
+  "groupe sii::desarrollador/a backend nodejs – apigee 🚀": {
+    "title": "Desarrollador/a Backend NodeJS – Apigee 🚀",
+    "company": "Groupe SII",
+    "score": 70,
+    "notified_at": "2026-09-16T17:36:00.504Z"
+  },
+  "apiux tech::desarrollador fullstack: node/react y microservicios": {
+    "title": "Desarrollador Fullstack: Node/React y Microservicios",
+    "company": "Apiux Tech",
+    "score": 90,
+    "notified_at": "2026-09-16T17:36:00.508Z"
+  },
+  "kibernum::desarrollador full stack react & node.js | apis, typescript": {
+    "title": "Desarrollador Full Stack React & Node.js | APIs, TypeScript",
+    "company": "Kibernum",
+    "score": 90,
+    "notified_at": "2026-09-16T17:36:00.510Z"
+  },
+  "kpaz::desarrollador full stack node.js / react": {
+    "title": "Desarrollador Full Stack Node.js / React",
+    "company": "KPaz",
+    "score": 100,
+    "notified_at": "2026-09-16T17:36:00.517Z"
+  },
+  "instituto de investigaciones agropecuarias - inia::analista desarrollador de ti": {
+    "title": "Analista Desarrollador de TI",
+    "company": "Instituto de Investigaciones Agropecuarias - INIA",
+    "score": 25,
+    "notified_at": "2026-09-16T17:37:08.421Z"
+  },
+  "cencosud::practica profesional – desarrollo de software, automatizacion e inteligencia artificial": {
+    "title": "Práctica Profesional – Desarrollo de Software, Automatización e Inteligencia Artificial",
+    "company": "Cencosud",
+    "score": 25,
+    "notified_at": "2026-09-16T17:37:15.581Z"
+  },
+  "confidencial::desarrollador web_proyecto": {
+    "title": "DESARROLLADOR WEB_PROYECTO",
+    "company": "Confidencial",
+    "score": 45,
+    "notified_at": "2026-09-16T17:37:15.583Z"
+  },
+  "workcapit::frontend developer (angular)": {
+    "title": "Frontend Developer (Angular)",
+    "company": "WorkCapIT",
+    "score": 20,
+    "notified_at": "2026-09-16T17:37:15.584Z"
+  },
+  "ferrostaal chile s.a.c.::desarrollador web jr. - impacto social y teletrabajo": {
+    "title": "Desarrollador Web Jr. - Impacto Social y Teletrabajo",
+    "company": "Ferrostaal Chile S.A.C.",
+    "score": 15,
+    "notified_at": "2026-09-16T17:38:12.025Z"
+  },
+  "claire joster::desarrollador gis - v region": {
+    "title": "Desarrollador GIS - v region",
+    "company": "Claire Joster",
+    "score": 20,
+    "notified_at": "2026-09-16T17:38:12.027Z"
+  },
+  "ticmoai::desarrollador cobol - presencial": {
+    "title": "Desarrollador cobol - Presencial",
+    "company": "TicMoAI",
+    "score": 55,
+    "notified_at": "2026-09-16T17:38:12.028Z"
+  },
+  "confidencial::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "Confidencial",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:23.464Z"
+  },
+  "randstad chile::fullstack react/node - presencial": {
+    "title": "Fullstack React/Node - PRESENCIAL",
+    "company": "Randstad Chile",
+    "score": 75,
+    "notified_at": "2026-09-18T17:00:23.467Z"
+  },
+  "lisit::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "LISIT",
+    "score": 100,
+    "notified_at": "2026-09-18T17:00:23.472Z"
+  },
+  "bctecnologia::desarrollador/a full stack node.js / javascript - remoto (proyecto)": {
+    "title": "Desarrollador/a Full Stack Node.js / JavaScript - Remoto (Proyecto)",
+    "company": "BCTecnología",
+    "score": 75,
+    "notified_at": "2026-09-18T17:00:23.475Z"
+  },
+  "sii group chile::desarrollador backend node.js | typescript, apis": {
+    "title": "Desarrollador Backend Node.js | TypeScript, APIs",
+    "company": "SII Group Chile",
+    "score": 80,
+    "notified_at": "2026-09-18T17:00:27.921Z"
+  },
+  "groupe sii::desarrollador backend nodejs/typescript: apis y oauth 2.0": {
+    "title": "Desarrollador Backend NodeJS/TypeScript: APIs y OAuth 2.0",
+    "company": "Groupe SII",
+    "score": 65,
+    "notified_at": "2026-09-18T17:00:27.924Z"
+  },
+  "itacorpban::analista conocimiento de clientes (kyc)": {
+    "title": "Analista Conocimiento de Clientes (KYC)",
+    "company": "itacorpban",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.335Z"
+  },
+  "idokku soluciones digitales chile::analista de negocios": {
+    "title": "Analista de Negocios",
+    "company": "iDOKKU Soluciones Digitales Chile",
+    "score": 15,
+    "notified_at": "2026-09-18T17:00:32.337Z"
+  },
+  "cencosud::analista revenue growth": {
+    "title": "Analista Revenue Growth",
+    "company": "Cencosud",
+    "score": 10,
+    "notified_at": "2026-09-18T17:00:32.340Z"
+  },
+  "universidad catolica del maule::analista estadistico(a) / matematico(a) - proyecto ucm25101- media jornada": {
+    "title": "Analista Estadístico(a) / Matemático(a) - Proyecto UCM25101- Media Jornada",
+    "company": "Universidad Católica del Maule",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.341Z"
+  },
+  "tenpo::analista de tesoreria": {
+    "title": "Analista de Tesorería",
+    "company": "Tenpo",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.343Z"
+  },
+  "itacorpban::analista sustentabilidad corporativa": {
+    "title": "Analista Sustentabilidad Corporativa",
+    "company": "itacorpban",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.345Z"
+  },
+  "ifscteam financial intelligence::\"analista de calidad de datos bancarios": {
+    "title": "\"Analista de Calidad de Datos Bancarios",
+    "company": "IFSCTeam Financial Intelligence",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.347Z"
+  },
+  "ecrgroup️::analista de proyecto obras civiles – telecomunicaciones": {
+    "title": "Analista de Proyecto Obras Civiles – Telecomunicaciones",
+    "company": "Ecrgroup️",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.349Z"
+  },
+  "watts sa::analista de laboratorio, chillan": {
+    "title": "Analista de laboratorio, Chillán",
+    "company": "Watts SA",
+    "score": 5,
+    "notified_at": "2026-09-18T17:00:32.350Z"
+  },
+  "zelestra::analista de procurement latam": {
+    "title": "Analista de Procurement Latam",
+    "company": "Zelestra",
+    "score": 0,
+    "notified_at": "2026-09-18T17:00:32.352Z"
+  },
+  "sezzle la::junior software engineer (chile) chile, remote": {
+    "title": "Junior Software Engineer (Chile)\nChile, Remote",
+    "company": "Sezzle LA",
+    "score": 55,
+    "notified_at": "2026-09-18T17:00:35.408Z"
+  },
+  "bc tecnologia::analista desarrollador .net+": {
+    "title": "Analista Desarrollador .NET+",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-09-18T17:00:35.411Z"
+  },
+  "imagemaker::desarrollador backend .net core semi senior": {
+    "title": "Desarrollador Backend .Net Core Semi Senior",
+    "company": "Imagemaker",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:35.413Z"
+  },
+  "tata consultancy services::developer .net (ingles avanzado)": {
+    "title": "Developer .Net (inglés avanzado)",
+    "company": "Tata Consultancy Services",
+    "score": 25,
+    "notified_at": "2026-09-18T17:00:35.415Z"
+  },
+  "accenture chile::desarrollador fullstack junior": {
+    "title": "Desarrollador Fullstack Junior",
+    "company": "Accenture Chile",
+    "score": 25,
+    "notified_at": "2026-09-18T17:00:35.417Z"
+  },
+  "stefanini latam::sr backend developer (java)": {
+    "title": "Sr Backend Developer (Java)",
+    "company": "Stefanini LATAM",
+    "score": 30,
+    "notified_at": "2026-09-18T17:00:35.419Z"
+  },
+  "abenis::desarrollador mobile kotlin - para tiempo indefinido": {
+    "title": "Desarrollador Mobile Kotlin - Para tiempo Indefinido",
+    "company": "Abenis",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.920Z"
+  },
+  "acl::programador de cobol": {
+    "title": "Programador de Cobol",
+    "company": "ACL",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.924Z"
+  },
+  "sii group chile::programadores(as) / desarrollares (as) informaticos (ti)": {
+    "title": "Programadores(as) / Desarrollares (as) informaticos (TI)",
+    "company": "SII Group Chile",
+    "score": 20,
+    "notified_at": "2026-09-18T17:00:40.927Z"
+  },
+  "ingenieria informatica kibernum s.a.::fullstack developer senior": {
+    "title": "FullStack Developer Senior",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 20,
+    "notified_at": "2026-09-19T16:19:52.459Z"
+  },
+  "fullstack::software developer (.net + vue 3) - remote - latin america": {
+    "title": "Software Developer (.NET + Vue 3) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 0,
+    "notified_at": "2026-09-19T16:19:52.461Z"
+  },
+  "3it ingenieria y desarrollo ltda.::hybrid full-stack developer: java + angular": {
+    "title": "Hybrid Full-Stack Developer: Java + Angular",
+    "company": "3IT Ingeniería y Desarrollo Ltda.",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:52.466Z"
+  },
+  "tata consultancy services chile s.a::desarrollador fullstack java cod:met 032": {
+    "title": "Desarrollador Fullstack Java COD:MET 032",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 30,
+    "notified_at": "2026-09-19T16:19:52.467Z"
+  },
+  "eva informatica chile::full-stack developer": {
+    "title": "Full-Stack Developer",
+    "company": "Eva Informática Chile",
+    "score": 80,
+    "notified_at": "2026-09-19T16:19:52.470Z"
+  },
+  "tata consultancy services chile s.a::ingeniero backend node.js/express - ci/cd & nosql": {
+    "title": "Ingeniero Backend Node.js/Express - CI/CD & NoSQL",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-19T16:19:55.144Z"
+  },
+  "mm asesorias::analista desarrollador .net / ia": {
+    "title": "Analista Desarrollador .NET / IA",
+    "company": "MM ASESORIAS",
+    "score": 25,
+    "notified_at": "2026-09-19T16:19:58.464Z"
+  },
+  "sociedad agricola y comercial el almendro ltda::practica profesional analista programador": {
+    "title": "Práctica Profesional Analista Programador",
+    "company": "Sociedad Agrícola y Comercial el Almendro Ltda",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:58.466Z"
+  },
+  "acl::analista desarrollador ibm i senior": {
+    "title": "Analista Desarrollador IBM i Senior",
+    "company": "ACL",
+    "score": 15,
+    "notified_at": "2026-09-19T16:19:58.469Z"
+  },
+  "sii group chile::analista programador sql": {
+    "title": "Analista Programador SQL",
+    "company": "SII Group Chile",
+    "score": 25,
+    "notified_at": "2026-09-19T16:19:58.470Z"
+  },
+  "aquavita spa::analista junior de programacion y soporte scada": {
+    "title": "Analista Junior de Programación y Soporte SCADA",
+    "company": "Aquavita SPA",
+    "score": 40,
+    "notified_at": "2026-09-19T16:19:58.475Z"
+  },
+  "stefanini latam::desarrollador java backend sr y ssr / chile": {
+    "title": "Desarrollador Java Backend Sr y SSr / Chile",
+    "company": "Stefanini LATAM",
+    "score": 15,
+    "notified_at": "2026-09-19T16:20:01.896Z"
+  },
+  "banco de credito e inversiones::ingeniero/a de software": {
+    "title": "Ingeniero/a de Software",
+    "company": "Banco de Crédito e Inversiones",
+    "score": 5,
+    "notified_at": "2026-09-19T16:20:01.899Z"
+  },
+  "soho::desarrollador fullstack react - node ssr": {
+    "title": "Desarrollador Fullstack React - Node Ssr",
+    "company": "SOHO",
+    "score": 60,
+    "notified_at": "2026-09-19T16:20:01.900Z"
+  },
+  "abenis::desarrollador de integraciones / cloud": {
+    "title": "Desarrollador de Integraciones / Cloud",
+    "company": "Abenis",
+    "score": 20,
+    "notified_at": "2026-09-19T16:20:08.899Z"
+  },
+  "fda ingenieros s.a.::programador senior de obras mt": {
+    "title": "Programador Senior de Obras MT",
+    "company": "FDA INGENIEROS S.A.",
+    "score": 15,
+    "notified_at": "2026-09-19T16:20:08.902Z"
+  },
+  "acl::programador full stack": {
+    "title": "Programador full stack",
+    "company": "ACL",
+    "score": 50,
+    "notified_at": "2026-09-19T16:20:08.904Z"
+  },
+  "seidor::desarrollador fullstack | gcp, nestjs & devops (hibrido)": {
+    "title": "Desarrollador Fullstack | GCP, NestJS & DevOps (Híbrido)",
+    "company": "SEIDOR",
+    "score": 50,
+    "notified_at": "2026-09-20T16:43:47.842Z"
+  },
+  "getdata (cl)::desarrollador full stack ssr": {
+    "title": "Desarrollador Full Stack Ssr",
+    "company": "Getdata (CL)",
+    "score": 65,
+    "notified_at": "2026-09-20T16:43:47.845Z"
+  },
+  "workcapit::desarrollador backend (nodejs & golang)": {
+    "title": "Desarrollador Backend (NodeJS & Golang)",
+    "company": "WorkCapIT",
+    "score": 100,
+    "notified_at": "2026-09-20T16:43:50.686Z"
+  },
+  "tata consultancy services chile s.a::ingeniero backend node.js/express": {
+    "title": "Ingeniero Backend Node.js/Express",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-20T16:43:50.688Z"
+  },
+  "tata consultancy services chile s.a::desarrollador backend node.js/express - bech": {
+    "title": "Desarrollador Backend Node.js/Express - BECH",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A",
+    "score": 60,
+    "notified_at": "2026-09-20T16:43:50.694Z"
+  },
+  "importadora alsacia::analista de sistemas - pudahuel": {
+    "title": "Analista de sistemas - Pudahuel",
+    "company": "Importadora Alsacia",
+    "score": 30,
+    "notified_at": "2026-09-20T16:43:55.124Z"
+  },
+  "tata consultancy services chile::desarrollador senior backend cloud - btg": {
+    "title": "Desarrollador Senior Backend Cloud - BTG",
+    "company": "Tata Consultancy Services Chile",
+    "score": 40,
+    "notified_at": "2026-09-20T16:43:59.579Z"
+  },
+  "bc tecnologia::desarrollador/a batch y automatizacion": {
+    "title": "Desarrollador/a Batch y Automatización",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-09-20T16:44:02.855Z"
+  },
+  "whateverai::desarrollador full-stack laravel — hybrid/remote": {
+    "title": "Desarrollador Full-Stack Laravel — Hybrid/Remote",
+    "company": "WhateverAI",
+    "score": 40,
+    "notified_at": "2026-09-21T18:34:22.302Z"
+  },
+  "perceptual consultores ltda.::desarrollador senior fullstack - react typescript": {
+    "title": "Desarrollador Senior Fullstack - React Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-21T18:34:22.305Z"
+  },
+  "acl::desarrollador fullstack semi senior (javascript, node.js)": {
+    "title": "Desarrollador Fullstack Semi Senior (JavaScript, Node.js)",
+    "company": "ACL",
+    "score": 75,
+    "notified_at": "2026-09-21T18:34:22.308Z"
+  },
+  "salcobrand::analista junior de ux": {
+    "title": "Analista Junior de UX",
+    "company": "Salcobrand",
+    "score": 5,
+    "notified_at": "2026-09-21T18:35:11.165Z"
+  },
+  "bctecnologia::analista programador mainframe cobol - remoto": {
+    "title": "Analista Programador Mainframe Cobol - Remoto",
+    "company": "BCTecnología",
+    "score": 20,
+    "notified_at": "2026-09-21T18:35:11.168Z"
+  },
+  "apex group ltd::analista desarrollador": {
+    "title": "Analista desarrollador",
+    "company": "Apex Group Ltd",
+    "score": 30,
+    "notified_at": "2026-09-21T18:35:11.192Z"
+  },
+  "importante empresa del sector ti::analista de sistemas - ti": {
+    "title": "Analista de Sistemas - TI",
+    "company": "Importante empresa del sector TI",
+    "score": 0,
+    "notified_at": "2026-09-21T18:35:11.194Z"
+  },
+  "yuno::ai frontend developer": {
+    "title": "AI Frontend Developer",
+    "company": "Yuno",
+    "score": 80,
+    "notified_at": "2026-09-21T18:35:17.775Z"
+  },
+  "layner::desarrollador de aplicaciones software, arquitecto de software senior": {
+    "title": "Desarrollador de aplicaciones Software, arquitecto de software Senior",
+    "company": "Layner",
+    "score": 55,
+    "notified_at": "2026-09-21T18:35:17.777Z"
+  },
+  "act s.a.::desarrollador de aplicaciones - devops": {
+    "title": "Desarrollador de Aplicaciones - DevOps",
+    "company": "Act S.A.",
+    "score": 25,
+    "notified_at": "2026-09-21T18:35:17.779Z"
+  },
+  "fletcher biosciences::desarrollo web": {
+    "title": "Desarrollo web",
+    "company": "Fletcher Biosciences",
+    "score": 0,
+    "notified_at": "2026-09-21T18:35:17.783Z"
+  },
+  "tinet s.a.::desarrollador fullstack .net": {
+    "title": "Desarrollador Fullstack .NET",
+    "company": "TINET S.A.",
+    "score": 30,
+    "notified_at": "2026-09-21T18:35:17.785Z"
+  },
+  "randstad servicios ltda::analista desarrollador python": {
+    "title": "Analista Desarrollador Python",
+    "company": "RANDSTAD SERVICIOS LTDA",
+    "score": 25,
+    "notified_at": "2026-09-21T18:35:20.198Z"
+  },
+  "muruna::🚀 full-stack developer semi senior | aws ☁️ | 100% remoto 💙": {
+    "title": "🚀 Full-Stack Developer Semi Senior | AWS ☁️ | 100% Remoto 💙",
+    "company": "Muruna",
+    "score": 15,
+    "notified_at": "2026-09-22T17:35:01.392Z"
+  },
+  "layner::desarrollador de aplicaciones de software, semi senior": {
+    "title": "Desarrollador de aplicaciones de Software, Semi Senior",
+    "company": "Layner",
+    "score": 55,
+    "notified_at": "2026-09-22T17:35:01.395Z"
+  },
+  "imagemaker::desarrollador fullstack java": {
+    "title": "Desarrollador FullStack Java",
+    "company": "Imagemaker",
+    "score": 80,
+    "notified_at": "2026-09-22T17:35:01.399Z"
+  },
+  "atcom chile::desarrollador web fullstack react + node.js para 3 apps": {
+    "title": "Desarrollador Web Fullstack React + Node.js para 3 apps",
+    "company": "ATCOM Chile",
+    "score": 70,
+    "notified_at": "2026-09-22T17:35:01.401Z"
+  },
+  "comercial icom ltda.::analista desarrollador de soluciones con ia": {
+    "title": "Analista Desarrollador de Soluciones con IA",
+    "company": "Comercial Icom Ltda.",
+    "score": 20,
+    "notified_at": "2026-09-22T17:35:16.502Z"
+  },
+  "softtek::analista cobol senior": {
+    "title": "Analista Cobol Senior",
+    "company": "Softtek",
+    "score": 5,
+    "notified_at": "2026-09-22T17:35:16.505Z"
+  },
+  "relix s.a.::practicante analista en sistemas o programador / quilicura / presencial/": {
+    "title": "Practicante Analista en sistemas o Programador / Quilicura / Presencial/",
+    "company": "Relix S.A.",
+    "score": 20,
+    "notified_at": "2026-09-22T17:35:16.507Z"
+  },
+  "ripley::software engineer i": {
+    "title": "Software Engineer I",
+    "company": "RIPLEY",
+    "score": 65,
+    "notified_at": "2026-09-22T17:35:23.751Z"
+  },
+  "mbi inversiones::desarrollador/a de software": {
+    "title": "Desarrollador/a de Software",
+    "company": "mbi inversiones",
+    "score": 35,
+    "notified_at": "2026-09-22T17:35:23.753Z"
+  },
+  "adecco::desarrollador(a) de software e implementacion con ingles intermedio avanzado": {
+    "title": "Desarrollador(a) de Software e Implementación con ingles intermedio avanzado",
+    "company": "Adecco",
+    "score": 30,
+    "notified_at": "2026-09-22T17:35:23.755Z"
+  },
+  "kibernum s.a.::desarrollador front end semi senior — react angular y vue": {
+    "title": "Desarrollador Front End Semi Senior — React Angular y Vue",
+    "company": "KIBERNUM S.A.",
+    "score": 25,
+    "notified_at": "2026-09-22T17:35:23.757Z"
+  },
+  "kibernum s.a.::desarrollador backend": {
+    "title": "Desarrollador Backend",
+    "company": "KIBERNUM S.A.",
+    "score": 15,
+    "notified_at": "2026-09-22T17:35:23.759Z"
+  },
+  "perceptual consultores ltda.::programador senior (fullstack) - react/typescript": {
+    "title": "Programador Senior (Fullstack) - React/Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-22T17:35:30.958Z"
+  },
+  "eurofirms chile::programador": {
+    "title": "Programador",
+    "company": "Eurofirms Chile",
+    "score": 15,
+    "notified_at": "2026-09-22T17:35:30.961Z"
+  },
+  "consultora psicolab::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Consultora PsicoLab",
+    "score": 40,
+    "notified_at": "2026-09-23T17:47:41.632Z"
+  },
+  "bvm consultores sa::developer full stack senior | las condes": {
+    "title": "Developer Full Stack Senior | Las Condes",
+    "company": "BVM CONSULTORES SA",
+    "score": 95,
+    "notified_at": "2026-09-23T17:47:41.634Z"
+  },
+  "lisit::desarrollador fullstack gerencia ti": {
+    "title": "Desarrollador FullStack Gerencia TI",
+    "company": "LISIT",
+    "score": 100,
+    "notified_at": "2026-09-23T17:47:41.640Z"
+  },
+  "keywe::desarrollador full stack senior — agnostico tecnologico (hibrido)": {
+    "title": "Desarrollador Full Stack Senior — Agnóstico Tecnológico (Híbrido)",
+    "company": "Keywe",
+    "score": 15,
+    "notified_at": "2026-09-23T17:47:41.641Z"
+  },
+  "randstad chile::analista programador junior": {
+    "title": "Analista Programador Junior",
+    "company": "Randstad Chile",
+    "score": 70,
+    "notified_at": "2026-09-23T17:48:30.142Z"
+  },
+  "stefanini latam::analista cobol senior – mainframe": {
+    "title": "Analista COBOL Senior – Mainframe",
+    "company": "Stefanini LATAM",
+    "score": 0,
+    "notified_at": "2026-09-23T17:48:30.148Z"
+  },
+  "muruna::🚀 desarrollador/a java senior | modernizacion legacy &amp; cloud-native ☁️ | 100% remoto 💙": {
+    "title": "🚀 Desarrollador/a Java Senior | Modernización Legacy &amp; Cloud-Native ☁️ | 100% Remoto 💙",
+    "company": "Muruna",
+    "score": 15,
+    "notified_at": "2026-09-23T17:48:41.516Z"
+  },
+  "kibernum s.a.::desarrollador/a de integraciones cloud senior — apis & azure": {
+    "title": "Desarrollador/a de Integraciones Cloud Senior — APIs & Azure",
+    "company": "KIBERNUM S.A.",
+    "score": 15,
+    "notified_at": "2026-09-23T17:48:41.518Z"
+  },
+  "iconstruye s.a.::desarrollador full-stack-plataforma marketplace para la construccion": {
+    "title": "Desarrollador Full-Stack-Plataforma Marketplace para la Construcción",
+    "company": "iConstruye S.A.",
+    "score": 100,
+    "notified_at": "2026-09-23T17:48:41.522Z"
+  },
+  "bairesdev::ingeniero de software .net core - trabajo remoto": {
+    "title": "Ingeniero de Software .NET Core - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 5,
+    "notified_at": "2026-09-23T17:48:41.523Z"
+  },
+  "kibernum s.a.::analista programador": {
+    "title": "Analista Programador",
+    "company": "KIBERNUM S.A.",
+    "score": 20,
+    "notified_at": "2026-09-23T17:48:52.027Z"
+  }
+}
