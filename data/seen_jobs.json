@@ -2608,5 +2608,119 @@
     "company": "KIBERNUM S.A.",
     "score": 20,
     "notified_at": "2026-09-23T17:48:52.027Z"
+  },
+  "itau chile::full stack senior": {
+    "title": "Full Stack Senior",
+    "company": "Itaú Chile",
+    "score": 60,
+    "notified_at": "2026-09-25T17:51:47.746Z"
+  },
+  "getronics::ingeniero full stack senior | java, spring boot & angular": {
+    "title": "Ingeniero Full Stack Senior | Java, Spring Boot & Angular",
+    "company": "Getronics",
+    "score": 60,
+    "notified_at": "2026-09-25T17:51:47.748Z"
+  },
+  "perceptual consultores ltda.::fullstack developer - react typescript": {
+    "title": "Fullstack Developer - React Typescript",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-25T17:51:47.751Z"
+  },
+  "orantex tech::software engineer senior (golang & node.js)": {
+    "title": "Software Engineer Senior (Golang & Node.js)",
+    "company": "Orantex Tech",
+    "score": 70,
+    "notified_at": "2026-09-25T17:51:51.287Z"
+  },
+  "nisum::desarrollador android (node.js + bff)": {
+    "title": "Desarrollador Android (Node.JS + BFF)",
+    "company": "Nisum",
+    "score": 65,
+    "notified_at": "2026-09-25T17:51:51.290Z"
+  },
+  "sii group chile::backend engineer (node.js/go) | kafka & db": {
+    "title": "Backend Engineer (Node.js/Go) | Kafka & DB",
+    "company": "SII Group Chile",
+    "score": 90,
+    "notified_at": "2026-09-25T17:51:51.291Z"
+  },
+  "prontopaga::node.js back-end engineer (semi senior)": {
+    "title": "Node.js Back-end Engineer (Semi Senior)",
+    "company": "ProntoPaga",
+    "score": 35,
+    "notified_at": "2026-09-25T17:51:51.295Z"
+  },
+  "servicios mineros rym spa::practica - analista programador": {
+    "title": "PRÁCTICA - ANALISTA PROGRAMADOR",
+    "company": "Servicios Mineros RYM SPA",
+    "score": 15,
+    "notified_at": "2026-09-25T17:52:13.945Z"
+  },
+  "comercial portia::analista programador junior": {
+    "title": "Analista Programador Junior",
+    "company": "Comercial Portia",
+    "score": 20,
+    "notified_at": "2026-09-25T17:52:13.949Z"
+  },
+  "oxzo s.a.::analista de operaciones – datos e informatica": {
+    "title": "Analista de Operaciones – Datos e Informática",
+    "company": "Oxzo S.A.",
+    "score": 0,
+    "notified_at": "2026-09-25T17:52:13.951Z"
+  },
+  "bc tecnologia::software engineer semi senior": {
+    "title": "Software Engineer Semi Senior",
+    "company": "BC Tecnología",
+    "score": 25,
+    "notified_at": "2026-09-25T17:52:20.017Z"
+  },
+  "indra group::programador sap abap / fiori (s/4hana)": {
+    "title": "Programador SAP ABAP / FIORI (S/4Hana)",
+    "company": "Indra Group",
+    "score": 15,
+    "notified_at": "2026-09-25T17:52:20.019Z"
+  },
+  "ps grupo hunting::desarrollador/a .net semi senior – santiago | hibrido": {
+    "title": "Desarrollador/a .NET Semi Senior – Santiago | Híbrido",
+    "company": "PS GRUPO HUNTING",
+    "score": 15,
+    "notified_at": "2026-09-25T17:52:20.022Z"
+  },
+  "banco bci::ios developer": {
+    "title": "iOS Developer",
+    "company": "Banco Bci",
+    "score": 25,
+    "notified_at": "2026-09-25T17:52:20.024Z"
+  },
+  "bctecnologia::software engineer semi senior (python/react) - proyecto (hibrido)": {
+    "title": "Software Engineer Semi Senior (Python/React) - Proyecto (Hibrido)",
+    "company": "BCTecnología",
+    "score": 25,
+    "notified_at": "2026-09-25T17:52:20.025Z"
+  },
+  "crawco::programador de software": {
+    "title": "Programador de Software",
+    "company": "Crawco",
+    "score": 25,
+    "notified_at": "2026-09-25T17:52:23.908Z"
+  },
+  "cyd ingenieria::programador de proyecto ryscf-16": {
+    "title": "Programador de Proyecto RySCF-16",
+    "company": "CyD Ingeniería",
+    "score": 15,
+    "notified_at": "2026-09-25T17:52:23.910Z"
+  },
+  "perceptual consultores ltda.::programador senior": {
+    "title": "Programador Senior",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-09-25T17:52:23.913Z"
+  },
+  "convergint::programador cctv y control de accesos | lidera integracion": {
+    "title": "Programador CCTV y Control de Accesos | Lidera Integración",
+    "company": "Convergint",
+    "score": 15,
+    "notified_at": "2026-09-25T17:52:23.915Z"
   }
 }
