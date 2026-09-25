@@ -15,8 +15,6 @@ function normalize(str) {
 }
 
 function getStableKey(job) {
-
-  // Fallback por si algún día no viene el link: título + empresa normalizados.
   const title = normalize(job.job_title);
   const company = normalize(job.employer_name);
   return `${company}::${title}`;
@@ -33,28 +31,36 @@ async function run() {
   const threshold = Number(process.env.MATCH_THRESHOLD || 40);
 
   const newMatches = [];
-  const seenInThisRun = new Set(); // evita duplicados si dos queries traen la misma oferta
+  const seenInThisRun = new Set();
+  const failedQueries = [];
 
   for (const query of queries) {
     console.log(`[${new Date().toISOString()}] Buscando: "${query}" en "${country}"...`);
 
-    const jobs = await searchJobs({ query, country });
+    let jobs;
+    try {
+      jobs = await searchJobs({ query, country });
+    } catch (err) {
+      console.error(`  ⚠️  Falló la búsqueda "${query}": ${err.message}`);
+      failedQueries.push(query);
+      continue;
+    }
+
     console.log(`  → ${jobs.length} ofertas encontradas para esta búsqueda.`);
 
     for (const job of jobs) {
       const stableKey = getStableKey(job);
       if (!stableKey) continue;
 
-      if (seenInThisRun.has(stableKey)) continue; // ya la vimos en otra query de esta misma corrida
+      if (seenInThisRun.has(stableKey)) continue;
       seenInThisRun.add(stableKey);
 
       if (hasBeenSeen(stableKey)) {
-        continue; // ya notificado en una corrida anterior, se salta
+        continue;
       }
 
       const result = scoreJob(job);
 
-      // Se marca como visto SIEMPRE (matchee o no) para no reprocesarlo eternamente
       markAsSeen({
         jobId: stableKey,
         title: job.job_title,
@@ -75,6 +81,16 @@ async function run() {
     console.log("Correo de notificación enviado.");
   } else {
     console.log("No hay nada nuevo que notificar en esta corrida.");
+  }
+
+  if (failedQueries.length > 0) {
+    console.log(
+      `Nota: ${failedQueries.length} búsqueda(s) fallaron y se omitieron: ${failedQueries.join(", ")}`
+    );
+  }
+
+  if (failedQueries.length === queries.length) {
+    throw new Error("Todas las búsquedas fallaron en esta corrida.");
   }
 }
 
