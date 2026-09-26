@@ -2722,5 +2722,83 @@
     "company": "Convergint",
     "score": 15,
     "notified_at": "2026-09-25T17:52:23.915Z"
+  },
+  "tinet s.a.::desarrollador fullstack senior": {
+    "title": "Desarrollador Fullstack Senior",
+    "company": "TINET S.A.",
+    "score": 85,
+    "notified_at": "2026-09-26T16:59:09.793Z"
+  },
+  "ur global chile spa::desarrollador/a full stack - semi senior (node.js + angular/react/vue)": {
+    "title": "Desarrollador/a Full Stack - Semi Senior (Node.js + Angular/React/Vue)",
+    "company": "UR GLOBAL CHILE SPA",
+    "score": 85,
+    "notified_at": "2026-09-26T16:59:09.795Z"
+  },
+  "usercode::desarrollador full-stack php laravel | remoto/hibrido": {
+    "title": "Desarrollador Full-Stack PHP Laravel | Remoto/Híbrido",
+    "company": "Usercode",
+    "score": 75,
+    "notified_at": "2026-09-26T16:59:09.800Z"
+  },
+  "bice vida::developer full-stack tribu producto": {
+    "title": "Developer Full-Stack Tribu Producto",
+    "company": "BICE VIDA",
+    "score": 30,
+    "notified_at": "2026-09-26T16:59:09.802Z"
+  },
+  "stefanini group::backend developer – nestjs + elasticsearch- hibrido": {
+    "title": "Backend Developer – NestJS + Elasticsearch- HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 60,
+    "notified_at": "2026-09-26T16:59:16.674Z"
+  },
+  "agilistik::ingeniero back-end java y node.js": {
+    "title": "Ingeniero Back-end Java y Node.js",
+    "company": "AGILISTIK",
+    "score": 30,
+    "notified_at": "2026-09-26T16:59:16.678Z"
+  },
+  "stefanini latam::analista programador cobol": {
+    "title": "Analista Programador Cobol",
+    "company": "Stefanini LATAM",
+    "score": 20,
+    "notified_at": "2026-09-26T16:59:23.739Z"
+  },
+  "mm asesorias::analista desarollador .net / etl": {
+    "title": "Analista Desarollador .net / ETL",
+    "company": "MM ASESORIAS",
+    "score": 5,
+    "notified_at": "2026-09-26T16:59:23.745Z"
+  },
+  "owl team solutions::desarrollador/a .net c# laboratorio": {
+    "title": "Desarrollador/a .NET C# laboratorio",
+    "company": "OWL TEAM SOLUTIONS",
+    "score": 15,
+    "notified_at": "2026-09-26T16:59:30.329Z"
+  },
+  "perceptual consultores::ingeniero informatico - desarrollador fullstack senior": {
+    "title": "Ingeniero Informático - Desarrollador Fullstack Senior",
+    "company": "Perceptual Consultores",
+    "score": 25,
+    "notified_at": "2026-09-26T16:59:30.332Z"
+  },
+  "ripley chile::software engineer i": {
+    "title": "Software Engineer I",
+    "company": "Ripley Chile",
+    "score": 65,
+    "notified_at": "2026-09-26T16:59:30.335Z"
+  },
+  "abenis::desarrollador con .net": {
+    "title": "Desarrollador con .Net",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-09-26T16:59:30.337Z"
+  },
+  "adecco recursos humanos sa::programador ti": {
+    "title": "Programador TI",
+    "company": "Adecco Recursos Humanos SA",
+    "score": 15,
+    "notified_at": "2026-09-26T16:59:32.742Z"
   }
 }
