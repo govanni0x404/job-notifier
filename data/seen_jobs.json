@@ -2800,5 +2800,59 @@
     "company": "Adecco Recursos Humanos SA",
     "score": 15,
     "notified_at": "2026-09-26T16:59:32.742Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador fullstack java — apis rest y soap": {
+    "title": "Desarrollador Fullstack Java — APIs REST y SOAP",
+    "company": "Tata Consultancy Services Chile S.A.",
+    "score": 15,
+    "notified_at": "2026-09-27T17:37:21.099Z"
+  },
+  "kabeli seleccion::desarrollador mern": {
+    "title": "Desarrollador MERN",
+    "company": "Kabeli Selección",
+    "score": 90,
+    "notified_at": "2026-09-27T17:37:21.102Z"
+  },
+  "socius spa::software engineer senior con foco backend – golang + node.js.": {
+    "title": "Software Engineer Senior con foco Backend – Golang + Node.js.",
+    "company": "Socius Spa",
+    "score": 100,
+    "notified_at": "2026-09-27T17:37:28.872Z"
+  },
+  "socius spa::software engineer senior con foco backend - golang + node.js.": {
+    "title": "Software Engineer Senior con foco Backend - Golang + Node.js.",
+    "company": "Socius Spa",
+    "score": 100,
+    "notified_at": "2026-09-27T17:37:28.874Z"
+  },
+  "agrolujuma::informatico/a - junior": {
+    "title": "Informático/a - Junior",
+    "company": "Agrolujuma",
+    "score": 75,
+    "notified_at": "2026-09-27T17:37:42.322Z"
+  },
+  "grafton latam::analista programador – python / power bi": {
+    "title": "Analista programador – Python / Power BI",
+    "company": "Grafton Latam",
+    "score": 20,
+    "notified_at": "2026-09-27T17:37:42.332Z"
+  },
+  "themis chile spa::desarrolladores de software": {
+    "title": "Desarrolladores de software",
+    "company": "THEMIS CHILE SPA",
+    "score": 20,
+    "notified_at": "2026-09-27T17:37:56.689Z"
+  },
+  "stefanini group::developer mobile – react native -hibrido": {
+    "title": "Developer Mobile – React Native -HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 55,
+    "notified_at": "2026-09-27T17:37:56.693Z"
+  },
+  "fastsoluciones construciones limitada::programador/a de tareas operacionales": {
+    "title": "Programador/a de tareas Operacionales",
+    "company": "FASTSOLUCIONES CONSTRUCIONES LIMITADA",
+    "score": 15,
+    "notified_at": "2026-09-27T17:38:05.350Z"
   }
 }
