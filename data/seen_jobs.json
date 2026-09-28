@@ -2854,5 +2854,53 @@
     "company": "FASTSOLUCIONES CONSTRUCIONES LIMITADA",
     "score": 15,
     "notified_at": "2026-09-27T17:38:05.350Z"
+  },
+  "atcom chile::desarrollador/a web fullstack react + node.js": {
+    "title": "Desarrollador/a Web Fullstack React + Node.js",
+    "company": "ATCOM Chile",
+    "score": 70,
+    "notified_at": "2026-09-28T20:03:26.692Z"
+  },
+  "apiux tech::hybrid: full-stack": {
+    "title": "Hybrid: Full-Stack",
+    "company": "Apiux Tech",
+    "score": 50,
+    "notified_at": "2026-09-28T20:03:26.703Z"
+  },
+  "tinet::desarrollador fullstack .net - semi sr tecnologia · santiago de chile · hibrido": {
+    "title": "Desarrollador Fullstack .NET - Semi Sr Tecnología · Santiago de Chile · Híbrido",
+    "company": "TINET",
+    "score": 30,
+    "notified_at": "2026-09-28T20:03:26.708Z"
+  },
+  "bc tecnologia::fullstack node.js/react engineer | ai-powered, serverless": {
+    "title": "Fullstack Node.js/React Engineer | AI-Powered, Serverless",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-09-28T20:03:33.226Z"
+  },
+  "ingenieria informatica kibernum s.a.::analista programador .net / etl / sql server / python": {
+    "title": "Analista Programador .NET / ETL / SQL Server / Python",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 50,
+    "notified_at": "2026-09-28T20:03:36.798Z"
+  },
+  "r y c consultores asociados::backend developer aws glue": {
+    "title": "Backend Developer AWS Glue",
+    "company": "R y C Consultores Asociados",
+    "score": 55,
+    "notified_at": "2026-09-28T20:03:41.312Z"
+  },
+  "aeolabs::desarrollador/a frontend web y mobile": {
+    "title": "Desarrollador/a Frontend Web y Mobile",
+    "company": "Aeolabs",
+    "score": 40,
+    "notified_at": "2026-09-28T20:03:41.315Z"
+  },
+  "cge s.a.::tecnico programador (base san bernardo)": {
+    "title": "Técnico Programador (Base San Bernardo)",
+    "company": "CGE S.A.",
+    "score": 15,
+    "notified_at": "2026-09-28T20:03:46.927Z"
   }
 }
