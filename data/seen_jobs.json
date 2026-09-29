@@ -2902,5 +2902,89 @@
     "company": "CGE S.A.",
     "score": 15,
     "notified_at": "2026-09-28T20:03:46.927Z"
+  },
+  "asesoria y gestion de procesos s.a::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "Asesoría y Gestión de Procesos S.A",
+    "score": 50,
+    "notified_at": "2026-09-29T18:31:19.172Z"
+  },
+  "getronics::technical lead full stack | java, spring boot, node.js & angular": {
+    "title": "Technical Lead Full Stack | Java, Spring Boot, Node.js & Angular",
+    "company": "Getronics",
+    "score": 55,
+    "notified_at": "2026-09-29T18:31:19.175Z"
+  },
+  "entel call center s a::desarrollador full stack _ chi _ ec s23": {
+    "title": "Desarrollador Full Stack _ CHI _ EC S23",
+    "company": "Entel Call Center S A",
+    "score": 20,
+    "notified_at": "2026-09-29T18:31:19.181Z"
+  },
+  "asesoria y gestion de procesos s.a::desarrollador full-stack full time": {
+    "title": "Desarrollador Full-Stack Full time",
+    "company": "Asesoría y Gestión de Procesos S.A",
+    "score": 50,
+    "notified_at": "2026-09-29T18:31:19.184Z"
+  },
+  "zerviz technologies::desarrollador/a full-stack": {
+    "title": "Desarrollador/a Full-Stack",
+    "company": "Zerviz Technologies",
+    "score": 45,
+    "notified_at": "2026-09-29T18:31:19.187Z"
+  },
+  "mantu group sa::desarrollador fullstack senior — angular, nestjs y gcp": {
+    "title": "Desarrollador Fullstack Senior — Angular, NestJS y GCP",
+    "company": "MANTU GROUP SA",
+    "score": 15,
+    "notified_at": "2026-09-29T18:31:19.191Z"
+  },
+  "kabeli seleccion::desarrollador full stack ia": {
+    "title": "Desarrollador Full Stack IA",
+    "company": "Kabeli Selección",
+    "score": 55,
+    "notified_at": "2026-09-29T18:31:19.195Z"
+  },
+  "bc tecnologia::software engineer (node.js/react)": {
+    "title": "Software Engineer (Node.js/React)",
+    "company": "BC Tecnología",
+    "score": 75,
+    "notified_at": "2026-09-29T18:31:31.765Z"
+  },
+  "stefanini group::desarrollador/a backend golang + node.js - hibrido": {
+    "title": "Desarrollador/a Backend Golang + Node.js - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 100,
+    "notified_at": "2026-09-29T18:31:31.769Z"
+  },
+  "land power chile::practica profesional – ing. informatica o analista programador, los angeles": {
+    "title": "Práctica Profesional – Ing. Informática o Analista Programador, Los Ángeles",
+    "company": "Land Power Chile",
+    "score": 15,
+    "notified_at": "2026-09-29T18:31:44.326Z"
+  },
+  "perceptual consultores::desarrollador fullstack - las condes - contrato indefinido": {
+    "title": "Desarrollador FULLSTACK - Las Condes - Contrato Indefinido",
+    "company": "Perceptual Consultores",
+    "score": 100,
+    "notified_at": "2026-09-29T18:31:56.729Z"
+  },
+  "ticmoai::desarrollador j2ee": {
+    "title": "Desarrollador j2ee",
+    "company": "TicMoAI",
+    "score": 40,
+    "notified_at": "2026-09-29T18:31:56.734Z"
+  },
+  "albemarle::programador/a operacional": {
+    "title": "Programador/a Operacional",
+    "company": "Albemarle",
+    "score": 15,
+    "notified_at": "2026-09-29T18:32:25.852Z"
+  },
+  "digital bank - serviex::programadores de back end con experiencia": {
+    "title": "Programadores de Back End con experiencia",
+    "company": "Digital Bank - Serviex",
+    "score": 20,
+    "notified_at": "2026-09-29T18:32:25.856Z"
   }
 }
