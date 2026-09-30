@@ -2986,5 +2986,89 @@
     "company": "Digital Bank - Serviex",
     "score": 20,
     "notified_at": "2026-09-29T18:32:25.856Z"
+  },
+  "inovabiz::desarrollador/a full stack (typescript + react)": {
+    "title": "Desarrollador/a Full Stack (TypeScript + React)",
+    "company": "INOVABIZ",
+    "score": 35,
+    "notified_at": "2026-09-30T18:20:13.861Z"
+  },
+  "confidencial::desarrollador de software fullstack": {
+    "title": "Desarrollador de Software Fullstack",
+    "company": "Confidencial",
+    "score": 60,
+    "notified_at": "2026-09-30T18:20:13.865Z"
+  },
+  "cumplo chile s.a.::full stack": {
+    "title": "Full Stack",
+    "company": "Cumplo Chile S.A.",
+    "score": 50,
+    "notified_at": "2026-09-30T18:20:13.868Z"
+  },
+  "witi::desarrollador full-stack (react | nestjs | aws)": {
+    "title": "Desarrollador Full-Stack (React | NestJS | AWS)",
+    "company": "WiTI",
+    "score": 35,
+    "notified_at": "2026-09-30T18:20:13.870Z"
+  },
+  "getronics::dev full stack senior | aws cloud & data platform": {
+    "title": "Dev Full Stack Senior | AWS Cloud & Data Platform",
+    "company": "Getronics",
+    "score": 15,
+    "notified_at": "2026-09-30T18:20:13.874Z"
+  },
+  "fullstack::senior backend engineer tech lead (3-4 month long) - remote - latin america": {
+    "title": "Senior Backend Engineer Tech Lead (3-4 month long) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 50,
+    "notified_at": "2026-09-30T18:20:13.878Z"
+  },
+  "bc tecnologia::backend engineer: node.js": {
+    "title": "Backend Engineer: Node.js",
+    "company": "BC Tecnología",
+    "score": 85,
+    "notified_at": "2026-09-30T18:20:36.322Z"
+  },
+  "socius spa::senior backend engineer – go/node microservices": {
+    "title": "Senior Backend Engineer – Go/Node Microservices",
+    "company": "Socius Spa",
+    "score": 90,
+    "notified_at": "2026-09-30T18:20:36.329Z"
+  },
+  "think2process::practicante programacion analista sistema ingenieria online": {
+    "title": "Practicante Programación Analista Sistema Ingenieria Online",
+    "company": "Think2process",
+    "score": 20,
+    "notified_at": "2026-09-30T18:20:39.720Z"
+  },
+  "fixlabs::practica profesional – desarrollo full stack (integraciones)": {
+    "title": "Práctica Profesional – Desarrollo Full Stack (Integraciones)",
+    "company": "Fixlabs",
+    "score": 85,
+    "notified_at": "2026-09-30T18:20:39.727Z"
+  },
+  "grafton latam::analista programador – python": {
+    "title": "Analista programador – Python",
+    "company": "Grafton Latam",
+    "score": 20,
+    "notified_at": "2026-09-30T18:20:39.730Z"
+  },
+  "kiosclub supermarket::desarrollador/a de software erp": {
+    "title": "Desarrollador/a de Software ERP",
+    "company": "KiosClub Supermarket",
+    "score": 55,
+    "notified_at": "2026-09-30T18:21:12.758Z"
+  },
+  "avos tech | chile::backend developer python senior": {
+    "title": "Backend Developer Python Senior",
+    "company": "AVOS Tech | Chile",
+    "score": 65,
+    "notified_at": "2026-09-30T18:21:12.760Z"
+  },
+  "salfacorp::programador(a) de obra | mineria, riesgos y subcontratos": {
+    "title": "Programador(a) de Obra | Minería, Riesgos y Subcontratos",
+    "company": "SalfaCorp",
+    "score": 15,
+    "notified_at": "2026-09-30T18:21:19.398Z"
   }
 }
