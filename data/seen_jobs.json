@@ -3070,5 +3070,101 @@
     "company": "SalfaCorp",
     "score": 15,
     "notified_at": "2026-09-30T18:21:19.398Z"
+  },
+  "genesys global::desarrollador/a full stack! | java + javascript": {
+    "title": "Desarrollador/a Full Stack! | Java + JavaScript",
+    "company": "Genesys Global",
+    "score": 100,
+    "notified_at": "2026-10-01T18:45:14.364Z"
+  },
+  "kibernum s.a.::desarrollador fullstack (.net / angular / node.js)": {
+    "title": "Desarrollador Fullstack (.NET / Angular / Node.js)",
+    "company": "KIBERNUM S.A.",
+    "score": 50,
+    "notified_at": "2026-10-01T18:45:14.368Z"
+  },
+  "stefanini group::desarrollador de back-end - node.js, nestjs y typescript - hibrido": {
+    "title": "Desarrollador de back-end - Node.js, NestJS y TypeScript - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 100,
+    "notified_at": "2026-10-01T18:45:14.373Z"
+  },
+  "tata consultancy services::desarrollador fullstack.net + react: ia, apis y cloud": {
+    "title": "Desarrollador Fullstack.NET + React: IA, APIs y Cloud",
+    "company": "Tata Consultancy Services",
+    "score": 20,
+    "notified_at": "2026-10-01T18:45:14.375Z"
+  },
+  "bc tecnologia::full-stack node.js": {
+    "title": "Full-Stack Node.js",
+    "company": "BC Tecnología",
+    "score": 40,
+    "notified_at": "2026-10-01T18:45:20.983Z"
+  },
+  "tata consultancy services::desarrollador backend node.js/express — innovacion y impacto": {
+    "title": "Desarrollador Backend Node.js/Express — Innovación y Impacto",
+    "company": "Tata Consultancy Services",
+    "score": 55,
+    "notified_at": "2026-10-01T18:45:20.988Z"
+  },
+  "mm asesorias::desarrollador backend java - titulado": {
+    "title": "Desarrollador Backend JAVA - Titulado",
+    "company": "MM ASESORIAS",
+    "score": 25,
+    "notified_at": "2026-10-01T18:45:29.224Z"
+  },
+  "empresa confidencial::practica informatica": {
+    "title": "Práctica Informática",
+    "company": "Empresa Confidencial",
+    "score": 5,
+    "notified_at": "2026-10-01T18:45:29.226Z"
+  },
+  "thor ian::practica profesional - analista programacion / ing. informatica": {
+    "title": "Práctica Profesional - Analista Programación / Ing. Informática",
+    "company": "THOR IAN",
+    "score": 0,
+    "notified_at": "2026-10-01T18:45:29.231Z"
+  },
+  "perceptual consultores ltda.::programador fullstack senior / las condes, rm / indefinido": {
+    "title": "Programador FullStack Senior / Las Condes, RM / Indefinido",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 35,
+    "notified_at": "2026-10-01T18:45:29.233Z"
+  },
+  "cognitio tecnologia::analista programador senior": {
+    "title": "Analista Programador Senior",
+    "company": "Cognitio Tecnología",
+    "score": 20,
+    "notified_at": "2026-10-01T18:45:29.237Z"
+  },
+  "inacap::asistente programador web – cauce": {
+    "title": "Asistente Programador WEB – Cauce",
+    "company": "INACAP",
+    "score": 55,
+    "notified_at": "2026-10-01T18:45:29.239Z"
+  },
+  "navakarana soluciones tecnologicas::especialista en desarrollo de software": {
+    "title": "Especialista en Desarrollo de Software",
+    "company": "Navakarana Soluciones Tecnológicas",
+    "score": 5,
+    "notified_at": "2026-10-01T18:45:36.139Z"
+  },
+  "cmpc::developer back end": {
+    "title": "DEVELOPER BACK END",
+    "company": "CMPC",
+    "score": 95,
+    "notified_at": "2026-10-01T18:45:36.142Z"
+  },
+  "xinerlink::programador/a - quilicura": {
+    "title": "Programador/a - Quilicura",
+    "company": "XinerLink",
+    "score": 40,
+    "notified_at": "2026-10-01T18:45:43.330Z"
+  },
+  "erika dafne leon soto::programadores(as) / desarrollares (as) informaticos (ti)": {
+    "title": "Programadores(as) / Desarrollares (as) informaticos (TI)",
+    "company": "ERIKA DAFNE LEÓN SOTO",
+    "score": 20,
+    "notified_at": "2026-10-01T18:45:43.334Z"
   }
 }
