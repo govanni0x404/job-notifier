@@ -3166,5 +3166,101 @@
     "company": "ERIKA DAFNE LEÓN SOTO",
     "score": 20,
     "notified_at": "2026-10-01T18:45:43.334Z"
+  },
+  "clinica iram::desarrollador fullstack + ia": {
+    "title": "Desarrollador Fullstack + IA",
+    "company": "Clínica IRAM",
+    "score": 80,
+    "notified_at": "2026-10-02T18:17:29.580Z"
+  },
+  "cmpc::full stack developer": {
+    "title": "FULL STACK DEVELOPER",
+    "company": "CMPC",
+    "score": 100,
+    "notified_at": "2026-10-02T18:17:29.584Z"
+  },
+  "imagemaker::desarrollador fullstack java / angular 2 - cl": {
+    "title": "Desarrollador FullStack Java / Angular 2 - CL",
+    "company": "Imagemaker",
+    "score": 50,
+    "notified_at": "2026-10-02T18:17:29.588Z"
+  },
+  "talan group::remote full stack dev": {
+    "title": "Remote Full Stack Dev",
+    "company": "Talan Group",
+    "score": 50,
+    "notified_at": "2026-10-02T18:17:29.593Z"
+  },
+  "bairesdev::senior backend developer (node.js) - remote": {
+    "title": "Senior Backend Developer (Node.js) - Remote",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-10-02T18:17:32.837Z"
+  },
+  "bluelightconsulting::senior full-stack node.js engineer": {
+    "title": "Senior Full-Stack Node.js Engineer",
+    "company": "Bluelightconsulting",
+    "score": 70,
+    "notified_at": "2026-10-02T18:17:32.842Z"
+  },
+  "manpower chile::analista programador (trabajo temporal) - quilicura, santiago": {
+    "title": "Analista Programador (Trabajo temporal) - Quilicura, Santiago",
+    "company": "Manpower Chile",
+    "score": 35,
+    "notified_at": "2026-10-02T18:17:36.563Z"
+  },
+  "semillas altue::tecnico informatico / programador / ingeniero en informatica": {
+    "title": "Técnico Informático / Programador / Ingeniero en Informática",
+    "company": "Semillas Altue",
+    "score": 70,
+    "notified_at": "2026-10-02T18:17:36.566Z"
+  },
+  "mmasesorias::analista desarollador.net": {
+    "title": "Analista Desarollador.net",
+    "company": "MMasesorias",
+    "score": 5,
+    "notified_at": "2026-10-02T18:17:36.569Z"
+  },
+  "sermaluc::desarrollador java": {
+    "title": "Desarrollador Java",
+    "company": "Sermaluc",
+    "score": 20,
+    "notified_at": "2026-10-02T18:17:43.538Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador java fullstack: apis rest/soap y web apps": {
+    "title": "Desarrollador Java Fullstack: APIs REST/SOAP y Web Apps",
+    "company": "Tata Consultancy Services Chile S.A.",
+    "score": 30,
+    "notified_at": "2026-10-02T18:17:43.545Z"
+  },
+  "axity::analista programador .net - senior": {
+    "title": "Analista Programador .Net - Senior",
+    "company": "Axity",
+    "score": 35,
+    "notified_at": "2026-10-02T18:17:51.975Z"
+  },
+  "megamedia::programador(a) publicitario(a)": {
+    "title": "Programador(a) Publicitario(a)",
+    "company": "MEGAMEDIA",
+    "score": 15,
+    "notified_at": "2026-10-02T18:17:51.977Z"
+  },
+  "crawford & company::programador de software": {
+    "title": "Programador de Software",
+    "company": "Crawford & Company",
+    "score": 25,
+    "notified_at": "2026-10-02T18:17:51.980Z"
+  },
+  "hom group::programador / tech &amp; ia para liderar la transformacion tecnologica de hom": {
+    "title": "Programador / Tech &amp; IA para liderar la transformación tecnológica de HOM",
+    "company": "HOM Group",
+    "score": 15,
+    "notified_at": "2026-10-02T18:17:51.983Z"
+  },
+  "tailor servicios::programador bms - ebo schneider san bernardo, chile ingenieria electrica y electronica 19 de agosto compartir url copiar url x whatsapp nuevo": {
+    "title": "Programador BMS - EBO Schneider San Bernardo, Chile Ingeniería Eléctrica y Electrónica 19 de agosto Compartir url Copiar url X Whatsapp Nuevo",
+    "company": "Tailor Servicios",
+    "score": 15,
+    "notified_at": "2026-10-02T18:17:51.985Z"
   }
 }
