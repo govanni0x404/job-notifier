@@ -3262,5 +3262,89 @@
     "company": "Tailor Servicios",
     "score": 15,
     "notified_at": "2026-10-02T18:17:51.985Z"
+  },
+  "agilistik::desarrollador/a full-stack": {
+    "title": "Desarrollador/a Full-Stack",
+    "company": "Agilistik",
+    "score": 50,
+    "notified_at": "2026-10-03T17:08:10.508Z"
+  },
+  "fullstack::full stack .net engineer (angular) - remote - latin america": {
+    "title": "Full Stack .NET Engineer (Angular) - Remote - Latin America",
+    "company": "FullStack",
+    "score": 25,
+    "notified_at": "2026-10-03T17:08:10.514Z"
+  },
+  "acid labs::desarrollador full stack: apis y microservicios arquitectura": {
+    "title": "Desarrollador Full Stack: APIs y Microservicios Arquitectura",
+    "company": "Acid Labs",
+    "score": 55,
+    "notified_at": "2026-10-03T17:08:10.516Z"
+  },
+  "asai::fullstack developer / ai developer": {
+    "title": "FullStack Developer / AI Developer",
+    "company": "ASAI",
+    "score": 30,
+    "notified_at": "2026-10-03T17:08:10.519Z"
+  },
+  "uno afp::desarrollador full-stack": {
+    "title": "Desarrollador Full-Stack",
+    "company": "UNO afp",
+    "score": 75,
+    "notified_at": "2026-10-03T17:08:10.521Z"
+  },
+  "bluelightconsulting::remote node.js": {
+    "title": "Remote Node.js",
+    "company": "Bluelightconsulting",
+    "score": 70,
+    "notified_at": "2026-10-03T17:08:20.639Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador fullstack - .net / angular / node.js": {
+    "title": "Desarrollador Fullstack - .NET / Angular / Node.js",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 50,
+    "notified_at": "2026-10-03T17:08:20.646Z"
+  },
+  "henko tcg::analista programador punta arenas": {
+    "title": "Analista programador Punta Arenas",
+    "company": "Henko TCG",
+    "score": 20,
+    "notified_at": "2026-10-03T17:08:23.610Z"
+  },
+  "coldwell banker chile::analista programador": {
+    "title": "Analista Programador",
+    "company": "Coldwell Banker Chile",
+    "score": 15,
+    "notified_at": "2026-10-03T17:08:23.614Z"
+  },
+  "agilistik::desarrollador/a back-end y cloud": {
+    "title": "Desarrollador/a Back-end y Cloud",
+    "company": "AGILISTIK",
+    "score": 50,
+    "notified_at": "2026-10-03T17:08:26.040Z"
+  },
+  "inexoos::ingeniero de desarrollo senior": {
+    "title": "Ingeniero de Desarrollo Senior",
+    "company": "INEXOOS",
+    "score": 70,
+    "notified_at": "2026-10-03T17:08:26.045Z"
+  },
+  "virtual 3d::web 3d & 360° developer": {
+    "title": "Web 3D & 360° Developer",
+    "company": "Virtual 3D",
+    "score": 35,
+    "notified_at": "2026-10-03T17:08:26.048Z"
+  },
+  "p&b ingenieria y construccion spa::programador y administrador de sistemas ti": {
+    "title": "Programador y Administrador de Sistemas TI",
+    "company": "P&B Ingeniería y Construcción SpA",
+    "score": 20,
+    "notified_at": "2026-10-03T17:08:28.055Z"
+  },
+  "wood::planificador / programador de proyectos — concepcion (flexible)": {
+    "title": "Planificador / Programador de Proyectos — Concepción (Flexible)",
+    "company": "Wood",
+    "score": 15,
+    "notified_at": "2026-10-03T17:08:28.059Z"
   }
 }
