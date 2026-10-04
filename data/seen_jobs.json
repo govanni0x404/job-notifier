@@ -3346,5 +3346,77 @@
     "company": "Wood",
     "score": 15,
     "notified_at": "2026-10-03T17:08:28.059Z"
+  },
+  "grupo o2::ingeniero/a de software full stack (react / node.js)": {
+    "title": "Ingeniero/a de Software Full Stack (React / Node.js)",
+    "company": "Grupo O2",
+    "score": 100,
+    "notified_at": "2026-10-04T17:23:37.062Z"
+  },
+  "3it::full stack mobile | react native + java": {
+    "title": "Full Stack Mobile | React Native + Java",
+    "company": "3IT",
+    "score": 80,
+    "notified_at": "2026-10-04T17:23:37.066Z"
+  },
+  "perceptual consultores::ingeniero full-stack react/typescript": {
+    "title": "Ingeniero Full-Stack React/TypeScript",
+    "company": "Perceptual Consultores",
+    "score": 30,
+    "notified_at": "2026-10-04T17:23:37.076Z"
+  },
+  "stefanini-latam::senior backend developer | go & node.js microservices": {
+    "title": "Senior Backend Developer | Go & Node.js Microservices",
+    "company": "Stefanini-Latam",
+    "score": 95,
+    "notified_at": "2026-10-04T17:23:42.871Z"
+  },
+  "bc tecnologia::software engineer (node.js/nestjs)": {
+    "title": "Software Engineer (Node.js/NestJS)",
+    "company": "BC Tecnología",
+    "score": 75,
+    "notified_at": "2026-10-04T17:23:42.874Z"
+  },
+  "empresas humannet - chile::tecnico analista programador": {
+    "title": "Técnico Analista Programador",
+    "company": "Empresas HumanNet - Chile",
+    "score": 15,
+    "notified_at": "2026-10-04T17:23:50.249Z"
+  },
+  "bairesdev::ingeniero de desarrollo de software en pruebas - trabajo remoto": {
+    "title": "Ingeniero de Desarrollo de Software en Pruebas - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 15,
+    "notified_at": "2026-10-04T17:23:58.820Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador fullstack java-react — 100% remoto": {
+    "title": "Desarrollador Fullstack Java-React — 100% Remoto",
+    "company": "Tata Consultancy Services Chile S.A.",
+    "score": 20,
+    "notified_at": "2026-10-04T17:23:58.823Z"
+  },
+  "amaris consulting | part of mantu::desarrollador movil swift/kotlin - bancario, hybrid santiago": {
+    "title": "Desarrollador Móvil Swift/Kotlin - Bancario, Hybrid Santiago",
+    "company": "Amaris Consulting | Part of Mantu",
+    "score": 15,
+    "notified_at": "2026-10-04T17:23:58.827Z"
+  },
+  "wood::planificador(a)/programador(a) - concon": {
+    "title": "Planificador(a)/Programador(a) - Concon",
+    "company": "Wood",
+    "score": 15,
+    "notified_at": "2026-10-04T17:24:05.272Z"
+  },
+  "cnc plus::programador": {
+    "title": "programador",
+    "company": "CNC PLUS",
+    "score": 15,
+    "notified_at": "2026-10-04T17:24:05.277Z"
+  },
+  "quantumdyl spa::programador php": {
+    "title": "Programador PHP",
+    "company": "Quantumdyl spa",
+    "score": 70,
+    "notified_at": "2026-10-04T17:24:05.281Z"
   }
 }
