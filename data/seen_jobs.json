@@ -3418,5 +3418,71 @@
     "company": "Quantumdyl spa",
     "score": 70,
     "notified_at": "2026-10-04T17:24:05.281Z"
+  },
+  "grupo sud::lider tecnico full-stack (python + angular + azure)": {
+    "title": "Líder Técnico Full-Stack (Python + Angular + Azure)",
+    "company": "GRUPO SUD",
+    "score": 50,
+    "notified_at": "2026-10-05T21:02:34.775Z"
+  },
+  "haulmer::senior software engineer – fullstack & architecture": {
+    "title": "Senior Software Engineer – Fullstack & Architecture",
+    "company": "Haulmer",
+    "score": 55,
+    "notified_at": "2026-10-05T21:02:34.782Z"
+  },
+  "technology solutions::analista qa automatizador semi sr": {
+    "title": "Analista QA Automatizador Semi Sr",
+    "company": "Technology Solutions",
+    "score": 10,
+    "notified_at": "2026-10-05T21:02:49.941Z"
+  },
+  "empresas humannet chile::tecnico o analista en programacion": {
+    "title": "Técnico o Analista en Programación",
+    "company": "Empresas HumanNet Chile",
+    "score": 0,
+    "notified_at": "2026-10-05T21:02:49.943Z"
+  },
+  "holding grupo firma ( gf system )::desarrollador full-stack junior": {
+    "title": "Desarrollador Full-Stack Junior",
+    "company": "Holding Grupo Firma ( GF SYSTEM )",
+    "score": 60,
+    "notified_at": "2026-10-05T21:02:49.945Z"
+  },
+  "avos tech | a prosegur company::desarrollador/a senior sisnet – core seguros": {
+    "title": "Desarrollador/a Senior SISnet – Core Seguros",
+    "company": "AVOS Tech | A Prosegur company",
+    "score": 20,
+    "notified_at": "2026-10-05T21:02:54.820Z"
+  },
+  "adecco::desarrollador software - maquinaria dispensadora con ingles avanzado": {
+    "title": "DESARROLLADOR SOFTWARE - MAQUINARIA DISPENSADORA CON INGLES AVANZADO",
+    "company": "Adecco",
+    "score": 30,
+    "notified_at": "2026-10-05T21:02:54.824Z"
+  },
+  "factorlt::desarrollador full-stack senior (java + retool)": {
+    "title": "Desarrollador Full-Stack Senior (Java + Retool)",
+    "company": "FactorlT",
+    "score": 45,
+    "notified_at": "2026-10-05T21:02:54.829Z"
+  },
+  "bairesdev::desarrollador react junior": {
+    "title": "Desarrollador React Junior",
+    "company": "BairesDev",
+    "score": 40,
+    "notified_at": "2026-10-05T21:02:54.831Z"
+  },
+  "inacap::practica informatica": {
+    "title": "Práctica Informática",
+    "company": "INACAP",
+    "score": 0,
+    "notified_at": "2026-10-05T21:03:00.069Z"
+  },
+  "perceptual consultores ltda.::ingeniero(a) programador fullstack - las condes": {
+    "title": "INGENIERO(A) PROGRAMADOR FULLSTACK - LAS CONDES",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-10-05T21:03:00.071Z"
   }
 }
