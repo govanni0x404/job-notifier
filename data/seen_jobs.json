@@ -3484,5 +3484,59 @@
     "company": "Perceptual Consultores Ltda.",
     "score": 75,
     "notified_at": "2026-10-05T21:03:00.071Z"
+  },
+  "payku::desarrollador senior full stack": {
+    "title": "Desarrollador Senior Full Stack",
+    "company": "Payku",
+    "score": 100,
+    "notified_at": "2026-10-06T18:51:14.920Z"
+  },
+  "3it::full-stack golang": {
+    "title": "Full-Stack Golang",
+    "company": "3IT",
+    "score": 35,
+    "notified_at": "2026-10-06T18:51:14.923Z"
+  },
+  "get on board::full-stack engineer - fintech ai & data pipelines": {
+    "title": "Full-Stack Engineer - Fintech AI & Data Pipelines",
+    "company": "Get on Board",
+    "score": 35,
+    "notified_at": "2026-10-06T18:51:14.929Z"
+  },
+  "amaris consulting | part of mantu::programador full stack": {
+    "title": "Programador full stack",
+    "company": "Amaris Consulting  | Part of Mantu",
+    "score": 80,
+    "notified_at": "2026-10-06T18:51:14.933Z"
+  },
+  "adecco::desarrollador software": {
+    "title": "DESARROLLADOR SOFTWARE",
+    "company": "Adecco",
+    "score": 30,
+    "notified_at": "2026-10-06T18:51:31.874Z"
+  },
+  "afp uno::desarrollador full stack": {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "AFP UNO",
+    "score": 75,
+    "notified_at": "2026-10-06T18:51:31.878Z"
+  },
+  "importante empresa constructora::coordinador(a) y programador(a) operacional": {
+    "title": "Coordinador(a) y Programador(a) Operacional",
+    "company": "Importante Empresa Constructora",
+    "score": 15,
+    "notified_at": "2026-10-06T18:51:34.744Z"
+  },
+  "abenis::tecnico programador": {
+    "title": "Técnico programador",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-10-06T18:51:34.747Z"
+  },
+  "itred spa.::practica programador front end": {
+    "title": "PRACTICA PROGRAMADOR FRONT END",
+    "company": "ITred Spa.",
+    "score": 60,
+    "notified_at": "2026-10-06T18:51:34.751Z"
   }
 }
