@@ -3622,5 +3622,83 @@
     "company": "Indra Group",
     "score": 15,
     "notified_at": "2026-10-07T19:16:48.760Z"
+  },
+  "ionix latam · soluciones digitales::fullstack (ai-first) / proyecto 6meses": {
+    "title": "Fullstack  (AI-First) / Proyecto 6Meses",
+    "company": "Ionix Latam · Soluciones Digitales",
+    "score": 100,
+    "notified_at": "2026-10-08T19:12:34.964Z"
+  },
+  "stefanini latam::desarrollador/a full stack ssr": {
+    "title": "Desarrollador/a Full Stack Ssr",
+    "company": "Stefanini LATAM",
+    "score": 40,
+    "notified_at": "2026-10-08T19:12:34.966Z"
+  },
+  "manpower chile::desarrollador full stack nestjs next.js": {
+    "title": "Desarrollador Full Stack NestJS  Next.js",
+    "company": "Manpower Chile",
+    "score": 100,
+    "notified_at": "2026-10-08T19:12:34.969Z"
+  },
+  "ticmoai::desarrollador full stack / plsql": {
+    "title": "Desarrollador Full Stack  / PlSql",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-10-08T19:12:34.970Z"
+  },
+  "haulmer::staff engineer (fullstack)": {
+    "title": "Staff Engineer (Fullstack)",
+    "company": "Haulmer",
+    "score": 45,
+    "notified_at": "2026-10-08T19:12:34.975Z"
+  },
+  "wit innovacion tecnologica::junior full stack developer: front": {
+    "title": "Junior Full Stack Developer: Front",
+    "company": "Wit Innovacion Tecnologica",
+    "score": 40,
+    "notified_at": "2026-10-08T19:12:34.977Z"
+  },
+  "innomar::desarrollador backend con angular y nodejs": {
+    "title": "Desarrollador Backend con Angular y Nodejs",
+    "company": "Innomar",
+    "score": 65,
+    "notified_at": "2026-10-08T19:12:38.320Z"
+  },
+  "bluelight::remote senior full-stack engineer — node.js & typescript": {
+    "title": "Remote Senior Full-Stack Engineer — Node.js & TypeScript",
+    "company": "Bluelight",
+    "score": 35,
+    "notified_at": "2026-10-08T19:12:38.325Z"
+  },
+  "sii::analista programador sql": {
+    "title": "Analista Programador SQL",
+    "company": "Sii",
+    "score": 25,
+    "notified_at": "2026-10-08T19:12:44.508Z"
+  },
+  "haibu solutions spa::desarrollador junior - integraciones con jira": {
+    "title": "Desarrollador Junior - integraciones con JIRA",
+    "company": "Haibu Solutions Spa",
+    "score": 60,
+    "notified_at": "2026-10-08T19:12:47.197Z"
+  },
+  "kpaz::desarrollador mainframe | altamira / altair": {
+    "title": "Desarrollador Mainframe | Altamira / Altair",
+    "company": "KPaz",
+    "score": 15,
+    "notified_at": "2026-10-08T19:12:47.199Z"
+  },
+  "acl::desarrollador de .net": {
+    "title": "Desarrollador de .NET",
+    "company": "ACL",
+    "score": 40,
+    "notified_at": "2026-10-08T19:12:47.204Z"
+  },
+  "3it::desarrollador full-stack golang": {
+    "title": "Desarrollador Full-Stack Golang",
+    "company": "3IT",
+    "score": 25,
+    "notified_at": "2026-10-08T19:12:47.207Z"
   }
 }
