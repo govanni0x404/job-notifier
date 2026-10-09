@@ -3700,5 +3700,83 @@
     "company": "3IT",
     "score": 25,
     "notified_at": "2026-10-08T19:12:47.207Z"
+  },
+  "xintec::desarrollador/a full-stack": {
+    "title": "Desarrollador/a Full-Stack",
+    "company": "Xintec",
+    "score": 55,
+    "notified_at": "2026-10-09T18:43:38.509Z"
+  },
+  "agilistik::senior full-stack engineer (fa)": {
+    "title": "Senior Full-Stack Engineer (Fa)",
+    "company": "Agilistik",
+    "score": 85,
+    "notified_at": "2026-10-09T18:43:38.516Z"
+  },
+  "ticmoai::desarrollador full stack / java /plsql - reemplazo 10 dias": {
+    "title": "Desarrollador Full Stack  / Java /PlSql - Reemplazo 10 días",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-10-09T18:43:38.524Z"
+  },
+  "ticmoai::desarrollador full stack plsql reemplazo 10 dias": {
+    "title": "Desarrollador Full Stack PlSql Reemplazo 10 días",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-10-09T18:43:38.527Z"
+  },
+  "michael page internacional ltda::desarrollador fullstack": {
+    "title": "Desarrollador Fullstack",
+    "company": "Michael Page Internacional Ltda",
+    "score": 20,
+    "notified_at": "2026-10-09T18:43:38.530Z"
+  },
+  "publipega::full-stack developer — remote chile": {
+    "title": "Full-Stack Developer — Remote Chile",
+    "company": "PubliPega",
+    "score": 90,
+    "notified_at": "2026-10-09T18:43:38.533Z"
+  },
+  "sai institute digital solutions chile::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "SAI Institute Digital Solutions Chile",
+    "score": 55,
+    "notified_at": "2026-10-09T18:44:04.566Z"
+  },
+  "itau chile::ios developer senior": {
+    "title": "iOS Developer Senior",
+    "company": "Itaú Chile",
+    "score": 20,
+    "notified_at": "2026-10-09T18:44:04.569Z"
+  },
+  "servicios integrales divinas limitada::desarrollador(a) senior o arquitecto(a) de software santiago - proyecto cenabast": {
+    "title": "Desarrollador(a) Senior o Arquitecto(a) de Software Santiago - Proyecto CENABAST",
+    "company": "SERVICIOS INTEGRALES DIVINAS LIMITADA",
+    "score": 40,
+    "notified_at": "2026-10-09T18:44:04.572Z"
+  },
+  "atlas technology & business solutions::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "Atlas Technology & Business Solutions",
+    "score": 15,
+    "notified_at": "2026-10-09T18:44:04.575Z"
+  },
+  "the andes brands s.a.::desarrollador": {
+    "title": "Desarrollador",
+    "company": "The Andes Brands S.A.",
+    "score": 40,
+    "notified_at": "2026-10-09T18:44:04.579Z"
+  },
+  "latam work::ingeniero ti/desarrollador (empresa de tecnologia y soluciones de seguridad) - santiago centro": {
+    "title": "Ingeniero TI/Desarrollador (Empresa de Tecnología y Soluciones de Seguridad) - Santiago Centro",
+    "company": "Latam Work",
+    "score": 15,
+    "notified_at": "2026-10-09T18:44:04.582Z"
+  },
+  "sigdo koppers::analista de programacion": {
+    "title": "ANALISTA DE PROGRAMACIÓN",
+    "company": "Sigdo Koppers",
+    "score": 0,
+    "notified_at": "2026-10-09T18:44:08.066Z"
   }
 }
