@@ -3778,5 +3778,71 @@
     "company": "Sigdo Koppers",
     "score": 0,
     "notified_at": "2026-10-09T18:44:08.066Z"
+  },
+  "inaudis::desarrollador/a full stack de villarrica, pucon o lican ray": {
+    "title": "Desarrollador/a Full Stack de Villarrica, Pucón o Licán Ray",
+    "company": "Inaudis",
+    "score": 55,
+    "notified_at": "2026-10-10T17:43:31.557Z"
+  },
+  "kibernum s.a.::desarrollador fullstack node.js / react": {
+    "title": "Desarrollador Fullstack Node.js / React",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-10-10T17:43:31.560Z"
+  },
+  "itau chile::fullstack web senior": {
+    "title": "Fullstack Web Senior",
+    "company": "Itaú Chile",
+    "score": 60,
+    "notified_at": "2026-10-10T17:43:31.570Z"
+  },
+  "stefanini group::desarrollador/a fullstack java + react - hibrido": {
+    "title": "Desarrollador/a Fullstack Java + React - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 100,
+    "notified_at": "2026-10-10T17:43:31.574Z"
+  },
+  "tipartner consulting::desarrollador/a full stack senior - java": {
+    "title": "Desarrollador/a Full Stack Senior - Java",
+    "company": "TIPartner Consulting",
+    "score": 20,
+    "notified_at": "2026-10-10T17:43:31.634Z"
+  },
+  "stefanini latam::sr fullstack developer": {
+    "title": "Sr Fullstack Developer",
+    "company": "Stefanini LATAM",
+    "score": 70,
+    "notified_at": "2026-10-10T17:43:31.636Z"
+  },
+  "bluelight::remote senior node.js/typescript backend engineer": {
+    "title": "Remote Senior Node.js/TypeScript Backend Engineer",
+    "company": "Bluelight",
+    "score": 50,
+    "notified_at": "2026-10-10T17:43:34.087Z"
+  },
+  "cygnus::analista programador / teletrabajo": {
+    "title": "Analista Programador / Teletrabajo",
+    "company": "Cygnus",
+    "score": 40,
+    "notified_at": "2026-10-10T17:44:00.745Z"
+  },
+  "kibernum s.a.::desarrollador .net": {
+    "title": "Desarrollador .Net",
+    "company": "KIBERNUM S.A.",
+    "score": 35,
+    "notified_at": "2026-10-10T17:44:04.061Z"
+  },
+  "fuerza aerea de chile::ingeniero en informatica folio 2729-2730": {
+    "title": "INGENIERO EN INFORMÁTICA FOLIO 2729-2730",
+    "company": "Fuerza Aerea de Chile",
+    "score": 15,
+    "notified_at": "2026-10-10T17:44:04.064Z"
+  },
+  "ingenieria proyectos y montajes propamat::programador/a con experiencia en python y/o java": {
+    "title": "Programador/a con experiencia en Python y/o Java",
+    "company": "Ingeniería Proyectos y Montajes Propamat",
+    "score": 15,
+    "notified_at": "2026-10-10T17:44:13.169Z"
   }
 }
