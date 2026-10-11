@@ -3844,5 +3844,95 @@
     "company": "Ingeniería Proyectos y Montajes Propamat",
     "score": 15,
     "notified_at": "2026-10-10T17:44:13.169Z"
+  },
+  "gauss control::ingeniero de software full-stack con alto impacto": {
+    "title": "Ingeniero de Software Full-Stack con Alto Impacto",
+    "company": "Gauss Control",
+    "score": 0,
+    "notified_at": "2026-10-11T17:57:11.212Z"
+  },
+  "acl::desarrollador fullstack semi senior": {
+    "title": "Desarrollador Fullstack Semi Senior",
+    "company": "ACL",
+    "score": 45,
+    "notified_at": "2026-10-11T17:57:11.216Z"
+  },
+  "confidential::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "confidential",
+    "score": 85,
+    "notified_at": "2026-10-11T17:57:11.220Z"
+  },
+  "uno afp::desarrollador full stack": {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "UNO afp",
+    "score": 75,
+    "notified_at": "2026-10-11T17:57:11.225Z"
+  },
+  "bluelight::remote full-stack node.js/typescript engineer": {
+    "title": "Remote Full-Stack Node.js/TypeScript Engineer",
+    "company": "Bluelight",
+    "score": 35,
+    "notified_at": "2026-10-11T17:57:18.782Z"
+  },
+  "bluelight::remote node.js/typescript backend engineer for impact": {
+    "title": "Remote Node.js/TypeScript Backend Engineer for Impact",
+    "company": "Bluelight",
+    "score": 50,
+    "notified_at": "2026-10-11T17:57:18.785Z"
+  },
+  "atcom chile::senior fullstack react & node.js developer": {
+    "title": "Senior Fullstack React & Node.js Developer",
+    "company": "ATCOM Chile",
+    "score": 65,
+    "notified_at": "2026-10-11T17:57:18.790Z"
+  },
+  "atcom chile::desarrollador web fullstack react + node.js": {
+    "title": "Desarrollador Web Fullstack React + Node.js",
+    "company": "ATCOM Chile",
+    "score": 70,
+    "notified_at": "2026-10-11T17:57:18.793Z"
+  },
+  "bluelight::senior node.js/typescript backend engineer — remote": {
+    "title": "Senior Node.js/TypeScript Backend Engineer — Remote",
+    "company": "Bluelight",
+    "score": 50,
+    "notified_at": "2026-10-11T17:57:18.796Z"
+  },
+  "empresas humannet::tecnico analista programador": {
+    "title": "Técnico Analista Programador",
+    "company": "Empresas HumanNet",
+    "score": 15,
+    "notified_at": "2026-10-11T17:57:22.142Z"
+  },
+  "tierra nube::buscamos desarrollador/a odoo – presencial": {
+    "title": "Buscamos Desarrollador/a Odoo – Presencial",
+    "company": "Tierra Nube",
+    "score": 50,
+    "notified_at": "2026-10-11T17:57:22.149Z"
+  },
+  "inversiones nutech limitada::desarrollador junior (ia & automatizacion de procesos) / las condes": {
+    "title": "Desarrollador Junior (IA & Automatización de Procesos) / Las Condes",
+    "company": "Inversiones Nutech Limitada",
+    "score": 60,
+    "notified_at": "2026-10-11T17:57:26.007Z"
+  },
+  "tata consultancy services chile::desarrollador/a salesforce - bech": {
+    "title": "Desarrollador/a Salesforce - BECH",
+    "company": "Tata Consultancy Services Chile",
+    "score": 20,
+    "notified_at": "2026-10-11T17:57:26.012Z"
+  },
+  "dfv ingenieria y gestion::ito programador/pmo": {
+    "title": "ITO Programador/PMO",
+    "company": "DFV Ingenieria y Gestión",
+    "score": 15,
+    "notified_at": "2026-10-11T17:57:30.143Z"
+  },
+  "unitec s.p.a.::programador plc – automatizacion industrial & scada": {
+    "title": "Programador PLC – Automatización Industrial & SCADA",
+    "company": "Unitec S.P.A.",
+    "score": 15,
+    "notified_at": "2026-10-11T17:57:30.149Z"
   }
 }
