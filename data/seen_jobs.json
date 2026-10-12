@@ -3934,5 +3934,89 @@
     "company": "Unitec S.P.A.",
     "score": 15,
     "notified_at": "2026-10-11T17:57:30.149Z"
+  },
+  "inaudis spa::desarrollador/a full stack php y javascript – por proyecto": {
+    "title": "Desarrollador/a Full Stack PHP y JavaScript – Por Proyecto",
+    "company": "INAUDIS SPA",
+    "score": 60,
+    "notified_at": "2026-10-12T21:39:38.815Z"
+  },
+  "kibernum s.a.::senior fullstack developer (nodejs-angular)": {
+    "title": "Senior Fullstack Developer (NodeJS-Angular)",
+    "company": "KIBERNUM S.A.",
+    "score": 90,
+    "notified_at": "2026-10-12T21:39:38.819Z"
+  },
+  "witi::desarrollador full-stack (react | nestjs | aws) full time": {
+    "title": "Desarrollador Full-Stack (React | NestJS | AWS) Full time",
+    "company": "WiTi",
+    "score": 35,
+    "notified_at": "2026-10-12T21:39:38.825Z"
+  },
+  "banco de chile::desarrollador fullstack senior – innovacion digital": {
+    "title": "Desarrollador Fullstack Senior – Innovación Digital",
+    "company": "Banco de Chile",
+    "score": 20,
+    "notified_at": "2026-10-12T21:39:38.829Z"
+  },
+  "emergya chile::desarrollador full stack / java /plsql": {
+    "title": "Desarrollador Full Stack  / Java /PlSql",
+    "company": "Emergya Chile",
+    "score": 45,
+    "notified_at": "2026-10-12T21:39:38.831Z"
+  },
+  "3it::hybrid full-stack engineer: go, node.js": {
+    "title": "Hybrid Full-Stack Engineer: Go, Node.js",
+    "company": "3IT",
+    "score": 35,
+    "notified_at": "2026-10-12T21:39:41.414Z"
+  },
+  "bairesdev::remote senior node fullstack engineer | mentorship & growth": {
+    "title": "Remote Senior Node Fullstack Engineer | Mentorship & Growth",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-10-12T21:39:41.416Z"
+  },
+  "kibernum s.a.::fullstack.net/angular/node.js developer (4 meses, hibrido)": {
+    "title": "Fullstack.NET/Angular/Node.js Developer (4 meses, híbrido)",
+    "company": "KIBERNUM S.A.",
+    "score": 45,
+    "notified_at": "2026-10-12T21:39:41.419Z"
+  },
+  "kibernum s.a::analista programador .net / etl / sql server / python": {
+    "title": "Analista Programador .NET / ETL / SQL Server / Python",
+    "company": "Kibernum S.A",
+    "score": 20,
+    "notified_at": "2026-10-12T21:39:44.294Z"
+  },
+  "confidencial::desarrollador de inteligencia artificial y automatizacion": {
+    "title": "Desarrollador de Inteligencia Artificial y Automatización",
+    "company": "Confidencial",
+    "score": 80,
+    "notified_at": "2026-10-12T21:39:46.535Z"
+  },
+  "parques de chile::analista desarrollador/a": {
+    "title": "Analista Desarrollador/a",
+    "company": "Parques de Chile",
+    "score": 20,
+    "notified_at": "2026-10-12T21:39:49.212Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador backend .net": {
+    "title": "Desarrollador Backend .Net",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 80,
+    "notified_at": "2026-10-12T21:39:49.216Z"
+  },
+  "kibernum s.a.::python developer / ai specialist (genai & cloud)": {
+    "title": "Python Developer / AI Specialist (GenAI & Cloud)",
+    "company": "KIBERNUM S.A.",
+    "score": 15,
+    "notified_at": "2026-10-12T21:39:49.217Z"
+  },
+  "desarrollo web y marketing digital::programador de aplicaciones moviles solo chile": {
+    "title": "Programador de aplicaciones moviles solo chile",
+    "company": "Desarrollo web y marketing digital",
+    "score": 20,
+    "notified_at": "2026-10-12T21:39:49.219Z"
   }
 }
