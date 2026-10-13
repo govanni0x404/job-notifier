@@ -4018,5 +4018,41 @@
     "company": "Desarrollo web y marketing digital",
     "score": 20,
     "notified_at": "2026-10-12T21:39:49.219Z"
+  },
+  "imagemaker::senior fullstack: java/spring boot & react – remote chile": {
+    "title": "Senior Fullstack: Java/Spring Boot & React – Remote Chile",
+    "company": "Imagemaker",
+    "score": 25,
+    "notified_at": "2026-10-13T19:48:19.882Z"
+  },
+  "it-talent::desarrollador full stack (frontend & backend apis)": {
+    "title": "Desarrollador Full Stack (Frontend & Backend APIs)",
+    "company": "IT-Talent",
+    "score": 30,
+    "notified_at": "2026-10-13T19:48:19.887Z"
+  },
+  "seiza::angular 14+ & nodejs fullstack": {
+    "title": "Angular 14+ & NodeJS Fullstack",
+    "company": "Seiza",
+    "score": 90,
+    "notified_at": "2026-10-13T19:48:22.314Z"
+  },
+  "progestion chile::tecnico de nivel superior analista programador computacional, tecnico en informatica": {
+    "title": "Técnico de Nivel Superior Analista Programador Computacional, Técnico en Informática",
+    "company": "Progestion Chile",
+    "score": 35,
+    "notified_at": "2026-10-13T19:48:24.587Z"
+  },
+  "kibernum s.a::analista programador .net": {
+    "title": "Analista Programador .NET",
+    "company": "Kibernum S.A",
+    "score": 20,
+    "notified_at": "2026-10-13T19:48:24.596Z"
+  },
+  "ryc tech group::desarrollador/a full-stack cloud aws full time": {
+    "title": "Desarrollador/a Full-Stack Cloud AWS Full time",
+    "company": "RyC Tech Group",
+    "score": 45,
+    "notified_at": "2026-10-13T19:48:27.195Z"
   }
 }
