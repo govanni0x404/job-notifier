@@ -4114,5 +4114,77 @@
     "company": "Confidencial",
     "score": 15,
     "notified_at": "2026-10-14T17:53:46.795Z"
+  },
+  "atcom chile::desarrollador web junior full stack react y node.js – santiago centro": {
+    "title": "Desarrollador Web Junior Full Stack React y Node.js – Santiago Centro",
+    "company": "ATCOM Chile",
+    "score": 100,
+    "notified_at": "2026-10-15T17:41:34.540Z"
+  },
+  "cmg3.cl::desarrolladores(as) full stack con ia aplicada": {
+    "title": "Desarrolladores(as) Full Stack con IA Aplicada",
+    "company": "Cmg3.cl",
+    "score": 25,
+    "notified_at": "2026-10-15T17:41:34.544Z"
+  },
+  "cencosud::semi senior full stack developer (foco frontend – react + typescript)": {
+    "title": "Semi senior Full Stack Developer (Foco Frontend – React + TypeScript)",
+    "company": "Cencosud",
+    "score": 35,
+    "notified_at": "2026-10-15T17:41:34.547Z"
+  },
+  "ticmoai::desarrollador full stack / plsql - reemplazo 10 dias": {
+    "title": "Desarrollador Full Stack  / PlSql - Reemplazo 10 días",
+    "company": "TicMoAI",
+    "score": 45,
+    "notified_at": "2026-10-15T17:41:34.553Z"
+  },
+  "jobgether srl::senior full-stack engineer: ai-native, node.js lead": {
+    "title": "Senior Full-Stack Engineer: AI-Native, Node.js Lead",
+    "company": "Jobgether SRL",
+    "score": 40,
+    "notified_at": "2026-10-15T17:41:42.658Z"
+  },
+  "sii group chile::full-stack dev (angular + node.js): build scalable apis": {
+    "title": "Full-Stack Dev (Angular + Node.js): Build Scalable APIs",
+    "company": "SII Group Chile",
+    "score": 40,
+    "notified_at": "2026-10-15T17:41:42.660Z"
+  },
+  "voxti labs::practica profesional – analista qa / quality assurance": {
+    "title": "Práctica Profesional – Analista QA / Quality Assurance",
+    "company": "VoxTi Labs",
+    "score": 25,
+    "notified_at": "2026-10-15T17:41:46.296Z"
+  },
+  "kibernum s.a::analista programador.net": {
+    "title": "Analista Programador.NET",
+    "company": "Kibernum S.A",
+    "score": 20,
+    "notified_at": "2026-10-15T17:41:46.302Z"
+  },
+  "kpaz::desarrollador backend aws - hibrido": {
+    "title": "Desarrollador Backend AWS - Hibrido",
+    "company": "KPaz",
+    "score": 55,
+    "notified_at": "2026-10-15T17:41:49.775Z"
+  },
+  "mm asesorias::desarrollador de software": {
+    "title": "Desarrollador de Software",
+    "company": "Mm Asesorias",
+    "score": 15,
+    "notified_at": "2026-10-15T17:41:49.874Z"
+  },
+  "varpro spa::practica profesional programador/a de sistemas": {
+    "title": "Práctica Profesional Programador/a de Sistemas",
+    "company": "VARPRO SPA",
+    "score": 15,
+    "notified_at": "2026-10-15T17:41:58.495Z"
+  },
+  "mm asesorias::desarrollador fullstack": {
+    "title": "Desarrollador Fullstack",
+    "company": "MM ASESORIAS",
+    "score": 45,
+    "notified_at": "2026-10-15T17:41:58.499Z"
   }
 }
