@@ -4186,5 +4186,59 @@
     "company": "MM ASESORIAS",
     "score": 45,
     "notified_at": "2026-10-15T17:41:58.499Z"
+  },
+  "3it::desarrollador full-stack java + angular": {
+    "title": "Desarrollador Full-Stack Java + Angular",
+    "company": "3IT",
+    "score": 55,
+    "notified_at": "2026-10-16T17:15:24.505Z"
+  },
+  "atcom chile::desarrollador web full stack junior | react & node.js": {
+    "title": "Desarrollador Web Full Stack Junior | React & Node.js",
+    "company": "ATCOM Chile",
+    "score": 100,
+    "notified_at": "2026-10-16T17:15:24.512Z"
+  },
+  "innomar::desarrollador backend python / aws": {
+    "title": "Desarrollador Backend Python / AWS",
+    "company": "Innomar",
+    "score": 20,
+    "notified_at": "2026-10-16T17:15:24.515Z"
+  },
+  "bluelight::senior node.js/typescript engineer": {
+    "title": "Senior Node.js/TypeScript Engineer",
+    "company": "Bluelight",
+    "score": 35,
+    "notified_at": "2026-10-16T17:15:26.983Z"
+  },
+  "bluelight::remote node.js": {
+    "title": "Remote Node.js",
+    "company": "Bluelight",
+    "score": 90,
+    "notified_at": "2026-10-16T17:15:26.985Z"
+  },
+  "coderslab::desarrollador/a full stack (ssr / sr)": {
+    "title": "Desarrollador/a Full Stack (SSR / SR)",
+    "company": "CodersLab",
+    "score": 75,
+    "notified_at": "2026-10-16T17:15:32.686Z"
+  },
+  "ticmoai::desarrollador web - con experiencia en proyectos de educacion": {
+    "title": "Desarrollador Web - Con experiencia en proyectos de educación",
+    "company": "TicMoAI",
+    "score": 100,
+    "notified_at": "2026-10-16T17:15:38.780Z"
+  },
+  "ecoalliance spa::desarrollador informatico full stack e inteligencia artificial aplicada": {
+    "title": "Desarrollador Informático Full Stack e Inteligencia Artificial Aplicada",
+    "company": "EcoAlliance SpA",
+    "score": 45,
+    "notified_at": "2026-10-16T17:15:38.783Z"
+  },
+  "mb solutions::desarrollador ios senior - experiencia comprobada desarrollando en ios": {
+    "title": "Desarrollador iOS Senior - Experiencia comprobada desarrollando en iOS",
+    "company": "MB Solutions",
+    "score": 65,
+    "notified_at": "2026-10-16T17:15:38.785Z"
   }
 }
