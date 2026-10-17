@@ -4240,5 +4240,53 @@
     "company": "MB Solutions",
     "score": 65,
     "notified_at": "2026-10-16T17:15:38.785Z"
+  },
+  "3it::desarrollador full-stack | golang + .net + react": {
+    "title": "Desarrollador Full-Stack | Golang + .NET + React",
+    "company": "3IT",
+    "score": 25,
+    "notified_at": "2026-10-17T16:15:18.357Z"
+  },
+  "3it::full-stack senior (angular + java o .net)": {
+    "title": "Full-Stack Senior (Angular + Java o .NET)",
+    "company": "3IT",
+    "score": 40,
+    "notified_at": "2026-10-17T16:15:18.363Z"
+  },
+  "atcom::desarrollador web junior full stack react y node.js – santiago centro": {
+    "title": "Desarrollador Web Junior Full Stack React y Node.js – Santiago Centro",
+    "company": "ATCOM",
+    "score": 100,
+    "notified_at": "2026-10-17T16:15:18.373Z"
+  },
+  "agtec servicios informaticos::desarrollador fullstack senior": {
+    "title": "Desarrollador Fullstack Senior",
+    "company": "AGtec Servicios Informáticos",
+    "score": 95,
+    "notified_at": "2026-10-17T16:15:18.378Z"
+  },
+  "bairesdev::node.js junior developer": {
+    "title": "Node.js Junior Developer",
+    "company": "BairesDev",
+    "score": 65,
+    "notified_at": "2026-10-17T16:15:27.218Z"
+  },
+  "bctecnologia::desarrollado full stack (node.js /angular) - remoto": {
+    "title": "Desarrollado Full Stack (Node.js /Angular) - Remoto",
+    "company": "BCTecnología",
+    "score": 50,
+    "notified_at": "2026-10-17T16:15:27.223Z"
+  },
+  "eva-learning::desarrollador de .net": {
+    "title": "Desarrollador de .NET",
+    "company": "EVA-Learning",
+    "score": 15,
+    "notified_at": "2026-10-17T16:15:30.952Z"
+  },
+  "sii group chile::desarrollador senior sql": {
+    "title": "Desarrollador Senior SQL",
+    "company": "SII Group Chile",
+    "score": 50,
+    "notified_at": "2026-10-17T16:15:33.718Z"
   }
 }
