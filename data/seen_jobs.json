@@ -4288,5 +4288,29 @@
     "company": "SII Group Chile",
     "score": 50,
     "notified_at": "2026-10-17T16:15:33.718Z"
+  },
+  "deloitte::desarrolladores/as full stack - python/codegpt": {
+    "title": "Desarrolladores/as Full Stack - Python/CodeGPT",
+    "company": "Deloitte",
+    "score": 20,
+    "notified_at": "2026-10-18T16:25:28.544Z"
+  },
+  "perform::full stack developer (python)": {
+    "title": "Full Stack Developer (Python)",
+    "company": "Perform",
+    "score": 30,
+    "notified_at": "2026-10-18T16:25:28.550Z"
+  },
+  "kibernum::fullstack senior: node.js & react — remoto chile": {
+    "title": "Fullstack Senior: Node.js & React — Remoto Chile",
+    "company": "Kibernum",
+    "score": 70,
+    "notified_at": "2026-10-18T16:25:36.429Z"
+  },
+  "retina lab::programador full stack": {
+    "title": "Programador full stack",
+    "company": "Retina Lab",
+    "score": 75,
+    "notified_at": "2026-10-18T16:26:00.382Z"
   }
 }
