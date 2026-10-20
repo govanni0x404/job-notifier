@@ -4354,5 +4354,29 @@
     "company": "KABELI INTERNACIONAL SPA",
     "score": 55,
     "notified_at": "2026-10-19T19:10:51.330Z"
+  },
+  "tipartner consulting::dev fullstack": {
+    "title": "DEV FullStack",
+    "company": "TIPartner Consulting",
+    "score": 20,
+    "notified_at": "2026-10-20T17:51:30.272Z"
+  },
+  "agtec servicios informaticos::desarrollador fullstack senior - angular, node.js, nestjs, typescript, microservicios, sql/nosql, testing, git y ci/cd": {
+    "title": "Desarrollador Fullstack Senior - Angular, Node.js, NestJS, TypeScript, microservicios, SQL/NoSQL, testing, Git y CI/CD",
+    "company": "AGtec Servicios Informáticos",
+    "score": 95,
+    "notified_at": "2026-10-20T17:51:30.275Z"
+  },
+  "america digitalia::remote full stack developer: golang & angular": {
+    "title": "Remote Full Stack Developer: Golang & Angular",
+    "company": "America Digitalia",
+    "score": 55,
+    "notified_at": "2026-10-20T17:51:30.282Z"
+  },
+  "cygnus::analista programador en quilicura": {
+    "title": "Analista Programador en Quilicura",
+    "company": "Cygnus",
+    "score": 40,
+    "notified_at": "2026-10-20T17:51:45.667Z"
   }
 }
