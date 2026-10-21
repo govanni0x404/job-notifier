@@ -4378,5 +4378,77 @@
     "company": "Cygnus",
     "score": 40,
     "notified_at": "2026-10-20T17:51:45.667Z"
+  },
+  "bvm consultores sa::desarrollador full stack senior | las condes": {
+    "title": "Desarrollador Full Stack Senior | Las Condes",
+    "company": "BVM CONSULTORES SA",
+    "score": 95,
+    "notified_at": "2026-10-21T17:57:08.410Z"
+  },
+  "tcit::full-stack developer l2/l3": {
+    "title": "Full-Stack Developer L2/L3",
+    "company": "TCIT",
+    "score": 20,
+    "notified_at": "2026-10-21T17:57:08.413Z"
+  },
+  "grupo falabella::sr fullstack software engineer": {
+    "title": "Sr Fullstack Software Engineer",
+    "company": "Grupo Falabella",
+    "score": 65,
+    "notified_at": "2026-10-21T17:57:08.415Z"
+  },
+  "witi::desarrollador full-stack (web/foco back-end) full time": {
+    "title": "Desarrollador Full-Stack (Web/Foco Back-end) Full time",
+    "company": "WiTi",
+    "score": 100,
+    "notified_at": "2026-10-21T17:57:08.418Z"
+  },
+  "yo ai labs::sr. full-stack software engineer - remote": {
+    "title": "Sr. Full-Stack Software Engineer - Remote",
+    "company": "YO AI Labs",
+    "score": 55,
+    "notified_at": "2026-10-21T17:57:08.427Z"
+  },
+  "tecnova::desarrollador full stack mern/pnrn (hibrido)": {
+    "title": "Desarrollador Full Stack MERN/PNRN (Híbrido)",
+    "company": "TECNOVA",
+    "score": 50,
+    "notified_at": "2026-10-21T17:57:08.429Z"
+  },
+  "grupo tawa::desarrollador/a web full stack.net + react": {
+    "title": "Desarrollador/a Web Full Stack.NET + React",
+    "company": "Grupo Tawa",
+    "score": 70,
+    "notified_at": "2026-10-21T17:57:08.436Z"
+  },
+  "itred spa.::practica programacion web y sistemas en la nube": {
+    "title": "PRACTICA PROGRAMACION WEB Y SISTEMAS EN LA NUBE",
+    "company": "ITred Spa.",
+    "score": 40,
+    "notified_at": "2026-10-21T17:57:14.008Z"
+  },
+  "compuscenter spa::practica profesional tecnico en informatica": {
+    "title": "Practica profesional Técnico en Informática",
+    "company": "Compuscenter SPA",
+    "score": 0,
+    "notified_at": "2026-10-21T17:57:14.013Z"
+  },
+  "tcit::desarrollador python junior": {
+    "title": "Desarrollador Python Junior",
+    "company": "TCIT",
+    "score": 40,
+    "notified_at": "2026-10-21T17:57:22.842Z"
+  },
+  "innomar::backend developer java": {
+    "title": "Backend Developer Java",
+    "company": "Innomar",
+    "score": 60,
+    "notified_at": "2026-10-21T17:57:22.845Z"
+  },
+  "treck s.a::programador en visual basic .net -sap": {
+    "title": "Programador en Visual Basic .NET -SAP",
+    "company": "Treck S.A",
+    "score": 15,
+    "notified_at": "2026-10-21T17:57:31.190Z"
   }
 }
