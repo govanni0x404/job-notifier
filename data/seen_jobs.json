@@ -4450,5 +4450,107 @@
     "company": "Treck S.A",
     "score": 15,
     "notified_at": "2026-10-21T17:57:31.190Z"
+  },
+  "selaski::programador full stack": {
+    "title": "Programador Full Stack",
+    "company": "Selaski",
+    "score": 100,
+    "notified_at": "2026-10-22T17:54:04.214Z"
+  },
+  "witi::desarrollador full-stack (web/foco back-end)": {
+    "title": "Desarrollador Full-Stack (Web/Foco Back-end)",
+    "company": "WiTI",
+    "score": 100,
+    "notified_at": "2026-10-22T17:54:04.218Z"
+  },
+  "bctecnologia::desarrollador full stack – liferay": {
+    "title": "Desarrollador Full Stack – Liferay",
+    "company": "BCTecnología",
+    "score": 30,
+    "notified_at": "2026-10-22T17:54:04.221Z"
+  },
+  "ticmoai::desarrollador full stack - presencial": {
+    "title": "Desarrollador Full Stack - Presencial",
+    "company": "TicMoAI",
+    "score": 75,
+    "notified_at": "2026-10-22T17:54:04.224Z"
+  },
+  "grupo tawa::desarrollador/a web full stack .net + react": {
+    "title": "Desarrollador/a Web Full Stack .NET + React",
+    "company": "Grupo Tawa",
+    "score": 100,
+    "notified_at": "2026-10-22T17:54:04.227Z"
+  },
+  "23people::senior full stack java developer (test automation & ai)": {
+    "title": "Senior Full Stack Java Developer (Test Automation & AI)",
+    "company": "23people",
+    "score": 20,
+    "notified_at": "2026-10-22T17:54:04.416Z"
+  },
+  "deloitte::senior fullstack developer": {
+    "title": "Senior Fullstack Developer",
+    "company": "Deloitte",
+    "score": 15,
+    "notified_at": "2026-10-22T17:54:04.420Z"
+  },
+  "workcapit::desarrollador backend / nodejs & golang": {
+    "title": "Desarrollador Backend / NodeJS & Golang",
+    "company": "WorkCapIT",
+    "score": 100,
+    "notified_at": "2026-10-22T17:54:13.516Z"
+  },
+  "acl::software engineer - golang y node.js": {
+    "title": "Software Engineer - Golang y Node.js",
+    "company": "ACL",
+    "score": 70,
+    "notified_at": "2026-10-22T17:54:13.519Z"
+  },
+  "bairesdev::remote node backend engineer — apis & cloud": {
+    "title": "Remote Node Backend Engineer — APIs & Cloud",
+    "company": "BairesDev",
+    "score": 80,
+    "notified_at": "2026-10-22T17:54:13.523Z"
+  },
+  "bluelight::senior node.js/typescript engineer — remote": {
+    "title": "Senior Node.js/TypeScript Engineer — Remote",
+    "company": "Bluelight",
+    "score": 40,
+    "notified_at": "2026-10-22T17:54:13.526Z"
+  },
+  "coldwell banker chile::analista de programacion": {
+    "title": "Analista de programación",
+    "company": "Coldwell Banker Chile",
+    "score": 0,
+    "notified_at": "2026-10-22T17:54:16.063Z"
+  },
+  "diaverum::analista y soporte aplicaciones e it": {
+    "title": "Analista y Soporte Aplicaciones e IT",
+    "company": "Diaverum",
+    "score": 0,
+    "notified_at": "2026-10-22T17:54:16.072Z"
+  },
+  "novasis::analista programador agil | java/angular & microservicios": {
+    "title": "Analista Programador Ágil | Java/Angular & Microservicios",
+    "company": "Novasis",
+    "score": 15,
+    "notified_at": "2026-10-22T17:54:16.075Z"
+  },
+  "acl::desarrollador java": {
+    "title": "Desarrollador Java",
+    "company": "ACL",
+    "score": 60,
+    "notified_at": "2026-10-22T17:54:19.273Z"
+  },
+  "ticmoai::desarrollador java full stack - presencial": {
+    "title": "Desarrollador Java Full Stack - Presencial",
+    "company": "TicMoAI",
+    "score": 80,
+    "notified_at": "2026-10-22T17:54:19.277Z"
+  },
+  "agilistik::back-end developer java (3 a 4 meses)": {
+    "title": "Back-end Developer Java (3 a 4 Meses)",
+    "company": "AGILISTIK",
+    "score": 60,
+    "notified_at": "2026-10-22T17:54:19.280Z"
   }
 }
