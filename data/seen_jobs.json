@@ -4612,5 +4612,47 @@
     "company": "Perceptual Consultores Ltda.",
     "score": 75,
     "notified_at": "2026-10-23T17:48:39.607Z"
+  },
+  "3it::desarrollador full-stack semi senior": {
+    "title": "Desarrollador Full-Stack Semi Senior",
+    "company": "3IT",
+    "score": 20,
+    "notified_at": "2026-10-24T16:29:26.053Z"
+  },
+  "kpaz::desarrollador full stack javascript node.js react vue": {
+    "title": "Desarrollador Full Stack JavaScript Node.js React Vue",
+    "company": "KPaz",
+    "score": 80,
+    "notified_at": "2026-10-24T16:29:26.057Z"
+  },
+  "stefanini latam::sr fullstack developer (java + react)": {
+    "title": "Sr Fullstack Developer (Java + React)",
+    "company": "Stefanini LATAM",
+    "score": 30,
+    "notified_at": "2026-10-24T16:29:26.066Z"
+  },
+  "recover ltda::analista programador sql - con experiencia y presencial": {
+    "title": "Analista Programador SQL - Con Experiencia y Presencial",
+    "company": "Recover Ltda",
+    "score": 50,
+    "notified_at": "2026-10-24T16:29:31.066Z"
+  },
+  "cyd ingenieria::26282-8 ingeniero de programacion y control": {
+    "title": "26282-8 Ingeniero de Programación y Control",
+    "company": "CyD Ingeniería",
+    "score": 0,
+    "notified_at": "2026-10-24T16:29:31.079Z"
+  },
+  "kpaz::desarrollador mobile: android / ios / multiplataforma": {
+    "title": "Desarrollador Mobile: Android / iOS / Multiplataforma",
+    "company": "KPaz",
+    "score": 40,
+    "notified_at": "2026-10-24T16:29:33.899Z"
+  },
+  "ntt data emeal::desarrollador php": {
+    "title": "Desarrollador PHP",
+    "company": "NTT DATA EMEAL",
+    "score": 35,
+    "notified_at": "2026-10-24T16:29:36.725Z"
   }
 }
