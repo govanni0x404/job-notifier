@@ -4690,5 +4690,41 @@
     "company": "Consultora Mi Perfil Laboral",
     "score": 35,
     "notified_at": "2026-10-25T17:00:32.213Z"
+  },
+  "corporacion administrativa del poder judicial::desarrollador senior full stack (plazo fijo)": {
+    "title": "Desarrollador Senior Full Stack (plazo fijo)",
+    "company": "Corporación Administrativa del Poder Judicial",
+    "score": 20,
+    "notified_at": "2026-10-26T19:05:40.892Z"
+  },
+  "grupo tawa::desarrollador de software full stack .net + react": {
+    "title": "Desarrollador de Software Full Stack .NET + React",
+    "company": "Grupo Tawa",
+    "score": 70,
+    "notified_at": "2026-10-26T19:05:40.904Z"
+  },
+  "itsmart::desarrolladora node js hibrido": {
+    "title": "Desarrolladora Node JS Híbrido",
+    "company": "ITSMART",
+    "score": 85,
+    "notified_at": "2026-10-26T19:05:44.863Z"
+  },
+  "coderio | software company::senior full-stack developer con experiencia en node.js y react.js – remoto (latam)": {
+    "title": "Senior Full-Stack Developer con experiencia en Node.js y React.js – Remoto (LATAM)",
+    "company": "Coderio | Software Company",
+    "score": 100,
+    "notified_at": "2026-10-26T19:05:44.867Z"
+  },
+  "soho::desarrollador fullstack node react aws": {
+    "title": "Desarrollador Fullstack Node React AWS",
+    "company": "Soho",
+    "score": 100,
+    "notified_at": "2026-10-26T19:05:44.871Z"
+  },
+  "ripley chile::software engineer i - android": {
+    "title": "Software Engineer I - Android",
+    "company": "Ripley Chile",
+    "score": 65,
+    "notified_at": "2026-10-26T19:05:50.740Z"
   }
 }
