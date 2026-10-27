@@ -4726,5 +4726,65 @@
     "company": "Ripley Chile",
     "score": 65,
     "notified_at": "2026-10-26T19:05:50.740Z"
+  },
+  "genesys global::desarrollador junior - genai full stack": {
+    "title": "Desarrollador Junior - GenAI Full Stack",
+    "company": "Genesys Global",
+    "score": 30,
+    "notified_at": "2026-10-27T18:36:50.573Z"
+  },
+  "kpaz::desarrollador full stack integraciones ia": {
+    "title": "Desarrollador Full Stack Integraciones IA",
+    "company": "KPaz",
+    "score": 95,
+    "notified_at": "2026-10-27T18:36:50.577Z"
+  },
+  "tata consultancy services::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Tata Consultancy Services",
+    "score": 50,
+    "notified_at": "2026-10-27T18:36:50.580Z"
+  },
+  "stefanini latam::senior backend engineer: node.js, next.js on gcp": {
+    "title": "Senior Backend Engineer: Node.js, Next.js on GCP",
+    "company": "Stefanini LATAM",
+    "score": 45,
+    "notified_at": "2026-10-27T18:37:02.248Z"
+  },
+  "abenis::analista programador": {
+    "title": "Analista programador",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-10-27T18:37:09.835Z"
+  },
+  "corporacion instituto profesional santo tomas::asistente de informatica, jornada completa vespertina, sede temuco (oferta inclusiva)": {
+    "title": "Asistente de Informática, Jornada Completa Vespertina, Sede Temuco (Oferta Inclusiva)",
+    "company": "Corporación Instituto Profesional Santo Tomás",
+    "score": 0,
+    "notified_at": "2026-10-27T18:37:09.840Z"
+  },
+  "layner::tecnico programador - hospital ubicado en penalolen": {
+    "title": "Técnico Programador - Hospital ubicado en Peñalolen",
+    "company": "Layner",
+    "score": 15,
+    "notified_at": "2026-10-27T18:37:09.843Z"
+  },
+  "tecnova soluciones informaticas::ingeniero desarrollador ia": {
+    "title": "Ingeniero Desarrollador IA",
+    "company": "Tecnova Soluciones Informáticas",
+    "score": 85,
+    "notified_at": "2026-10-27T18:37:17.368Z"
+  },
+  "bctecnologia::desarrollador .net – especialista etl": {
+    "title": "Desarrollador .NET – Especialista ETL",
+    "company": "BCTecnología",
+    "score": 20,
+    "notified_at": "2026-10-27T18:37:24.454Z"
+  },
+  "agtec servicios informaticos::desarrollador web junior - desarrollo full stack / aplicaciones web": {
+    "title": "Desarrollador Web Junior - Desarrollo Full Stack / Aplicaciones web",
+    "company": "AGtec Servicios Informáticos",
+    "score": 100,
+    "notified_at": "2026-10-27T18:37:24.457Z"
   }
 }
