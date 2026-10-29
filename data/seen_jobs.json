@@ -4786,5 +4786,29 @@
     "company": "AGtec Servicios Informáticos",
     "score": 100,
     "notified_at": "2026-10-27T18:37:24.457Z"
+  },
+  "matchfy agencia digital::desarrollador full-stack semi-senior (freelance)": {
+    "title": "Desarrollador Full-stack semi-senior (Freelance)",
+    "company": "MatchFY Agência Digital",
+    "score": 60,
+    "notified_at": "2026-10-29T18:52:59.123Z"
+  },
+  "stefanini group::developer full stack - javascript / typescript y node.js - hibrido": {
+    "title": "Developer Full Stack - JavaScript / TypeScript y Node.js - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 95,
+    "notified_at": "2026-10-29T18:53:01.580Z"
+  },
+  "itsmart::desarrollador go y node.js": {
+    "title": "Desarrollador Go y Node.js",
+    "company": "ITSMART",
+    "score": 85,
+    "notified_at": "2026-10-29T18:53:01.642Z"
+  },
+  "estelar heladeria limitada::informatico": {
+    "title": "Informatico",
+    "company": "ESTELAR HELADERIA LIMITADA",
+    "score": 5,
+    "notified_at": "2026-10-29T18:53:04.818Z"
   }
 }
