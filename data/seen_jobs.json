@@ -4906,5 +4906,101 @@
     "company": "Duoc UC",
     "score": 0,
     "notified_at": "2026-10-30T18:30:45.801Z"
+  },
+  "entel pcs telecomunicaciones sa::analista senior fullstack": {
+    "title": "Analista Senior Fullstack",
+    "company": "Entel PCS Telecomunicaciones SA",
+    "score": 25,
+    "notified_at": "2026-10-31T17:34:32.956Z"
+  },
+  "experis chile::desarrollador(a) fullstack semi senior": {
+    "title": "Desarrollador(a) Fullstack Semi Senior",
+    "company": "Experis Chile",
+    "score": 20,
+    "notified_at": "2026-10-31T17:34:32.965Z"
+  },
+  "districtxi::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Districtxi",
+    "score": 40,
+    "notified_at": "2026-10-31T17:34:32.970Z"
+  },
+  "kpaz::desarrollador full stack .net – apis rest": {
+    "title": "Desarrollador Full Stack .Net – Apis Rest",
+    "company": "Kpaz",
+    "score": 70,
+    "notified_at": "2026-10-31T17:34:32.974Z"
+  },
+  "bairesdev::senior backend architect - remote (node.js & microservices)": {
+    "title": "Senior Backend Architect - Remote (Node.js & Microservices)",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-10-31T17:34:40.213Z"
+  },
+  "ulvior::go/node.js developer — microservicios y api rest": {
+    "title": "Go/Node.js Developer — Microservicios y API REST",
+    "company": "Ulvior",
+    "score": 95,
+    "notified_at": "2026-10-31T17:34:40.225Z"
+  },
+  "integra chile::analista programador trainee": {
+    "title": "Analista Programador Trainee",
+    "company": "Integra Chile",
+    "score": 40,
+    "notified_at": "2026-10-31T17:34:47.244Z"
+  },
+  "abenis::desarrollador ti": {
+    "title": "Desarrollador TI",
+    "company": "Abenis",
+    "score": 15,
+    "notified_at": "2026-10-31T17:34:47.252Z"
+  },
+  "agilistik::desarrollador go/java (2 meses)": {
+    "title": "Desarrollador Go/Java (2 Meses)",
+    "company": "Agilistik",
+    "score": 50,
+    "notified_at": "2026-10-31T17:34:50.990Z"
+  },
+  "3it::desarrollador back-end": {
+    "title": "Desarrollador Back-end",
+    "company": "3IT",
+    "score": 30,
+    "notified_at": "2026-10-31T17:34:50.994Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador.net razor - hd": {
+    "title": "Desarrollador.NET Razor - HD",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A.",
+    "score": 15,
+    "notified_at": "2026-10-31T17:34:50.998Z"
+  },
+  "orantex tech::developer api integraciones / backend go (senior)": {
+    "title": "Developer API Integraciones / Backend Go (Senior)",
+    "company": "Orantex Tech",
+    "score": 65,
+    "notified_at": "2026-10-31T17:34:51.002Z"
+  },
+  "antofagasta minerals::puestos vacantes: programadora(or) (20788)": {
+    "title": "Puestos vacantes: Programadora(or) (20788)",
+    "company": "Antofagasta Minerals",
+    "score": 15,
+    "notified_at": "2026-10-31T17:34:51.006Z"
+  },
+  "indra group::ingeniero/a de desarrollo – cobol / unix - linux / java | medios de pago": {
+    "title": "Ingeniero/a de Desarrollo – COBOL / Unix - Linux / Java | Medios de Pago",
+    "company": "Indra Group",
+    "score": 10,
+    "notified_at": "2026-10-31T17:34:51.011Z"
+  },
+  "muy simple::ingeniero/a de software senior/staff": {
+    "title": "Ingeniero/a de Software Senior/Staff",
+    "company": "Muy Simple",
+    "score": 85,
+    "notified_at": "2026-10-31T17:34:51.016Z"
+  },
+  "oriencoop::desarrollador": {
+    "title": "Desarrollador",
+    "company": "Oriencoop",
+    "score": 45,
+    "notified_at": "2026-10-31T17:35:14.361Z"
   }
 }
