@@ -5002,5 +5002,65 @@
     "company": "Oriencoop",
     "score": 45,
     "notified_at": "2026-10-31T17:35:14.361Z"
+  },
+  "3it::full-stack (.net + angularjs + react)": {
+    "title": "Full-Stack (.NET + AngularJS + React)",
+    "company": "3IT",
+    "score": 10,
+    "notified_at": "2026-11-01T18:19:42.142Z"
+  },
+  "bc tecnologia::ingeniero desarrollo fullstack senior": {
+    "title": "Ingeniero Desarrollo FullStack Senior",
+    "company": "BC Tecnología",
+    "score": 20,
+    "notified_at": "2026-11-01T18:19:42.149Z"
+  },
+  "grupo tawa::desarrollador de software full stack .net react": {
+    "title": "Desarrollador de Software Full Stack .NET React",
+    "company": "Grupo Tawa",
+    "score": 70,
+    "notified_at": "2026-11-01T18:19:42.156Z"
+  },
+  "agilesoft spa::desarrollador full-stack (hibrido)": {
+    "title": "Desarrollador Full-Stack (Híbrido)",
+    "company": "Agilesoft SpA",
+    "score": 60,
+    "notified_at": "2026-11-01T18:19:42.160Z"
+  },
+  "actionhub chile::senior node.js/nestjs backend - presencial, santiago centro": {
+    "title": "Senior Node.js/NestJS Backend - Presencial, Santiago Centro",
+    "company": "Actionhub Chile",
+    "score": 50,
+    "notified_at": "2026-11-01T18:19:49.257Z"
+  },
+  "stefanini latam::hybrid backend engineer — node.js, next.js, gcp": {
+    "title": "Hybrid Backend Engineer — Node.js, Next.js, GCP",
+    "company": "Stefanini LATAM",
+    "score": 50,
+    "notified_at": "2026-11-01T18:19:49.264Z"
+  },
+  "finder hr::backend developer node.js": {
+    "title": "Backend Developer Node.js",
+    "company": "Finder HR",
+    "score": 65,
+    "notified_at": "2026-11-01T18:19:49.271Z"
+  },
+  "tipartner consulting::analista programador - full stack .net": {
+    "title": "Analista Programador - Full Stack .NET",
+    "company": "TIPartner Consulting",
+    "score": 45,
+    "notified_at": "2026-11-01T18:19:57.110Z"
+  },
+  "agilistik::desarrollador ios nativo": {
+    "title": "Desarrollador iOS Nativo",
+    "company": "Agilistik",
+    "score": 40,
+    "notified_at": "2026-11-01T18:20:04.254Z"
+  },
+  "ulvior::desarrollador python junior": {
+    "title": "Desarrollador Python Junior",
+    "company": "Ulvior",
+    "score": 35,
+    "notified_at": "2026-11-01T18:20:11.835Z"
   }
 }
