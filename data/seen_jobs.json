@@ -5116,5 +5116,83 @@
     "company": "SII Group Chile",
     "score": 25,
     "notified_at": "2026-11-02T22:15:11.173Z"
+  },
+  "23people::senior full stack java developer bilingue": {
+    "title": "Senior Full Stack Java Developer bilingüe",
+    "company": "23people",
+    "score": 20,
+    "notified_at": "2026-11-03T20:00:06.024Z"
+  },
+  "bairesdev::ingeniero fullstack node + nest + react | ref#307695": {
+    "title": "Ingeniero Fullstack Node + Nest + React | REF#307695",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-11-03T20:00:06.027Z"
+  },
+  "vaganet::fullstack developer": {
+    "title": "FullStack Developer",
+    "company": "VAGANET",
+    "score": 80,
+    "notified_at": "2026-11-03T20:00:06.034Z"
+  },
+  "hpdm entretencion::desarrollador full stack - las condes": {
+    "title": "Desarrollador Full Stack - Las Condes",
+    "company": "HPDM Entretención",
+    "score": 100,
+    "notified_at": "2026-11-03T20:00:06.043Z"
+  },
+  "42labs::senior full-stack .net y angular": {
+    "title": "Senior Full-Stack .NET y Angular",
+    "company": "42Labs",
+    "score": 0,
+    "notified_at": "2026-11-03T20:00:06.049Z"
+  },
+  "bairesdev::node.js junior developer - remote work": {
+    "title": "Node.js Junior Developer - Remote Work",
+    "company": "BairesDev",
+    "score": 65,
+    "notified_at": "2026-11-03T20:00:19.474Z"
+  },
+  "bluelight::senior node.js & typescript backend engineer - remote": {
+    "title": "Senior Node.js & TypeScript Backend Engineer - Remote",
+    "company": "Bluelight",
+    "score": 50,
+    "notified_at": "2026-11-03T20:00:19.480Z"
+  },
+  "bairesdev::remote principal backend architect - node.js & aws": {
+    "title": "Remote Principal Backend Architect - Node.js & AWS",
+    "company": "BairesDev",
+    "score": 45,
+    "notified_at": "2026-11-03T20:00:19.492Z"
+  },
+  "empresa nacional de energia enex s.a::analista programador logistico (reemplazo vacaciones)": {
+    "title": "Analista Programador Logístico (Reemplazo Vacaciones)",
+    "company": "Empresa Nacional de Energía ENEX S.A",
+    "score": 15,
+    "notified_at": "2026-11-03T20:00:27.087Z"
+  },
+  "importante empresa del sector::analista programador huechuraba": {
+    "title": "Analista Programador Huechuraba",
+    "company": "Importante empresa del sector",
+    "score": 70,
+    "notified_at": "2026-11-03T20:00:27.099Z"
+  },
+  "servicios empresariales loginsa limitada::oferta de practica profesional: practicante de desarrollo ti": {
+    "title": "Oferta de Práctica Profesional: Practicante de Desarrollo TI",
+    "company": "SERVICIOS EMPRESARIALES LOGINSA LIMITADA",
+    "score": 10,
+    "notified_at": "2026-11-03T20:00:27.103Z"
+  },
+  "grupo mok::analista programador semi- senior": {
+    "title": "Analista Programador Semi- Senior",
+    "company": "Grupo MOK",
+    "score": 60,
+    "notified_at": "2026-11-03T20:00:27.107Z"
+  },
+  "tata consultancy services::desarrollador senior .net +ia": {
+    "title": "Desarrollador Senior .NET +IA",
+    "company": "Tata Consultancy Services",
+    "score": 30,
+    "notified_at": "2026-11-03T20:00:34.633Z"
   }
 }
