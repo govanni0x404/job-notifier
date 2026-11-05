@@ -5284,5 +5284,89 @@
     "company": "BairesDev",
     "score": 20,
     "notified_at": "2026-11-04T20:22:02.842Z"
+  },
+  "23people::midlevel full stack java developer bilingue": {
+    "title": "Midlevel Full Stack Java Developer bilingüe",
+    "company": "23people",
+    "score": 20,
+    "notified_at": "2026-11-05T20:31:09.242Z"
+  },
+  "ryc tech group::desarrollador/a full-stack cloud aws": {
+    "title": "Desarrollador/a Full-Stack Cloud AWS",
+    "company": "RyC Tech Group",
+    "score": 45,
+    "notified_at": "2026-11-05T20:31:09.250Z"
+  },
+  "id logistics chile s.a.::desarrollador full stack": {
+    "title": "DESARROLLADOR FULL STACK",
+    "company": "ID LOGISTICS CHILE S.A.",
+    "score": 75,
+    "notified_at": "2026-11-05T20:31:09.255Z"
+  },
+  "r y c consultores asociados::desarrollador fullstack junior": {
+    "title": "Desarrollador Fullstack Junior",
+    "company": "R y C Consultores Asociados",
+    "score": 100,
+    "notified_at": "2026-11-05T20:31:09.258Z"
+  },
+  "dcs chile::desarrollador fullstack senior orientado a backend e integraciones": {
+    "title": "Desarrollador Fullstack Senior Orientado a Backend e Integraciones",
+    "company": "DCS Chile",
+    "score": 100,
+    "notified_at": "2026-11-05T20:31:09.263Z"
+  },
+  "publipega::desarrollador fullstack (react + node.js)": {
+    "title": "Desarrollador Fullstack (React + Node.js)",
+    "company": "PubliPega",
+    "score": 100,
+    "notified_at": "2026-11-05T20:31:09.269Z"
+  },
+  "workcapit::desarrollador backend (golang + nodejs)": {
+    "title": "Desarrollador Backend (Golang + NodeJS)",
+    "company": "WorkCapIT",
+    "score": 100,
+    "notified_at": "2026-11-05T20:31:11.973Z"
+  },
+  "actionhub chile::senior node.js/nestjs backend": {
+    "title": "Senior Node.js/NestJS Backend",
+    "company": "Actionhub Chile",
+    "score": 50,
+    "notified_at": "2026-11-05T20:31:11.979Z"
+  },
+  "coderio | software company::full-stack developer (node/react) - hibrido": {
+    "title": "Full-Stack Developer (Node/React) - Híbrido",
+    "company": "Coderio | Software Company",
+    "score": 100,
+    "notified_at": "2026-11-05T20:31:11.990Z"
+  },
+  "owl team solutions::ingeniero/a desarrollo de software": {
+    "title": "Ingeniero/a desarrollo de software",
+    "company": "OWL TEAM SOLUTIONS",
+    "score": 20,
+    "notified_at": "2026-11-05T20:31:17.642Z"
+  },
+  "empresa confidencial::desarrollador latam front end con conocimiento back end": {
+    "title": "Desarrollador LATAM Front end con conocimiento Back End",
+    "company": "Empresa Confidencial",
+    "score": 55,
+    "notified_at": "2026-11-05T20:31:17.646Z"
+  },
+  "bairesdev::desarrollador python junior - trabajo remoto": {
+    "title": "Desarrollador Python Junior - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 20,
+    "notified_at": "2026-11-05T20:31:17.651Z"
+  },
+  "bairesdev::desarrollador java junior - remoto 100% y horario flexible": {
+    "title": "Desarrollador Java Junior - Remoto 100% y Horario Flexible",
+    "company": "BairesDev",
+    "score": 20,
+    "notified_at": "2026-11-05T20:31:17.657Z"
+  },
+  "ingenieria informatica kibernum s.a.::desarrollador senior uipath": {
+    "title": "Desarrollador Senior UiPath",
+    "company": "Ingenieria informatica Kibernum S.A.",
+    "score": 40,
+    "notified_at": "2026-11-05T20:31:20.154Z"
   }
 }
