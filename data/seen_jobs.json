@@ -5368,5 +5368,53 @@
     "company": "Ingenieria informatica Kibernum S.A.",
     "score": 40,
     "notified_at": "2026-11-05T20:31:20.154Z"
+  },
+  "confidencial::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "Confidencial",
+    "score": 85,
+    "notified_at": "2026-11-06T19:54:19.928Z"
+  },
+  "coderio | software company::full-stack engineer (react/node) – hybrid in santiago": {
+    "title": "Full-Stack Engineer (React/Node) – Hybrid in Santiago",
+    "company": "Coderio | Software Company",
+    "score": 25,
+    "notified_at": "2026-11-06T19:54:19.949Z"
+  },
+  "agilesoft spa::desarrollador/a full-stack devops full time": {
+    "title": "Desarrollador/a Full-Stack DevOps Full time",
+    "company": "Agilesoft SpA",
+    "score": 65,
+    "notified_at": "2026-11-06T19:54:19.957Z"
+  },
+  "vl asesorias::analista programador - .net, c#, oracle, react, nestjs": {
+    "title": "Analista Programador - .NET, C#, Oracle, React, NestJS",
+    "company": "VL Asesorías",
+    "score": 25,
+    "notified_at": "2026-11-06T19:54:44.996Z"
+  },
+  "seleccion talento pro::analista programador backend": {
+    "title": "Analista Programador Backend",
+    "company": "Selección Talento Pro",
+    "score": 20,
+    "notified_at": "2026-11-06T19:54:45.001Z"
+  },
+  "tsoft::desarrollador/a de software senior": {
+    "title": "Desarrollador/a de Software Senior",
+    "company": "Tsoft",
+    "score": 50,
+    "notified_at": "2026-11-06T19:55:10.104Z"
+  },
+  "bairesdev::ingeniero de software (.net) - remote work | ref#303245": {
+    "title": "Ingeniero de Software (.NET) - Remote Work | REF#303245",
+    "company": "BairesDev",
+    "score": 5,
+    "notified_at": "2026-11-06T19:55:10.110Z"
+  },
+  "salcobrand::disenador y programador de email marketing salesforce": {
+    "title": "Diseñador y Programador de Email Marketing Salesforce",
+    "company": "Salcobrand",
+    "score": 20,
+    "notified_at": "2026-11-06T19:55:32.904Z"
   }
 }
