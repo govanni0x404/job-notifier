@@ -5416,5 +5416,47 @@
     "company": "Salcobrand",
     "score": 20,
     "notified_at": "2026-11-06T19:55:32.904Z"
+  },
+  "bctecnologia::desarrollador full stack – react / next.js / nestjs / typescript": {
+    "title": "Desarrollador Full Stack  – React / Next.js / NestJS / TypeScript",
+    "company": "BCTecnología",
+    "score": 100,
+    "notified_at": "2026-11-07T17:58:35.829Z"
+  },
+  "entel pcs telecomunicaciones sa::consultor maker fullstack": {
+    "title": "Consultor Maker Fullstack",
+    "company": "Entel PCS Telecomunicaciones SA",
+    "score": 25,
+    "notified_at": "2026-11-07T17:58:35.838Z"
+  },
+  "23people::bilingual full-stack java qa": {
+    "title": "Bilingual Full-Stack Java QA",
+    "company": "23people",
+    "score": 0,
+    "notified_at": "2026-11-07T17:58:35.846Z"
+  },
+  "stefanini group::full stack developer senior- react - node.js - hibrido": {
+    "title": "Full Stack Developer Senior- React - Node.js - HIBRIDO",
+    "company": "Stefanini Group",
+    "score": 100,
+    "notified_at": "2026-11-07T17:58:43.656Z"
+  },
+  "enex s. a::analista programador (reemplazo vacaciones)": {
+    "title": "Analista Programador (Reemplazo Vacaciones)",
+    "company": "ENEX S. A",
+    "score": 15,
+    "notified_at": "2026-11-07T17:59:07.430Z"
+  },
+  "seleccion talento pro::analista progamador": {
+    "title": "Analista Progamador",
+    "company": "Selección Talento Pro",
+    "score": 85,
+    "notified_at": "2026-11-07T17:59:07.440Z"
+  },
+  "people go::tecnico programador base rancagua": {
+    "title": "Técnico Programador base Rancagua",
+    "company": "People GO",
+    "score": 15,
+    "notified_at": "2026-11-07T18:00:09.083Z"
   }
 }
