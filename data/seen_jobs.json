@@ -5542,5 +5542,59 @@
     "company": "Confidencial",
     "score": 15,
     "notified_at": "2026-11-08T18:16:53.299Z"
+  },
+  "teletrabajo::desarrollador/a full-stack – front-end & datos": {
+    "title": "Desarrollador/a Full-Stack – Front-end & Datos",
+    "company": "Teletrabajo",
+    "score": 30,
+    "notified_at": "2026-11-09T22:55:42.841Z"
+  },
+  "mandomedio::desarrollador full stack senior- las condes": {
+    "title": "Desarrollador Full Stack Senior- Las Condes",
+    "company": "Mandomedio",
+    "score": 25,
+    "notified_at": "2026-11-09T22:55:42.849Z"
+  },
+  "ulvior::hybrid full-stack developer — build end-to-end apis": {
+    "title": "Hybrid Full-Stack Developer — Build End-to-End APIs",
+    "company": "Ulvior",
+    "score": 15,
+    "notified_at": "2026-11-09T22:55:42.852Z"
+  },
+  "ulvior::senior node.js backend engineer — serverless aws": {
+    "title": "Senior Node.js Backend Engineer — Serverless AWS",
+    "company": "Ulvior",
+    "score": 45,
+    "notified_at": "2026-11-09T22:56:05.684Z"
+  },
+  "enjoy pucon::analista programador": {
+    "title": "Analista Programador",
+    "company": "Enjoy Pucón",
+    "score": 15,
+    "notified_at": "2026-11-09T22:56:13.251Z"
+  },
+  "mm asesorias::analista programador bancario – python/sql, legado": {
+    "title": "Analista Programador Bancario – Python/SQL, Legado",
+    "company": "MM ASESORIAS",
+    "score": 20,
+    "notified_at": "2026-11-09T22:56:13.254Z"
+  },
+  "teletrabajo::especialista desarrollador front-end": {
+    "title": "Especialista Desarrollador Front-end",
+    "company": "Teletrabajo",
+    "score": 30,
+    "notified_at": "2026-11-09T22:56:13.260Z"
+  },
+  "valor unico::desarrollador fullstack practicas de spec driven development - modalidad presencial": {
+    "title": "Desarrollador Fullstack prácticas de Spec Driven Development - Modalidad Presencial",
+    "company": "Valor Unico",
+    "score": 100,
+    "notified_at": "2026-11-09T22:56:20.391Z"
+  },
+  "itred spa.::practica programacion web y sistemas en python y php": {
+    "title": "PRACTICA PROGRAMACION WEB Y SISTEMAS EN PYTHON Y PHP",
+    "company": "ITred Spa.",
+    "score": 40,
+    "notified_at": "2026-11-09T22:56:28.120Z"
   }
 }
