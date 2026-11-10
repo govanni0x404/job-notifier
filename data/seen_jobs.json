@@ -5596,5 +5596,65 @@
     "company": "ITred Spa.",
     "score": 40,
     "notified_at": "2026-11-09T22:56:28.120Z"
+  },
+  "mandomedio::[103301] desarrollador full stack senior- las condes": {
+    "title": "[103301] Desarrollador Full Stack Senior- Las Condes",
+    "company": "MANDOMEDIO",
+    "score": 25,
+    "notified_at": "2026-11-10T20:22:29.555Z"
+  },
+  "ryc consultores::desarrollador/a senior fullstack cloud": {
+    "title": "Desarrollador/a Senior Fullstack Cloud",
+    "company": "RyC Consultores",
+    "score": 80,
+    "notified_at": "2026-11-10T20:22:29.563Z"
+  },
+  "conkord::desarrollador de .net": {
+    "title": "Desarrollador de .NET",
+    "company": "CONKORD",
+    "score": 30,
+    "notified_at": "2026-11-10T20:22:29.572Z"
+  },
+  "adecco chile::desarrollador fullstack developer - santiago centro": {
+    "title": "Desarrollador Fullstack Developer - Santiago Centro",
+    "company": "Adecco Chile",
+    "score": 100,
+    "notified_at": "2026-11-10T20:22:29.575Z"
+  },
+  "tata consultancy services::desarrollador backend node.js/express - ci/cd": {
+    "title": "Desarrollador Backend Node.js/Express - CI/CD",
+    "company": "Tata Consultancy Services",
+    "score": 90,
+    "notified_at": "2026-11-10T20:22:44.061Z"
+  },
+  "automotriz portillo sur ltda::practica profesional – ingenieria informatica": {
+    "title": "Práctica Profesional – Ingeniería Informática",
+    "company": "AUTOMOTRIZ PORTILLO SUR LTDA",
+    "score": 5,
+    "notified_at": "2026-11-10T20:22:47.875Z"
+  },
+  "itred spa.::practica programador backend y frontend": {
+    "title": "PRACTICA PROGRAMADOR BACKEND Y FRONTEND",
+    "company": "ITred Spa.",
+    "score": 55,
+    "notified_at": "2026-11-10T20:22:47.878Z"
+  },
+  "grupo sms chile spa::analista de gestion de accesos ti": {
+    "title": "Analista de Gestion de Accesos TI",
+    "company": "GRUPO SMS CHILE SPA",
+    "score": 5,
+    "notified_at": "2026-11-10T20:22:47.885Z"
+  },
+  "applaudo::senior software engineer — azure/.net & ai-first development": {
+    "title": "Senior Software Engineer — Azure/.NET & AI-First Development",
+    "company": "Applaudo",
+    "score": 15,
+    "notified_at": "2026-11-10T20:22:50.757Z"
+  },
+  "almar water servicios latam::programador, planificador de actividades y recursos – servicio de dewatering": {
+    "title": "Programador, Planificador de Actividades y Recursos – Servicio de Dewatering",
+    "company": "Almar Water Servicios Latam",
+    "score": 15,
+    "notified_at": "2026-11-10T20:22:54.128Z"
   }
 }
