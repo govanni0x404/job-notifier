@@ -5656,5 +5656,47 @@
     "company": "Almar Water Servicios Latam",
     "score": 15,
     "notified_at": "2026-11-10T20:22:54.128Z"
+  },
+  "bc tecnologia::desarrollador/a full-stack java/angular full time": {
+    "title": "Desarrollador/a Full-Stack Java/angular Full time",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-11-11T20:05:15.615Z"
+  },
+  "teletrabajo::desarrollador/a full-stack - front-end & datos": {
+    "title": "Desarrollador/a Full-Stack - Front-end & Datos",
+    "company": "Teletrabajo",
+    "score": 30,
+    "notified_at": "2026-11-11T20:05:15.621Z"
+  },
+  "workcapit::desarrollador backend (go + nodejs)": {
+    "title": "Desarrollador Backend (Go + NodeJS)",
+    "company": "WorkCapIT",
+    "score": 100,
+    "notified_at": "2026-11-11T20:05:28.737Z"
+  },
+  "ulvior::node.js back-end engineer (senior)": {
+    "title": "Node.js Back-end Engineer (Senior)",
+    "company": "Ulvior",
+    "score": 35,
+    "notified_at": "2026-11-11T20:05:28.742Z"
+  },
+  "conkord::desarrollador.net": {
+    "title": "Desarrollador.Net",
+    "company": "CONKORD",
+    "score": 30,
+    "notified_at": "2026-11-11T20:05:47.944Z"
+  },
+  "haintech solutions::desarrollador py senior": {
+    "title": "Desarrollador PY Senior",
+    "company": "Haintech Solutions",
+    "score": 30,
+    "notified_at": "2026-11-11T20:05:54.179Z"
+  },
+  "3it::desarrollador backend con microservicios e ia": {
+    "title": "Desarrollador Backend con Microservicios e IA",
+    "company": "3IT",
+    "score": 30,
+    "notified_at": "2026-11-11T20:05:54.183Z"
   }
 }
