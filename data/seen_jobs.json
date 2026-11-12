@@ -5698,5 +5698,65 @@
     "company": "3IT",
     "score": 30,
     "notified_at": "2026-11-11T20:05:54.183Z"
+  },
+  "kibernum::fullstack senior: node.js, nestjs & react": {
+    "title": "Fullstack Senior: Node.js, NestJS & React",
+    "company": "Kibernum",
+    "score": 85,
+    "notified_at": "2026-11-12T20:42:58.261Z"
+  },
+  "glencore::sap full stack developer": {
+    "title": "SAP Full Stack Developer",
+    "company": "Glencore",
+    "score": 15,
+    "notified_at": "2026-11-12T20:42:58.270Z"
+  },
+  "digital links inc::lead full stack front end developer (react, typescript, node.js) - chile": {
+    "title": "Lead Full Stack Front End Developer (React, TypeScript, Node.js) - Chile",
+    "company": "Digital Links Inc",
+    "score": 70,
+    "notified_at": "2026-11-12T20:42:58.275Z"
+  },
+  "zenta group::desarrollador/a backend senior | java spring boot / node.js | gcp | riesgo de credito": {
+    "title": "Desarrollador/a Backend Senior | Java Spring Boot / Node.js | GCP | Riesgo de Crédito",
+    "company": "Zenta Group",
+    "score": 75,
+    "notified_at": "2026-11-12T20:43:05.185Z"
+  },
+  "comunicaciones geoaustral limitada::practica soporte/informatica/telecomunciaciones": {
+    "title": "Practica Soporte/Informatica/telecomunciaciones",
+    "company": "Comunicaciones Geoaustral limitada",
+    "score": 0,
+    "notified_at": "2026-11-12T20:43:15.366Z"
+  },
+  "kibernum s.a.::desarrollador/a middleware senior": {
+    "title": "Desarrollador/a Middleware Senior",
+    "company": "KIBERNUM S.A.",
+    "score": 50,
+    "notified_at": "2026-11-12T20:43:19.333Z"
+  },
+  "2x3::se buscan desarrolladores de software | desarrollo software": {
+    "title": "Se Buscan Desarrolladores de Software | Desarrollo Software",
+    "company": "2x3",
+    "score": 15,
+    "notified_at": "2026-11-12T20:43:19.337Z"
+  },
+  "confidencial::desarrollador fullstack: react/node (presencial)": {
+    "title": "Desarrollador Fullstack: React/Node (Presencial)",
+    "company": "CONFIDENCIAL",
+    "score": 60,
+    "notified_at": "2026-11-12T20:43:19.340Z"
+  },
+  "awna::¡buscamos desarrollador/a web full stack!": {
+    "title": "¡Buscamos Desarrollador/a Web Full Stack!",
+    "company": "Awna",
+    "score": 60,
+    "notified_at": "2026-11-12T20:43:21.626Z"
+  },
+  "eurofirms chile::programador / planificador de mantenimiento / tocopilla": {
+    "title": "Programador / Planificador de Mantenimiento / Tocopilla",
+    "company": "Eurofirms Chile",
+    "score": 15,
+    "notified_at": "2026-11-12T20:43:21.633Z"
   }
 }
