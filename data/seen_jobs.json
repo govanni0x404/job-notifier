@@ -5818,5 +5818,77 @@
     "company": "TGP",
     "score": 50,
     "notified_at": "2026-11-13T20:25:13.376Z"
+  },
+  "kibernum::desarrollador fullstack python": {
+    "title": "Desarrollador Fullstack Python",
+    "company": "Kibernum",
+    "score": 65,
+    "notified_at": "2026-11-14T18:40:58.696Z"
+  },
+  "3it::desarrollador full stack senior - java + angularjs": {
+    "title": "Desarrollador Full Stack Senior - Java + AngularJS",
+    "company": "3IT",
+    "score": 20,
+    "notified_at": "2026-11-14T18:40:58.702Z"
+  },
+  "teletrabajo::desarrollador fullstack .net (ingles) - remoto": {
+    "title": "Desarrollador Fullstack .Net (Inglés) - Remoto",
+    "company": "Teletrabajo",
+    "score": 60,
+    "notified_at": "2026-11-14T18:40:58.706Z"
+  },
+  "acl::desarrollador/a backend python – gcp": {
+    "title": "Desarrollador/a Backend Python – GCP",
+    "company": "ACL",
+    "score": 70,
+    "notified_at": "2026-11-14T18:40:58.708Z"
+  },
+  "bc tecnologia::full stack node.js, typescript y react": {
+    "title": "Full Stack Node.js, TypeScript y React",
+    "company": "BC Tecnologia",
+    "score": 65,
+    "notified_at": "2026-11-14T18:40:58.712Z"
+  },
+  "bctecnologia::full stack semi senior – node.js / typescript / react / ia - hibrido": {
+    "title": "Full Stack Semi Senior – Node.js / TypeScript / React / IA - Hibrido",
+    "company": "BCTecnología",
+    "score": 65,
+    "notified_at": "2026-11-14T18:41:01.388Z"
+  },
+  "zenta group::senior backend engineer - java spring boot, node.js, gcp": {
+    "title": "Senior Backend Engineer - Java Spring Boot, Node.js, GCP",
+    "company": "Zenta Group",
+    "score": 45,
+    "notified_at": "2026-11-14T18:41:01.395Z"
+  },
+  "achs servicios::ingeniero analista programador/ tierra amarilla / turno 5x2": {
+    "title": "Ingeniero Analista Programador/ Tierra Amarilla / Turno 5x2",
+    "company": "Achs Servicios",
+    "score": 15,
+    "notified_at": "2026-11-14T18:41:03.206Z"
+  },
+  "prosud s.a.::analista desarrollador/a de tecnologia": {
+    "title": "Analista Desarrollador/a de Tecnología",
+    "company": "Prosud S.A.",
+    "score": 55,
+    "notified_at": "2026-11-14T18:41:03.210Z"
+  },
+  "coldwell banker chile::analista o programador informatica": {
+    "title": "Analista o Programador informática",
+    "company": "COLDWELL BANKER CHILE",
+    "score": 15,
+    "notified_at": "2026-11-14T18:41:03.212Z"
+  },
+  "manpower chile::desarrollador/a full stack .net - santiago de chile": {
+    "title": "Desarrollador/a Full Stack .Net - Santiago de Chile",
+    "company": "Manpower Chile",
+    "score": 30,
+    "notified_at": "2026-11-14T18:41:04.321Z"
+  },
+  "sonda::desarrollador oracle": {
+    "title": "Desarrollador Oracle",
+    "company": "SONDA",
+    "score": 60,
+    "notified_at": "2026-11-14T18:41:04.325Z"
   }
 }
