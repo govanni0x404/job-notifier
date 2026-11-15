@@ -5890,5 +5890,83 @@
     "company": "SONDA",
     "score": 60,
     "notified_at": "2026-11-14T18:41:04.325Z"
+  },
+  "kibernum s.a.::desarrollador fullstack python gcp": {
+    "title": "Desarrollador Fullstack Python GCP",
+    "company": "KIBERNUM S.A.",
+    "score": 65,
+    "notified_at": "2026-11-15T19:17:33.848Z"
+  },
+  "bc tecnologia::desarrollador/a full stack java / angular": {
+    "title": "Desarrollador/a Full Stack Java / Angular",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-11-15T19:17:33.852Z"
+  },
+  "ulvior::desarrollador full-stack java/angular - hibrido (remoto+presencial)": {
+    "title": "Desarrollador Full-Stack Java/Angular - Híbrido (Remoto+Presencial)",
+    "company": "Ulvior",
+    "score": 50,
+    "notified_at": "2026-11-15T19:17:33.856Z"
+  },
+  "mandomedio::desarrollador full stack senior - ia y arquitectura": {
+    "title": "Desarrollador Full Stack Senior - IA y Arquitectura",
+    "company": "Mandomedio",
+    "score": 25,
+    "notified_at": "2026-11-15T19:17:33.861Z"
+  },
+  "teletrabajo::full-stack engineer (react / .net / aws)": {
+    "title": "Full-Stack Engineer (React / .NET / AWS)",
+    "company": "Teletrabajo",
+    "score": 45,
+    "notified_at": "2026-11-15T19:17:33.866Z"
+  },
+  "bctecnologia::desarrollador/a full stack – frontend y datos - remoto": {
+    "title": "Desarrollador/a Full Stack – Frontend y Datos - Remoto",
+    "company": "BCTecnología",
+    "score": 30,
+    "notified_at": "2026-11-15T19:17:33.870Z"
+  },
+  "ulvior::dev full-stack node.js / react": {
+    "title": "Dev Full-Stack Node.js / React",
+    "company": "Ulvior",
+    "score": 70,
+    "notified_at": "2026-11-15T19:17:37.086Z"
+  },
+  "bc tecnologia::full-stack semi senior – node.js / typescript / react / ia": {
+    "title": "Full-Stack Semi Senior – Node.js / TypeScript / React / IA",
+    "company": "BC Tecnología",
+    "score": 45,
+    "notified_at": "2026-11-15T19:17:37.093Z"
+  },
+  "tata consultancy services::it trainee - programador junior": {
+    "title": "IT Trainee - Programador Junior",
+    "company": "Tata Consultancy Services",
+    "score": 15,
+    "notified_at": "2026-11-15T19:17:44.177Z"
+  },
+  "consorcio::desarrollador/a de software": {
+    "title": "Desarrollador/a de Software",
+    "company": "Consorcio",
+    "score": 20,
+    "notified_at": "2026-11-15T19:17:45.683Z"
+  },
+  "progestion chile::desarrollador back end (proyecto 3 meses)": {
+    "title": "Desarrollador Back End (Proyecto 3 meses)",
+    "company": "Progestion Chile",
+    "score": 60,
+    "notified_at": "2026-11-15T19:17:45.687Z"
+  },
+  "ulvior::desarrollador/a back-end python (aws)": {
+    "title": "Desarrollador/a Back-end Python (AWS)",
+    "company": "Ulvior",
+    "score": 65,
+    "notified_at": "2026-11-15T19:17:45.691Z"
+  },
+  "teletrabajo::desarrollador senior c# / .net maui (ios)": {
+    "title": "Desarrollador Senior C# / .NET Maui (iOS)",
+    "company": "Teletrabajo",
+    "score": 20,
+    "notified_at": "2026-11-15T19:17:45.695Z"
   }
 }
