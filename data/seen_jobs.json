@@ -5968,5 +5968,77 @@
     "company": "Teletrabajo",
     "score": 20,
     "notified_at": "2026-11-15T19:17:45.695Z"
+  },
+  "lenor chile spa::desarrollador(a) de software full stack": {
+    "title": "Desarrollador(a) de Software Full Stack",
+    "company": "LENOR CHILE SPA",
+    "score": 100,
+    "notified_at": "2026-11-16T22:47:50.864Z"
+  },
+  "ulvior::hybrid full-stack engineer | node.js, ts, react + ai": {
+    "title": "Hybrid Full-Stack Engineer | Node.js, TS, React + AI",
+    "company": "Ulvior",
+    "score": 45,
+    "notified_at": "2026-11-16T22:47:50.869Z"
+  },
+  "confidencial::desarrollador full stack .net/react & blazor – santiago": {
+    "title": "Desarrollador Full Stack .NET/React & Blazor – Santiago",
+    "company": "CONFIDENCIAL",
+    "score": 30,
+    "notified_at": "2026-11-16T22:47:50.873Z"
+  },
+  "tata consultancy services chile s.a.::desarrollador backend node.js/express - bech": {
+    "title": "Desarrollador Backend Node.js/Express - BECH",
+    "company": "TATA CONSULTANCY SERVICES CHILE S.A.",
+    "score": 90,
+    "notified_at": "2026-11-16T22:47:54.732Z"
+  },
+  "surdent ltda::practica analista programador": {
+    "title": "PRÁCTICA ANALISTA PROGRAMADOR",
+    "company": "Surdent Ltda",
+    "score": 15,
+    "notified_at": "2026-11-16T22:48:01.912Z"
+  },
+  "colodwell banker::analista programador": {
+    "title": "Analista Programador",
+    "company": "Colodwell Banker",
+    "score": 15,
+    "notified_at": "2026-11-16T22:48:01.916Z"
+  },
+  "confidencial::desarrollador/a fullstack senior": {
+    "title": "Desarrollador/a Fullstack Senior",
+    "company": "Confidencial",
+    "score": 65,
+    "notified_at": "2026-11-16T22:48:03.458Z"
+  },
+  "ingenieria y servicios delonix ltda::desarrollador informatico": {
+    "title": "DESARROLLADOR INFORMATICO",
+    "company": "Ingeniería y Servicios Delonix ltda",
+    "score": 25,
+    "notified_at": "2026-11-16T22:48:03.461Z"
+  },
+  "bc tecnologia::desarrollador full-stack java/angular apis y devsecops hybrid": {
+    "title": "Desarrollador Full-Stack Java/Angular APIs y DevSecOps Hybrid",
+    "company": "BC Tecnología",
+    "score": 15,
+    "notified_at": "2026-11-16T22:48:03.467Z"
+  },
+  "kibernum s.a.::desarrollador/a mobile senior": {
+    "title": "Desarrollador/a Mobile Senior",
+    "company": "KIBERNUM S.A.",
+    "score": 70,
+    "notified_at": "2026-11-16T22:48:04.521Z"
+  },
+  "webdox::desarrollador web scraper hybrid para ia": {
+    "title": "Desarrollador Web Scraper Hybrid para IA",
+    "company": "Webdox",
+    "score": 20,
+    "notified_at": "2026-11-16T22:48:04.524Z"
+  },
+  "mastersoft s a::desarrollador/programador para empresa de desarrollo de software": {
+    "title": "Desarrollador/programador para empresa de desarrollo de software",
+    "company": "MASTERSOFT S A",
+    "score": 20,
+    "notified_at": "2026-11-16T22:48:04.526Z"
   }
 }
