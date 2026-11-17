@@ -6040,5 +6040,83 @@
     "company": "MASTERSOFT S A",
     "score": 20,
     "notified_at": "2026-11-16T22:48:04.526Z"
+  },
+  "soho::desarrollador fullstack ssr - react node aws": {
+    "title": "Desarrollador Fullstack Ssr - React Node AWS",
+    "company": "Soho",
+    "score": 65,
+    "notified_at": "2026-11-17T21:37:15.701Z"
+  },
+  "apiux tech::desarrollador fullstack para oci: react + spring boot": {
+    "title": "Desarrollador Fullstack para OCI: React + Spring Boot",
+    "company": "Apiux Tech",
+    "score": 35,
+    "notified_at": "2026-11-17T21:37:15.707Z"
+  },
+  "laboratorio laboral spa::full-stack developer": {
+    "title": "Full-Stack Developer",
+    "company": "Laboratorio Laboral SPA",
+    "score": 100,
+    "notified_at": "2026-11-17T21:37:15.715Z"
+  },
+  "aeolabs::desarrollador/a full stack angular/react + .net – innovacion": {
+    "title": "Desarrollador/a Full Stack Angular/React + .NET – Innovación",
+    "company": "Aeolabs",
+    "score": 30,
+    "notified_at": "2026-11-17T21:37:15.718Z"
+  },
+  "stefanini latam::sr backend developer (node.js)": {
+    "title": "Sr Backend Developer (Node.js)",
+    "company": "Stefanini LATAM",
+    "score": 100,
+    "notified_at": "2026-11-17T21:37:17.627Z"
+  },
+  "ulvior::full-stack semi senior - node.js / typescript / react / ia": {
+    "title": "Full-Stack Semi Senior - Node.js / TypeScript / React / IA",
+    "company": "Ulvior",
+    "score": 45,
+    "notified_at": "2026-11-17T21:37:17.635Z"
+  },
+  "television nacional de chile::practica profesional ingenieria en informatica / analista programador/ desarrollo de software": {
+    "title": "Práctica Profesional Ingeniería en Informática / Analista Programador/ Desarrollo de Software",
+    "company": "Televisión Nacional de Chile",
+    "score": 45,
+    "notified_at": "2026-11-17T21:37:19.831Z"
+  },
+  "nagu corporation ❘ ナグ・コーポレーション::desarrollador de software - practica profesional": {
+    "title": "Desarrollador de Software - Práctica profesional",
+    "company": "Nagu Corporation ❘ ナグ・コーポレーション",
+    "score": 80,
+    "notified_at": "2026-11-17T21:37:21.525Z"
+  },
+  "bairesdev::desarrollador de software ios - trabajo remoto": {
+    "title": "Desarrollador de Software iOS - Trabajo Remoto",
+    "company": "BairesDev",
+    "score": 15,
+    "notified_at": "2026-11-17T21:37:21.529Z"
+  },
+  "abenis::desarrolladores .net - jornada presencial": {
+    "title": "Desarrolladores .NET - Jornada Presencial",
+    "company": "Abenis",
+    "score": 40,
+    "notified_at": "2026-11-17T21:37:21.533Z"
+  },
+  "bc tecnologia::desarrollador/a full-stack java/angular": {
+    "title": "Desarrollador/a Full-Stack Java/angular",
+    "company": "BC Tecnología",
+    "score": 50,
+    "notified_at": "2026-11-17T21:37:21.541Z"
+  },
+  "realtek chile::programador ia y automatizacion": {
+    "title": "Programador IA y Automatización",
+    "company": "Realtek Chile",
+    "score": 65,
+    "notified_at": "2026-11-17T21:37:25.310Z"
+  },
+  "sismapro::laravel & mysql web developer (autonomous)": {
+    "title": "Laravel & MySQL Web Developer (Autonomous)",
+    "company": "Sismapro",
+    "score": 25,
+    "notified_at": "2026-11-17T21:37:25.318Z"
   }
 }
