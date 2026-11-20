@@ -6268,5 +6268,65 @@
     "company": "Abenis",
     "score": 40,
     "notified_at": "2026-11-19T21:16:41.935Z"
+  },
+  "drimo::full stack developer": {
+    "title": "Full Stack Developer",
+    "company": "Drimo",
+    "score": 30,
+    "notified_at": "2026-11-20T20:58:26.043Z"
+  },
+  "confidencial::desarrollador/a full stack mean (angular · node.js · mongodb)": {
+    "title": "Desarrollador/a Full Stack MEAN (Angular · Node.js · MongoDB)",
+    "company": "Confidencial",
+    "score": 65,
+    "notified_at": "2026-11-20T20:58:26.050Z"
+  },
+  "kibernum s.a.::desarrollador fullstack node.js / react (reemplazo)": {
+    "title": "Desarrollador Fullstack Node.js / React (Reemplazo)",
+    "company": "KIBERNUM S.A.",
+    "score": 100,
+    "notified_at": "2026-11-20T20:58:26.058Z"
+  },
+  "hpdm entretencion::desarrollador full stack": {
+    "title": "Desarrollador Full Stack",
+    "company": "HPDM Entretención",
+    "score": 100,
+    "notified_at": "2026-11-20T20:58:26.064Z"
+  },
+  "prontopaga::node.js backend engineer": {
+    "title": "Node.js Backend Engineer",
+    "company": "ProntoPaga",
+    "score": 45,
+    "notified_at": "2026-11-20T20:58:31.147Z"
+  },
+  "groupe sii::analista programador cobol": {
+    "title": "Analista Programador Cobol",
+    "company": "Groupe Sii",
+    "score": 15,
+    "notified_at": "2026-11-20T20:58:33.544Z"
+  },
+  "empresas humannet::analista desarrollador": {
+    "title": "Analista Desarrollador",
+    "company": "Empresas HumanNet",
+    "score": 20,
+    "notified_at": "2026-11-20T20:58:33.555Z"
+  },
+  "onvision consulting::practicante de informatica – consultoria ti y mesa de ayuda": {
+    "title": "Practicante de Informática – Consultoría TI y Mesa de Ayuda",
+    "company": "Onvision Consulting",
+    "score": 5,
+    "notified_at": "2026-11-20T20:58:33.560Z"
+  },
+  "empresas humannet - chile::analista desarrollador": {
+    "title": "Analista Desarrollador",
+    "company": "Empresas HumanNet - Chile",
+    "score": 20,
+    "notified_at": "2026-11-20T20:58:33.568Z"
+  },
+  "abenis::desarrolladores .net jornada presencial": {
+    "title": "Desarrolladores .NET Jornada Presencial",
+    "company": "Abenis",
+    "score": 40,
+    "notified_at": "2026-11-20T20:58:38.122Z"
   }
 }
