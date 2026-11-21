@@ -6328,5 +6328,71 @@
     "company": "Abenis",
     "score": 40,
     "notified_at": "2026-11-20T20:58:38.122Z"
+  },
+  "kibernum::desarrollador(a) full stack – python / angular": {
+    "title": "Desarrollador(a) Full Stack – Python / Angular",
+    "company": "Kibernum",
+    "score": 20,
+    "notified_at": "2026-11-21T19:59:29.584Z"
+  },
+  "importante empresa del sector::desarrollador full-stack (html, css, php, mysql)": {
+    "title": "Desarrollador Full-Stack (HTML, CSS, PHP, MYSQL)",
+    "company": "Importante empresa del sector",
+    "score": 100,
+    "notified_at": "2026-11-21T19:59:29.593Z"
+  },
+  "it hunter (chile)::desarrollador full stack – impacto en educacion web": {
+    "title": "Desarrollador Full Stack – Impacto en Educación Web",
+    "company": "IT Hunter (Chile)",
+    "score": 15,
+    "notified_at": "2026-11-21T19:59:29.598Z"
+  },
+  "puelche hc::desarrollador(a) full-stack senior": {
+    "title": "Desarrollador(a) Full-Stack Senior",
+    "company": "Puelche HC",
+    "score": 60,
+    "notified_at": "2026-11-21T19:59:29.608Z"
+  },
+  "kabeli seleccion::desarrollador back end (nodejs - aws)": {
+    "title": "Desarrollador Back End (Nodejs - AWS)",
+    "company": "Kabeli Selección",
+    "score": 100,
+    "notified_at": "2026-11-21T19:59:32.265Z"
+  },
+  "bairesdev::node.js junior developer - remote | ref#309820": {
+    "title": "Node.js Junior Developer - Remote | REF#309820",
+    "company": "BairesDev",
+    "score": 65,
+    "notified_at": "2026-11-21T19:59:32.276Z"
+  },
+  "compania cervecerias unidas::practica analista programador control de activos": {
+    "title": "Práctica Analista Programador Control de Activos",
+    "company": "Compañía Cervecerías Unidas",
+    "score": 20,
+    "notified_at": "2026-11-21T19:59:35.458Z"
+  },
+  "stefanini latam::desarrollador/a middleware sr": {
+    "title": "Desarrollador/a Middleware Sr",
+    "company": "Stefanini LATAM",
+    "score": 50,
+    "notified_at": "2026-11-21T19:59:37.998Z"
+  },
+  "stefanini group::desarrollador middleware": {
+    "title": "Desarrollador Middleware",
+    "company": "Stefanini Group",
+    "score": 50,
+    "notified_at": "2026-11-21T19:59:38.006Z"
+  },
+  "actionhub chile::desarrollador de software senior | node.js / nestjs": {
+    "title": "Desarrollador De Software Senior | Node.Js / Nestjs",
+    "company": "Actionhub Chile",
+    "score": 45,
+    "notified_at": "2026-11-21T19:59:38.012Z"
+  },
+  "sbpay::desarrollador backend – microservicios y aws": {
+    "title": "Desarrollador Backend – Microservicios y AWS",
+    "company": "SBPay",
+    "score": 50,
+    "notified_at": "2026-11-21T19:59:41.310Z"
   }
 }
