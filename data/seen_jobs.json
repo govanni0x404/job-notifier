@@ -6436,5 +6436,53 @@
     "company": "Tecnova Soluciones Informáticas",
     "score": 25,
     "notified_at": "2026-11-22T20:14:06.079Z"
+  },
+  "atcom::desarrollador full stack gcp – regional": {
+    "title": "Desarrollador Full Stack GCP – Regional",
+    "company": "Atcom",
+    "score": 20,
+    "notified_at": "2026-11-24T00:39:57.887Z"
+  },
+  "sapindex::desarrollador/a full stack senior - remoto latam - chile": {
+    "title": "Desarrollador/a Full Stack Senior - Remoto LATAM - Chile",
+    "company": "Sapindex",
+    "score": 80,
+    "notified_at": "2026-11-24T00:39:57.893Z"
+  },
+  "3it::full stack go/.net/react": {
+    "title": "Full Stack Go/.NET/React",
+    "company": "3It",
+    "score": 25,
+    "notified_at": "2026-11-24T00:39:57.900Z"
+  },
+  "stefanini latam::back end developer (node.js, typescript e inteligencia artificial)": {
+    "title": "Back End Developer (Node.js, TypeScript e Inteligencia Artificial)",
+    "company": "Stefanini LATAM",
+    "score": 60,
+    "notified_at": "2026-11-24T00:39:59.090Z"
+  },
+  "talento pro::analista programador backend - apis & integraciones": {
+    "title": "Analista Programador Backend - APIs & Integraciones",
+    "company": "Talento Pro",
+    "score": 25,
+    "notified_at": "2026-11-24T00:40:29.970Z"
+  },
+  "crossjoin solutions::junior software engineer - chile": {
+    "title": "Junior Software Engineer - Chile",
+    "company": "Crossjoin Solutions",
+    "score": 40,
+    "notified_at": "2026-11-24T00:40:35.549Z"
+  },
+  "syg soluciones informaticas spa::desarrollador/a de software": {
+    "title": "desarrollador/a de software",
+    "company": "SYG SOLUCIONES INFORMATICAS SPA",
+    "score": 30,
+    "notified_at": "2026-11-24T00:40:35.556Z"
+  },
+  "consistor chile::programador senior fullstack(node.js,react y next.js 13) hibrido": {
+    "title": "Programador Senior Fullstack(Node.Js,React Y Next.Js 13) Hibrido",
+    "company": "Consistor Chile",
+    "score": 55,
+    "notified_at": "2026-11-24T00:40:58.316Z"
   }
 }
