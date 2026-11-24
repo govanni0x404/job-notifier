@@ -6484,5 +6484,53 @@
     "company": "Consistor Chile",
     "score": 55,
     "notified_at": "2026-11-24T00:40:58.316Z"
+  },
+  "magnet::desarrollador full-stack junior (python, django, react) full time": {
+    "title": "Desarrollador Full-Stack Junior (Python, Django, React) Full time",
+    "company": "Magnet",
+    "score": 85,
+    "notified_at": "2026-11-24T22:57:24.239Z"
+  },
+  "perceptual consultores ltda.::desarrollador full stack next.js nestjs - remoto proyecto 2 anos.": {
+    "title": "Desarrollador Full Stack Next.js  NestJS - Remoto Proyecto 2 años.",
+    "company": "Perceptual Consultores Ltda.",
+    "score": 75,
+    "notified_at": "2026-11-24T22:57:24.245Z"
+  },
+  "soho::desarrollador fullstack ssr aws - presencial": {
+    "title": "Desarrollador Fullstack Ssr AWS - Presencial",
+    "company": "Soho",
+    "score": 65,
+    "notified_at": "2026-11-24T22:57:24.249Z"
+  },
+  "ulvior::desarrollador full-stack java / react senior cl": {
+    "title": "Desarrollador Full-Stack Java / React Senior Cl",
+    "company": "Ulvior",
+    "score": 25,
+    "notified_at": "2026-11-24T22:57:24.254Z"
+  },
+  "sii group chile::senior full-stack java engineer for digital transformation": {
+    "title": "Senior Full-Stack Java Engineer for Digital Transformation",
+    "company": "SII Group Chile",
+    "score": 5,
+    "notified_at": "2026-11-24T22:57:24.260Z"
+  },
+  "valio::desarrollador full stack- .net": {
+    "title": "Desarrollador Full Stack- .NET",
+    "company": "Valio",
+    "score": 80,
+    "notified_at": "2026-11-24T22:57:26.652Z"
+  },
+  "bairesdev::php full stack developer - remote work": {
+    "title": "PHP Full Stack Developer - Remote Work",
+    "company": "BairesDev",
+    "score": 90,
+    "notified_at": "2026-11-24T22:57:29.134Z"
+  },
+  "banco de chile::desarrollador fullstack experto — transformacion agil": {
+    "title": "Desarrollador Fullstack Experto — Transformación Ágil",
+    "company": "Banco de Chile",
+    "score": 20,
+    "notified_at": "2026-11-24T22:57:29.140Z"
   }
 }
