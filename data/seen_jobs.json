@@ -6574,5 +6574,89 @@
     "company": "Topsort",
     "score": 5,
     "notified_at": "2026-11-25T22:17:02.383Z"
+  },
+  "magnet::desarrollador full-stack junior (python, django, react)": {
+    "title": "Desarrollador Full-Stack Junior (Python, Django, React)",
+    "company": "Magnet",
+    "score": 85,
+    "notified_at": "2026-11-26T22:11:47.884Z"
+  },
+  "colegium s.a.::desarrollador(a) fullstack sr": {
+    "title": "Desarrollador(a) FullStack Sr",
+    "company": "Colegium S.A.",
+    "score": 65,
+    "notified_at": "2026-11-26T22:11:47.891Z"
+  },
+  "who&co.::remote full-stack developer | chile | 2-4 yrs web": {
+    "title": "Remote Full-Stack Developer | Chile | 2-4 yrs Web",
+    "company": "WHO&Co.",
+    "score": 75,
+    "notified_at": "2026-11-26T22:11:47.896Z"
+  },
+  "who&co.::remote full-stack developer | chile | 2–4 yrs web": {
+    "title": "Remote Full-Stack Developer | Chile | 2–4 yrs Web",
+    "company": "WHO&Co.",
+    "score": 75,
+    "notified_at": "2026-11-26T22:11:47.901Z"
+  },
+  "empresa de tecnologia para la educacion::desarrollador(a) fullstack": {
+    "title": "Desarrollador(a) FullStack",
+    "company": "Empresa de Tecnología para la Educación",
+    "score": 20,
+    "notified_at": "2026-11-26T22:11:47.906Z"
+  },
+  "abenis::desarrolladores fullstack (python / react) - jornada hibrida": {
+    "title": "Desarrolladores FullStack (Python / React) - Jornada Hibrida",
+    "company": "Abenis",
+    "score": 45,
+    "notified_at": "2026-11-26T22:11:47.910Z"
+  },
+  "gi group holding::desarrollador/a full stack php": {
+    "title": "Desarrollador/a Full Stack PHP",
+    "company": "Gi Group Holding",
+    "score": 65,
+    "notified_at": "2026-11-26T22:11:47.914Z"
+  },
+  "avos tech::desarrollador node js": {
+    "title": "Desarrollador  Node Js",
+    "company": "Avos Tech",
+    "score": 60,
+    "notified_at": "2026-11-26T22:12:10.481Z"
+  },
+  "laboratorio milab::programador/a de la produccion": {
+    "title": "Programador/a De La Producción",
+    "company": "Laboratorio Milab",
+    "score": 15,
+    "notified_at": "2026-11-26T22:12:12.945Z"
+  },
+  "mm asesorias::analista programador ibm": {
+    "title": "Analista Programador IBM",
+    "company": "Mm Asesorias",
+    "score": 15,
+    "notified_at": "2026-11-26T22:12:12.958Z"
+  },
+  "3it::desarrollador front-end (remplazo 1 mes)": {
+    "title": "Desarrollador Front-end (Remplazo 1 Mes)",
+    "company": "3IT",
+    "score": 45,
+    "notified_at": "2026-11-26T22:12:31.080Z"
+  },
+  "fixlabs agencia digital::desarrollador/a full stack junior (integraciones)": {
+    "title": "Desarrollador/a Full Stack Junior (Integraciones)",
+    "company": "Fixlabs Agencia Digital",
+    "score": 90,
+    "notified_at": "2026-11-26T22:12:31.086Z"
+  },
+  "it hunter (chile)::desarrollador mobile semi senior - flutter/dart & multiplataforma": {
+    "title": "Desarrollador Mobile Semi Senior - Flutter/Dart & Multiplataforma",
+    "company": "IT Hunter (Chile)",
+    "score": 15,
+    "notified_at": "2026-11-26T22:12:31.091Z"
+  },
+  "banco de chile::desarrollador experto": {
+    "title": "Desarrollador Experto",
+    "company": "Banco de Chile",
+    "score": 35,
+    "notified_at": "2026-11-26T22:12:33.042Z"
   }
 }
