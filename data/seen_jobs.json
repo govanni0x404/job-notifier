@@ -6658,5 +6658,77 @@
     "company": "Banco de Chile",
     "score": 35,
     "notified_at": "2026-11-26T22:12:33.042Z"
+  },
+  "nisum::desarrollador/a full stack (react + python/django)": {
+    "title": "Desarrollador/a Full Stack (React + Python/Django)",
+    "company": "Nisum",
+    "score": 100,
+    "notified_at": "2026-11-27T21:52:04.625Z"
+  },
+  "nisum::desarrollador/a full stack": {
+    "title": "Desarrollador/a Full Stack",
+    "company": "Nisum",
+    "score": 45,
+    "notified_at": "2026-11-27T21:52:04.631Z"
+  },
+  "ulvior::desarrollador full-stack junior con ia - hybrid chile": {
+    "title": "Desarrollador Full-Stack Junior con IA - Hybrid Chile",
+    "company": "Ulvior",
+    "score": 35,
+    "notified_at": "2026-11-27T21:52:04.635Z"
+  },
+  "abenis::desarrolladores java full stack": {
+    "title": "Desarrolladores Java Full Stack",
+    "company": "Abenis",
+    "score": 90,
+    "notified_at": "2026-11-27T21:52:04.638Z"
+  },
+  "atcom::desarrollador web full stack junior | react": {
+    "title": "Desarrollador Web Full Stack Junior | React",
+    "company": "Atcom",
+    "score": 100,
+    "notified_at": "2026-11-27T21:52:04.646Z"
+  },
+  "avos tech::desarrollador backend nodejs junior": {
+    "title": "Desarrollador Backend Nodejs Junior",
+    "company": "Avos Tech",
+    "score": 45,
+    "notified_at": "2026-11-27T21:52:19.849Z"
+  },
+  "experis chile::desaroolador fullstack .net": {
+    "title": "Desaroolador Fullstack .Net",
+    "company": "Experis Chile",
+    "score": 30,
+    "notified_at": "2026-11-27T21:52:24.299Z"
+  },
+  "itau chile::desarrollador back-end": {
+    "title": "Desarrollador back-end",
+    "company": "Itaú Chile",
+    "score": 55,
+    "notified_at": "2026-11-27T21:52:24.302Z"
+  },
+  "sonda::desarrollador junior": {
+    "title": "Desarrollador Junior",
+    "company": "SONDA",
+    "score": 35,
+    "notified_at": "2026-11-27T21:52:24.306Z"
+  },
+  "kdu ingenieria::desarrollador senior fulls-stack (java/angular)": {
+    "title": "DESARROLLADOR SENIOR FULLS-STACK (JAVA/ANGULAR)",
+    "company": "KDU Ingeniería",
+    "score": 70,
+    "notified_at": "2026-11-27T21:52:24.310Z"
+  },
+  "empleos.cl::desarrollador web": {
+    "title": "Desarrollador Web",
+    "company": "empleos.cl",
+    "score": 40,
+    "notified_at": "2026-11-27T21:52:27.111Z"
+  },
+  "abenis::desarrolladores fullstack (python / react)": {
+    "title": "Desarrolladores FullStack (Python / React)",
+    "company": "Abenis",
+    "score": 45,
+    "notified_at": "2026-11-27T21:52:27.116Z"
   }
 }
